@@ -1,0 +1,65 @@
+[
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "পদার্থবিজ্ঞান ১ম পত্র",
+    "অধ্যায়": {
+      "ভৌত জগৎ ও পরিমাপ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH01.json",
+      "ভেক্টর": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH02.json",
+      "নিউটোনীয় বলবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH03.json",
+      "কাজ, শক্তি ও ক্ষমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH04.json",
+      "মহাকর্ষ ও অভিকর্ষ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH05.json",
+      "পদার্থের গাঠনিক ধর্ম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH06.json",
+      "পর্যাবৃত্ত গতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH07.json",
+      "তরঙ্গ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH08.json",
+      "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P01CH09.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "পদার্থবিজ্ঞান ২য় পত্র",
+    "অধ্যায়": {
+      "তাপগতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH01.json",
+      "স্থির তড়িৎ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH02.json",
+      "চলতড়িৎ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH03.json",
+      "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH04.json",
+      "তাড়িতচুম্বকীয় আবেশ ও পরিবর্তী প্রবাহ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH05.json",
+      "জ্যামিতিক আলোকবিজ্ঞান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH06.json",
+      "ভৌত আলোকবিজ্ঞান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH07.json",
+      "আধুনিক পদার্থবিজ্ঞানের সূচনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH08.json",
+      "পরমাণুর মডেল এবং নিউক্লিয়ার পদার্থবিজ্ঞান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH09.json",
+      "সেমিকন্ডাক্টর ও ইলেকট্রনিকস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH10.json",
+      "জ্যোতির্বিজ্ঞান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH11.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "উচ্চতর গণিত ১ম পত্র",
+    "অধ্যায়": {
+      "ম্যাট্রিক্স ও নির্ণায়ক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH01.json",
+      "ভেক্টর": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH02.json",
+      "সরলরেখা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH03.json",
+      "বৃত্ত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH04.json",
+      "বিন্যাস ও সমাবেশ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH05.json",
+      "ত্রিকোণমিতিক অনুপাত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH06.json",
+      "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH07.json",
+      "ফাংশন ও ফাংশনের লেখচিত্র": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH08.json",
+      "অন্তরীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH09.json",
+      "যোগজীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM01CH10.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "উচ্চতর গণিত ২য় পত্র",
+    "অধ্যায়": {
+      "বাস্তব সংখ্যা ও অসমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH01.json",
+      "বহুপদী ও বহুপদী সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH02.json",
+      "জটিল সংখ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH03.json",
+      "কণিক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH04.json",
+      "দ্বিপদী বিস্তৃতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH05.json",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH06.json",
+      "স্থিতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH07.json",
+      "গতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH08.json",
+      "সম্ভাবনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH09.json"
+    }
+  }
+]
