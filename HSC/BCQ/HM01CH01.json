@@ -49,7 +49,7 @@
   "উদ্দীপক": {
     "title": "ঢাকা বোর্ড ২০২৩",
     "description": "দৃশ্যকল্প-১: $x+y+z=1$, $x+2y+z=2$, $x+y+2z=0$ \nদৃশ্যকল্প-২: $D = 8 \\begin{vmatrix} \\frac{p-q-r}{2} & p & p \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$",
-    "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/DB23.png"
+    "image": ""
   },
   "প্রশ্নাবলী": [
     {
