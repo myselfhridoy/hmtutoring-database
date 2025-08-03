@@ -41,46 +41,46 @@
     ]
   },
   {
-    "id": "cqhm01ch01DB23q1",
-    "subject": "উচ্চতর গণিত ১ম পত্র",
-    "chapter_no": "ch01",
-    "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
-    "source": "ঢাকা বোর্ড ২০২৩",
-    "উদ্দীপক": {
-      "title": "ঢাকা বোর্ড ২০২৩",
-      "description": "দৃশ্যকল্প-১: $x+y+z=1$, $x+2y+z=2$, $x+y+2z=0$ \nদৃশ্যকল্প-২: $D = 8 \\begin{vmatrix} \\frac{p-q-r}{2} & p & p \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$",
-      "image": ""
-    },
-    "প্রশ্নাবলী": [
-      {
-        "ক্রমিক": "ক",
-        "প্রশ্ন": "$A = \\begin{pmatrix} 1 & 2 & 3 \\end{pmatrix}$ এবং $B = \\begin{pmatrix} 3 \\\\ 2 \\\\ 1 \\end{pmatrix}$ হলে $(AB)^t$ নির্ণয় কর।",
-        "ধরন": "Understanding",
-        "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
-        "topic": "ম্যাট্রিক্সের গুণ ও ট্রান্সপোজ",
-        "source": "ঢাকা বোর্ড ২০২৩",
-        "উত্তর": "প্রথমে $A$ ও $B$ ম্যাট্রিক্স গুণ করি।\n$AB = \\begin{pmatrix} 1 & 2 & 3 \\end{pmatrix} \\begin{pmatrix} 3 \\\\ 2 \\\\ 1 \\end{pmatrix} = \\begin{pmatrix} 1 \\times 3 + 2 \\times 2 + 3 \\times 1 \\end{pmatrix} = \\begin{pmatrix} 3+4+3 \\end{pmatrix} = \\begin{pmatrix} 10 \\end{pmatrix}$।\nএটি একটি $1 \\times 1$ ম্যাট্রিক্স।\nএখন, $(AB)^t = \\begin{pmatrix} 10 \\end{pmatrix}^t = \\begin{pmatrix} 10 \\end{pmatrix}$।"
-      },
-      {
-        "ক্রমিক": "খ",
-        "প্রশ্ন": "দৃশ্যকল্প-১ এ উল্লিখিত সমীকরণ জোট নির্ণায়কের সাহায্যে সমাধান কর।",
-        "ধরন": "Application",
-        "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
-        "topic": "ক্রেমারের নিয়ম",
-        "source": "ঢাকা বোর্ড ২০২৩",
-        "উত্তর": "প্রদত্ত সমীকরণ জোট: $x+y+z=1$, $x+2y+z=2$, $x+y+2z=0$।\nক্রেমারের নিয়মানুসারে, $x = \\frac{D_x}{D}, y = \\frac{D_y}{D}, z = \\frac{D_z}{D}$।\n$D = \\begin{vmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 1 & 2 \\end{vmatrix} = 1(4-1) - 1(2-1) + 1(1-2) = 3-1-1=1$।\n$D_x = \\begin{vmatrix} 1 & 1 & 1 \\ 2 & 2 & 1 \\ 0 & 1 & 2 \\end{vmatrix} = 1(4-1) - 1(4-0) + 1(2-0) = 3-4+2=1$।\n$D_y = \\begin{vmatrix} 1 & 1 & 1 \\ 1 & 2 & 1 \\ 1 & 0 & 2 \\end{vmatrix} = 1(4-0) - 1(2-1) + 1(0-2) = 4-1-2=1$।\n$D_z = \\begin{vmatrix} 1 & 1 & 1 \\ 1 & 2 & 2 \\ 1 & 1 & 0 \\end{vmatrix} = 1(0-2) - 1(0-2) + 1(1-2) = -2+2-1=-1$।\nসুতরাং, $x = \\frac{1}{1}=1$, $y=\\frac{1}{1}=1$, $z=\\frac{-1}{1}=-1$।\nসমাধান: $(x, y, z) = (1, 1, -1)$।"
-      },
-      {
-        "ক্রমিক": "গ",
-        "প্রশ্ন": "দৃশ্যকল্প-২ থেকে প্রমাণ কর যে, $D = S^3$ যেখানে $S = p+q+r$।",
-        "ধরন": "Higher-order skills",
-        "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
-        "topic": "নির্ণায়কের ধর্ম",
-        "source": "ঢাকা বোর্ড ২০২৩",
-        "উত্তর": "দৃশ্যকল্প-২ এ প্রদত্ত নির্ণায়কটি সম্ভবত ভুল আছে। প্রশ্নমতে, $D = \\begin{vmatrix} p-q-r & 2p & 2p \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$। \nএই সঠিক নির্ণায়কটি সমাধান করলে আমরা পাই,\n$R_1 \\to R_1+R_2+R_3$ প্রয়োগ করে,\n$D = \\begin{vmatrix} p+q+r & p+q+r & p+q+r \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$\n$= (p+q+r) \\begin{vmatrix} 1 & 1 & 1 \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$\n$C_2 \\to C_2-C_1$ এবং $C_3 \\to C_3-C_1$ প্রয়োগ করে,\n$= S \\begin{vmatrix} 1 & 0 & 0 \\\\ 2q & -q-r-p & 0 \\\\ 2r & 0 & -r-p-q \\end{vmatrix}$\n$= S \\begin{vmatrix} 1 & 0 & 0 \\\\ 2q & -S & 0 \\\\ 2r & 0 & -S \\end{vmatrix} = S( (-S)(-S) - 0) = S \\cdot S^2 = S^3$ (প্রমাণিত)।\n(বিঃদ্রঃ উদ্দীপকে প্রদত্ত নির্ণায়কটির মান $\\frac{S^3}{8}$ হয়, যা প্রশ্নের সাথে অসামঞ্জস্যপূর্ণ।)"
-      }
-    ]
+  "id": "cqp01ch01DB23q1",
+  "subject": "উচ্চতর গণিত ১ম পত্র",
+  "chapter_no": "ch01",
+  "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
+  "source": "ঢাকা বোর্ড ২০২৩",
+  "উদ্দীপক": {
+    "title": "ঢাকা বোর্ড ২০২৩",
+    "description": "দৃশ্যকল্প-১: $x+y+z=1$, $x+2y+z=2$, $x+y+2z=0$ \nদৃশ্যকল্প-২: $D = 8 \\begin{vmatrix} \\frac{p-q-r}{2} & p & p \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$",
+    "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/DB23.png"
   },
+  "প্রশ্নাবলী": [
+    {
+      "ক্রমিক": "ক",
+      "প্রশ্ন": "$A = (1 \\ 2 \\ 3)$ এবং $B = \\begin{pmatrix} 3 \\\\ 2 \\\\ 1 \\end{pmatrix}$ হলে, $(AB)^t$ নির্ণয় কর।",
+      "ধরন": "Understanding",
+      "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "topic": "ম্যাট্রিক্সের গুণ ও ট্রান্সপোজ",
+      "source": "ঢাকা বোর্ড ২০২৩",
+      "উত্তর": "$A$ একটি $1 \\times 3$ ম্যাট্রিক্স এবং $B$ একটি $3 \\times 1$ ম্যাট্রিক্স। এদের গুণফল $AB$ একটি $1 \\times 1$ ম্যাট্রিক্স হবে।\n$AB = (1 \\ 2 \\ 3) \\begin{pmatrix} 3 \\\\ 2 \\\\ 1 \\end{pmatrix} = (1 \\times 3 + 2 \\times 2 + 3 \\times 1) = (3+4+3) = (10)$।\nসুতরাং, $(AB)^t = (10)^t = (10)$।"
+    },
+    {
+      "ক্রমিক": "খ",
+      "প্রশ্ন": "দৃশ্যকল্প-১ এ উল্লিখিত সমীকরণ জোট নির্ণায়কের সাহায্যে সমাধান কর।",
+      "ধরন": "Application",
+      "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "topic": "ক্রেমারের নিয়ম",
+      "source": "ঢাকা বোর্ড ২০২৩",
+      "উত্তর": "প্রদত্ত সমীকরণ জোট: \n$x+y+z=1$ \n$x+2y+z=2$ \n$x+y+2z=0$ \n\nনির্ণায়ক পদ্ধতিতে (ক্রেমারের নিয়মে) সমাধানের জন্য আমরা সহগগুলোর নির্ণায়ক $D_{sys}$ এবং $D_x, D_y, D_z$ নির্ণয় করি। (এখানে $D_{sys}$ প্রতীকটি উদ্দীপকের $D$ থেকে আলাদা বোঝানোর জন্য ব্যবহার করা হলো)।\n$D_{sys} = \\begin{vmatrix} 1 & 1 & 1 \\\\ 1 & 2 & 1 \\\\ 1 & 1 & 2 \\end{vmatrix} = 1(4-1) - 1(2-1) + 1(1-2) = 3 - 1 - 1 = 1$।\n$D_x = \\begin{vmatrix} 1 & 1 & 1 \\\\ 2 & 2 & 1 \\\\ 0 & 1 & 2 \\end{vmatrix} = 1(4-1) - 1(4-0) + 1(2-0) = 3 - 4 + 2 = 1$।\n$D_y = \\begin{vmatrix} 1 & 1 & 1 \\\\ 1 & 2 & 1 \\\\ 1 & 0 & 2 \\end{vmatrix} = 1(4-0) - 1(2-1) + 1(0-2) = 4 - 1 - 2 = 1$।\n$D_z = \\begin{vmatrix} 1 & 1 & 1 \\\\ 1 & 2 & 2 \\\\ 1 & 1 & 0 \\end{vmatrix} = 1(0-2) - 1(0-2) + 1(1-2) = -2 + 2 - 1 = -1$।\n\nসুতরাং, $x = \\frac{D_x}{D_{sys}} = \\frac{1}{1} = 1$, \n$y = \\frac{D_y}{D_{sys}} = \\frac{1}{1} = 1$, \n$z = \\frac{D_z}{D_{sys}} = \\frac{-1}{1} = -1$।\nনির্ণেয় সমাধান: $(x, y, z) = (1, 1, -1)$।"
+    },
+    {
+      "ক্রমিক": "গ",
+      "প্রশ্ন": "দৃশ্যকল্প-২ থেকে প্রমাণ কর যে, $D = S^3$ যেখানে $S = p+q+r$।",
+      "ধরন": "Higher-order skills",
+      "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "topic": "নির্ণায়কের ধর্ম",
+      "source": "ঢাকা বোর্ড ২০২৩",
+      "উত্তর": "দৃশ্যকল্প-২ থেকে পাই, $D = 8 \\times \\Delta$ যেখানে, \n$\\Delta = \\begin{vmatrix} \\frac{p-q-r}{2} & p & p \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$।\n\nএখন, $\\Delta$ এর মান নির্ণয় করি।\n$R_1 \\to R_1+R_2+R_3$ প্রয়োগ করে,\n$\\Delta = \\begin{vmatrix} \\frac{p-q-r}{2}+q+r & p+\\frac{q-r-p}{2}+r & p+q+\\frac{r-p-q}{2} \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$ \n$= \\begin{vmatrix} \\frac{p+q+r}{2} & \\frac{p+q+r}{2} & \\frac{p+q+r}{2} \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$।\n\nযেহেতু $S=p+q+r$, প্রথম সারি থেকে $\\frac{S}{2}$ সাধারণ গুণনীয়ক নিয়ে পাই,\n$\\Delta = \\frac{S}{2} \\begin{vmatrix} 1 & 1 & 1 \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$।\n\nএখন $C_2 \\to C_2-C_1$ এবং $C_3 \\to C_3-C_1$ প্রয়োগ করে,\n$\\Delta = \\frac{S}{2} \\begin{vmatrix} 1 & 0 & 0 \\\\ q & \\frac{q-r-p}{2}-q & 0 \\\\ r & 0 & \\frac{r-p-q}{2}-r \\end{vmatrix} = \\frac{S}{2} \\begin{vmatrix} 1 & 0 & 0 \\\\ q & \\frac{-p-q-r}{2} & 0 \\\\ r & 0 & \\frac{-p-q-r}{2} \\end{vmatrix}$।\n\nনির্ণায়কটি বিস্তার করে পাই,\n$\\Delta = \\frac{S}{2} \\left[ 1 \\left( (-\\frac{S}{2})(-\\frac{S}{2}) - 0 \\right) \\right] = \\frac{S}{2} \\cdot \\frac{S^2}{4} = \\frac{S^3}{8}$।\n\nএখন, উদ্দীপকে প্রদত্ত $D$ এর মানে $\\Delta$ এর মান বসিয়ে পাই,\n$D = 8 \\times \\Delta = 8 \\times \\frac{S^3}{8} = S^3$। (প্রমাণিত)।"
+    }
+  ]
+},
   {
     "id": "cqhm01ch01DiB23q7",
     "subject": "উচ্চতর গণিত ১ম পত্র",
