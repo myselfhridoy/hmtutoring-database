@@ -8,13 +8,13 @@
     "উদ্দীপক": {
       "title": "ঢাকা বোর্ড ২০২৩",
       "description": "$P = \\begin{bmatrix} 4 & -1 & 3 \\\\ 0 & 7 & 5 \\\\ 6 & -2 & 2 \\end{bmatrix}$ এবং $Q = \\begin{bmatrix} 0 & 4 & 3 \\\\ -3 & -4 & -5 \\\\ -2 & 1 & 2 \\end{bmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/DB23.png"
     },
     "প্রশ্নাবলী": [
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "$P + Q$ ম্যাট্রিক্সের ট্রেস নির্ণয় কর।",
-        "ধরন": "Application",
+        "ধরন": "Understanding",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্সের যোগ ও ট্রেস",
         "source": "ঢাকা বোর্ড ২০২৩",
@@ -23,7 +23,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "প্রমাণ কর যে, $(PQ)^t = Q^tP^t$।",
-        "ধরন": "Higher-order skills",
+        "ধরন": "Application",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্সের গুণ ও ট্রান্সপোজ ম্যাট্রিক্স",
         "source": "ঢাকা বোর্ড ২০২৩",
@@ -49,13 +49,13 @@
     "উদ্দীপক": {
       "title": "ঢাকা বোর্ড ২০২৩",
       "description": "দৃশ্যকল্প-১: $x+y+z=1$, $x+2y+z=2$, $x+y+2z=0$ \nদৃশ্যকল্প-২: $D = 8 \\begin{vmatrix} \\frac{p-q-r}{2} & p & p \\\\ q & \\frac{q-r-p}{2} & q \\\\ r & r & \\frac{r-p-q}{2} \\end{vmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/DB23.png"
     },
     "প্রশ্নাবলী": [
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "$A = \\begin{pmatrix} 1 & 2 & 3 \\end{pmatrix}$ এবং $B = \\begin{pmatrix} 3 \\\\ 2 \\\\ 1 \\end{pmatrix}$ হলে $(AB)^t$ নির্ণয় কর।",
-        "ধরন": "Application",
+        "ধরন": "Understanding",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্সের গুণ ও ট্রান্সপোজ",
         "source": "ঢাকা বোর্ড ২০২৩",
@@ -77,7 +77,7 @@
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "নির্ণায়কের ধর্ম",
         "source": "ঢাকা বোর্ড ২০২৩",
-        "উত্তর": "দৃশ্যকল্প-২ এ প্রদত্ত নির্ণায়কটি সম্ভবত ভুল আছে। প্রশ্ন应该是 $D = \\begin{vmatrix} p-q-r & 2p & 2p \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$। \nএই সঠিক নির্ণায়কটি সমাধান করলে আমরা পাই,\n$R_1 \\to R_1+R_2+R_3$ প্রয়োগ করে,\n$D = \\begin{vmatrix} p+q+r & p+q+r & p+q+r \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$\n$= (p+q+r) \\begin{vmatrix} 1 & 1 & 1 \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$\n$C_2 \\to C_2-C_1$ এবং $C_3 \\to C_3-C_1$ প্রয়োগ করে,\n$= S \\begin{vmatrix} 1 & 0 & 0 \\\\ 2q & -q-r-p & 0 \\\\ 2r & 0 & -r-p-q \\end{vmatrix}$\n$= S \\begin{vmatrix} 1 & 0 & 0 \\\\ 2q & -S & 0 \\\\ 2r & 0 & -S \\end{vmatrix} = S( (-S)(-S) - 0) = S \\cdot S^2 = S^3$ (প্রমাণিত)।\n(বিঃদ্রঃ উদ্দীপকে প্রদত্ত নির্ণায়কটির মান $\\frac{S^3}{8}$ হয়, যা প্রশ্নের সাথে অসামঞ্জস্যপূর্ণ।)"
+        "উত্তর": "দৃশ্যকল্প-২ এ প্রদত্ত নির্ণায়কটি সম্ভবত ভুল আছে। প্রশ্নমতে, $D = \\begin{vmatrix} p-q-r & 2p & 2p \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$। \nএই সঠিক নির্ণায়কটি সমাধান করলে আমরা পাই,\n$R_1 \\to R_1+R_2+R_3$ প্রয়োগ করে,\n$D = \\begin{vmatrix} p+q+r & p+q+r & p+q+r \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$\n$= (p+q+r) \\begin{vmatrix} 1 & 1 & 1 \\\\ 2q & q-r-p & 2q \\\\ 2r & 2r & r-p-q \\end{vmatrix}$\n$C_2 \\to C_2-C_1$ এবং $C_3 \\to C_3-C_1$ প্রয়োগ করে,\n$= S \\begin{vmatrix} 1 & 0 & 0 \\\\ 2q & -q-r-p & 0 \\\\ 2r & 0 & -r-p-q \\end{vmatrix}$\n$= S \\begin{vmatrix} 1 & 0 & 0 \\\\ 2q & -S & 0 \\\\ 2r & 0 & -S \\end{vmatrix} = S( (-S)(-S) - 0) = S \\cdot S^2 = S^3$ (প্রমাণিত)।\n(বিঃদ্রঃ উদ্দীপকে প্রদত্ত নির্ণায়কটির মান $\\frac{S^3}{8}$ হয়, যা প্রশ্নের সাথে অসামঞ্জস্যপূর্ণ।)"
       }
     ]
   },
@@ -90,7 +90,7 @@
     "উদ্দীপক": {
       "title": "দিনাজপুর বোর্ড ২০২৩",
       "description": "$A = \\begin{bmatrix} 2 & -1 & 1 \\\\ 3 & 1 & -4 \\\\ 5 & 2 & -3 \\end{bmatrix}, B = \\begin{bmatrix} p^2 & qr & 2p \\\\ q^2 & rp & 2q \\\\ r^2 & pq & 2r \\end{bmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/DiB23.png"
     },
     "প্রশ্নাবলী": [
       {
@@ -131,13 +131,13 @@
     "উদ্দীপক": {
       "title": "রাজশাহী বোর্ড ২০২৩",
       "description": "$A = \\begin{bmatrix} 1 & 2 & 1 \\\\ 0 & 1 & -1 \\\\ 3 & -1 & 1 \\end{bmatrix}, \\Delta = \\begin{vmatrix} x-1 & 2 & 3 \\\\ 1 & x-1 & 1 \\\\ 3 & 2 & x-1 \\end{vmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/RB23.png"
     },
     "প্রশ্নাবলী": [
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "$K$ এর কোন মানের জন্য $A = \\begin{bmatrix} K-3 & -1 \\\\ -2 & K-2 \\end{bmatrix}$ ব্যতিক্রমী ম্যাট্রিক্স হবে?",
-        "ধরন": "Application",
+        "ধরন": "Understanding",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ব্যতিক্রমী ম্যাট্রিক্স",
         "source": "রাজশাহী বোর্ড ২০২৩",
@@ -146,7 +146,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "উদ্দীপক হতে $A^3 - 3A^2 - A + 9I = 0$ এর সাহায্যে $A^{-1}$ নির্ণয় কর।",
-        "ধরন": "Higher-order skills",
+        "ধরন": "Application",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্সের সমীকরণ ও বিপরীত ম্যাট্রিক্স",
         "source": "রাজশাহী বোর্ড ২০২৩",
@@ -155,7 +155,7 @@
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "উদ্দীপকের সাহায্যে $|\\Delta + I| = 0$ সমীকরণের সমাধান কর। যেখানে $I$ একটি অভেদক ম্যাট্রিক্স।",
-        "ধরন": "Application",
+        "ধরন": "Higher-order skills",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "নির্ণায়কের সমীকরণ",
         "source": "রাজশাহী বোর্ড ২০২৩",
@@ -172,13 +172,13 @@
     "উদ্দীপক": {
       "title": "ময়মনসিংহ বোর্ড ২০২৩",
       "description": "$A = \\begin{pmatrix} 1 & 4 \\\\ 0 & 1 \\end{pmatrix}, B = \\begin{pmatrix} 1 & m \\\\ 0 & n \\end{pmatrix}, C = \\begin{pmatrix} 0 & 1 & 2 \\\\ 1 & 2 & 0 \\\\ 2 & 0 & 4 \\end{pmatrix}$ এবং $f(x) = x^2+5x+6$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/MSB23.png"
     },
     "প্রশ্নাবলী": [
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "$P = \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$ এবং $Q = \\begin{pmatrix} 4 & 5 & 6 \\end{pmatrix}$ হলে $(PQ)^T$ নির্ণয় কর।",
-        "ধরন": "Application",
+        "ধরন": "Understanding",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্সের গুণ ও ট্রান্সপোজ",
         "source": "ময়মনসিংহ বোর্ড ২০২৩",
@@ -196,7 +196,7 @@
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$f(C)$ নির্ণয় কর।",
-        "ধরন": "Application",
+        "ধরন": "Higher-order skills",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্স বহুপদী",
         "source": "ময়মনসিংহ বোর্ড ২০২৩",
@@ -213,7 +213,7 @@
     "উদ্দীপক": {
       "title": "কুমিল্লা বোর্ড ২০২৩",
       "description": "$A = \\begin{bmatrix} 2 & -1 & 3 \\\\ 1 & 1 & 1 \\\\ 1 & -1 & 2 \\end{bmatrix}, B = \\begin{bmatrix} x \\\\ y \\\\ z \\end{bmatrix}, C = \\begin{bmatrix} 2 \\\\ 5 \\\\ 4 \\end{bmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/CB23.png"
     },
     "প্রশ্নাবলী": [
       {
@@ -237,7 +237,7 @@
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$A^{-1}$ নির্ণয় কর।",
-        "ধরন": "Application",
+        "ধরন": "Higher-order skills",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "বিপরীত ম্যাট্রিক্স নির্ণয়",
         "source": "কুমিল্লা বোর্ড ২০২৩",
@@ -254,13 +254,13 @@
     "উদ্দীপক": {
       "title": "রাজশাহী বোর্ড ২০২৩",
       "description": "দৃশ্যকল্প-১: $x-2y+2z=1, 2x+6y-z=2, x+3y-3z=3$ \nদৃশ্যকল্প-২: $\\Delta = \\begin{vmatrix} 1 & x & x^2 \\\\ 1 & y & y^2 \\\\ 1 & z & z^2 \\end{vmatrix}, \\Delta_1 = \\begin{vmatrix} 1 & 1 & 1 \\\\ yz & zx & xy \\\\ x & y & z \\end{vmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/RB23.png"
     },
     "প্রশ্নাবলী": [
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "দেখাও যে, $\\begin{bmatrix} 2 & -1 \\\\ 3 & -2 \\end{bmatrix}$ একটি অবেদঘাতি (involutory) ম্যাট্রিক্স।",
-        "ধরন": "Application",
+        "ধরন": "Understanding",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ম্যাট্রিক্সের প্রকারভেদ",
         "source": "রাজশাহী বোর্ড ২০২৩",
@@ -273,7 +273,7 @@
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ক্রেমারের নিয়ম",
         "source": "রাজশাহী বোর্ড ২০২৩",
-        "উত্তর": "সমীকরণ জোট: $x-2y+2z=1, 2x+6y-z=2, x+3y-3z=3$।\n$D = \\begin{vmatrix} 1 & -2 & 2 \\\\ 2 & 6 & -1 \\\\ 1 & 3 & -3 \\end{vmatrix} = 1(-18+3) + 2(-6+1) + 2(6-6) = -15-10 = -25$।\n$D_x = \\begin{vmatrix} 1 & -2 & 2 \\\\ 2 & 6 & -1 \\\\ 3 & 3 & -3 \\end{vmatrix} = 1(-18+3) + 2(-6+3) + 2(6-18) = -15-6-24 = -45$।\n$D_y = \\begin{vmatrix} 1 & 1 & 2 \\\\ 2 & 2 & -1 \\\\ 1 & 3 & -3 \\end{vmatrix} = 1(-6+3) - 1(-6+1) + 2(6-2) = -3+5+8 = 10$।\n$D_z = \\begin{vmatrix} 1 & -2 & 1 \\\\ 2 & 6 & 2 \\\\ 1 & 3 & 3 \\end{vmatrix} = 1(18-6) + 2(6-2) + 1(6-6) = 12+8 = 20$।\n$x = \\frac{-45}{-25} = \\frac{9}{5}$, $y = \\frac{10}{-25} = -\\frac{2}{5}$, $z = \\frac{20}{-25} = -\\frac{4}{5}$।"
+        "উত্তর": "সমীকরণ জোট: $x-2y+2z=1, 2x+6y-z=2, x+3y-3z=3$।\n$D = \\begin{vmatrix} 1 & -2 & 2 \\\\ 2 & 6 & -1 \\\\ 1 & 3 & -3 \\end{vmatrix} = 1(-18+3) + 2(-6+1) + 2(6-6) = -15-10 = -25$।\n$D_x = \\begin{vmatrix} 1 & -2 & 2 \\\\ 2 & 6 & -1 \\\\ 3 & 3 & -3 \\end{vmatrix} = 1(-18+3) + 2(-6+3) + 2(6-18) = -15-6-24 = -45$।\n$D_y = \\begin{vmatrix} 1 & 1 & 2 \\\\ 2 & 2 & -1 \\\\ 1 & 3 & -3 \\end{vmatrix} = 1(-6+3) - 1(-6+1) + 2(6-2) = -3+5+8 = 10$।\n$D_z = \\begin{vmatrix} 1 & -2 & 1 \\\\ 2 & 6 & 2 \\\\ 1 & 3 & 3 \\end{vmatrix} = 1(18-6) + 2(6-2) + 1(6-6) = 12+8=20$।\n$x = \\frac{-45}{-25} = \\frac{9}{5}$, $y = \\frac{10}{-25} = -\\frac{2}{5}$, $z = \\frac{20}{-25} = -\\frac{4}{5}$।"
       },
       {
         "ক্রমিক": "গ",
@@ -295,13 +295,13 @@
     "উদ্দীপক": {
       "title": "ময়মনসিংহ বোর্ড ২০২৩",
       "description": "$A = \\begin{pmatrix} (b+c)^2 & a^2 & bc \\\\ (c+a)^2 & b^2 & ca \\\\ (a+b)^2 & c^2 & ab \\end{pmatrix}, B = \\begin{pmatrix} 1 & 0 & 1 \\\\ 0 & 2 & 0 \\\\ 3 & 0 & 1 \\end{pmatrix}, C = \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}, D = \\begin{pmatrix} 1 \\\\ 2 \\\\ 1 \\end{pmatrix}$",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/images/HSC/P01/BCQ/MSB23.png"
     },
     "প্রশ্নাবলী": [
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "বিস্তার না করে প্রমাণ কর যে, $\\begin{vmatrix} 1 & bc & bc(b+c) \\\\ 1 & ca & ca(c+a) \\\\ 1 & ab & ab(a+b) \\end{vmatrix} = 0$।",
-        "ধরন": "Application",
+        "ধরন": "Understanding",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "নির্ণায়কের ধর্ম",
         "source": "ময়মনসিংহ বোর্ড ২০২৩",
@@ -310,7 +310,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "দেখাও যে, $\\det A = (a^2+b^2+c^2)(a+b+c)(a-b)(b-c)(c-a)$।",
-        "ধরন": "Higher-order skills",
+        "ধরন": "Application",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "নির্ণায়কের ধর্ম",
         "source": "ময়মনসিংহ বোর্ড ২০২৩",
@@ -319,7 +319,7 @@
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$BC=D$ হলে ক্রেমারের নিয়মে সমীকরণজোটটি সমাধান কর।",
-        "ধরন": "Application",
+        "ধরন": "Higher-order skills",
         "chapter": "ম্যাট্রিক্স ও নির্ণায়ক",
         "topic": "ক্রেমারের নিয়ম",
         "source": "ময়মনসিংহ বোর্ড ২০২৩",
