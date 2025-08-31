@@ -27,7 +27,7 @@
         "chapter": "ভেক্টর",
         "topic": "",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "আমরা জানি $x-$অক্ষে নির্দেশিত একক ভেক্টরকে $\\hat{i}$ দ্বারা প্রকাশ করা $\\hat{i}$ > $\\hat{i}$ হয় যার মান $|\\hat{i}|=1$ একক। যেহেতু ও সুতরাং $\\hat{i}$ এবং $\\hat{i}$ এর মধ্যবর্তী কোণ $\\theta=0^{\\circ}$। সমান ও সদৃশ ভেক্টর আবার আমরা জানি ভেক্টরের স্কেলার গুণ অনুসারে, $\\hat{\\mathbf{i}} \\cdot \\hat{\\mathbf{i}}=|\\hat{\\mathrm{i}}| \\times|\\hat{\\mathrm{i}}| \\cos \\theta$$=1 \\times 1 \\times \\cos 0^{\\circ}=1$ একক $\\neq 0$ $\\therefore \\hat{\\mathrm{i}}, \\hat{\\mathrm{i}} \\neq 0$ বরং $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=1$  $\\\\ $"
+        "উত্তর": "আমরা জানি $x-$অক্ষে নির্দেশিত একক ভেক্টরকে $\\hat{i}$ দ্বারা প্রকাশ করা হয় যার মান $|\\hat{i}|=1$ একক। যেহেতু ও সুতরাং $\\hat{i}$ এবং $\\hat{i}$ এর মধ্যবর্তী কোণ $\\theta=0^{\\circ}$। সমান ও সদৃশ ভেক্টর আবার আমরা জানি ভেক্টরের স্কেলার গুণ অনুসারে, $\\hat{\\mathbf{i}} \\cdot \\hat{\\mathbf{i}}=|\\hat{\\mathrm{i}}| \\times|\\hat{\\mathrm{i}}| \\cos \\theta$$=1 \\times 1 \\times \\cos 0^{\\circ}=1$ একক $\\neq 0$ $\\therefore \\hat{\\mathrm{i}}, \\hat{\\mathrm{i}} \\neq 0$ বরং $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=1$  $\\\\ $"
       },
       {
         "ক্রমিক": "গ",
@@ -36,7 +36,7 @@
         "chapter": "ভেক্টর",
         "topic": "",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ $A=\\sqrt{2^{2}+3^{2}+5^{2}}=\\sqrt{38}$ $\\theta=\\vec{A} \\text { ও } \\vec{B}$ এর মধ্যবর্তী কোণ $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর লম্ব অভিক্ষেপ $=\\mathrm{B} \\cos \\theta$ যেখানে $\\theta$ হলো $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর মধ্যবর্তী কোণ। বা, $(2 \\hat{i}+3 \\hat{j}+5 \\hat{k})$$(-\\hat{i}+2 \\hat{j}+7 \\hat{k})$$=\\sqrt{38} \\mathrm{~B} \\cos \\theta$ বা, $\\sqrt{38} \\mathrm{~B} \\cos \\theta$$=-2+6+35$ বা, $39=\\sqrt{38} \\cdot B \\cos \\theta$ বা, $B \\cos \\theta=\\frac{39}{\\sqrt{38}}$ $~~~~~~~~~~~~~~~~~~~$=6.33$  $\\therefore \\vec{A}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ লম্ব অভিক্ষেপ $6.33$ (Ans.) $\\\\ $"
+        "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ /n $A=\\sqrt{2^{2}+3^{2}+5^{2}}=\\sqrt{38}$ /n $\\theta=\\vec{A} \\text { ও } \\vec{B}$ এর মধ্যবর্তী কোণ /n $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর লম্ব অভিক্ষেপ $=\\mathrm{B} \\cos \\theta$ /n যেখানে $\\theta$ হলো $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর মধ্যবর্তী কোণ। /n বা, $(2 \\hat{i}+3 \\hat{j}+5 \\hat{k})$$(-\\hat{i}+2 \\hat{j}+7 \\hat{k})$$=\\sqrt{38} \\mathrm{~B} \\cos \\theta$ /n বা, $\\sqrt{38} \\mathrm{~B} \\cos \\theta$$=-2+6+35$ /n বা, $39=\\sqrt{38} \\cdot B \\cos \\theta$ বা, $B \\cos \\theta=\\frac{39}{\\sqrt{38}}$ $~~~~~~~~~~~~~~~~~~~$=6.33$  $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর লম্ব অভিক্ষেপ $6.33$ (Ans.) $\\\\ $"
       },
       {
         "ক্রমিক": "ঘ",
