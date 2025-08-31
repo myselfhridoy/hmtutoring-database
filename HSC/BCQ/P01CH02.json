@@ -641,7 +641,7 @@
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "ভেক্টর $\\overrightarrow{\\mathrm{P}}$ কী অঘূর্ণনশীল? গাণিতিকভাবে বিশ্লেষণ করো।",
-        "ধরন": "Knowledge-based",
+        "ধরন": "Understanding",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "সিলেট বোর্ড ২০২৪",
@@ -673,7 +673,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "একটি ভেক্টর রাশিকে কীরূপে স্কেলার রাশিতে রূপান্তর করবে? ব্যাখ্যা করো।",
-        "ধরন": "Knowledge-based",
+        "ধরন": "Understanding",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "যশোর বোর্ড ২০২৪",
@@ -773,7 +773,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "কী কী শর্তে কাজের মান শূন্য হতে পারে? ব্যাখ্যা করো ।",
-        "ধরন": "Knowledge-based",
+        "ধরন": "Understanding",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "ঢাকা বোর্ড ২০২৩",
@@ -832,7 +832,7 @@
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "দেখাও যে, জাহিন নাহিনের সমমানের বল প্রয়োগ করলে এদের লব্ধি বল মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করবে ।",
-        "ধরন": "Understanding",
+        "ধরন": "Application",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "বরিশাল বোর্ড ২০২৩",
@@ -841,7 +841,7 @@
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "নাহিন এবং জাহিন ট্রাকটিকে কীভাবে টানলে সর্বাপেক্ষা কম বল প্রয়োগে ট্রাকটিকে সর্বোচ্চ লব্ধি বলে টেনে নিতে পারবে? গাণিতিক বিশ্লেষণের সাহায্যে ব্যাখ্যা করো",
-        "ধরন": "Knowledge-based",
+        "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "বরিশাল বোর্ড ২০২৩",
@@ -1873,7 +1873,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "মহাকর্ষীয় বিভব 12 J/kg বলতে কী বুঝ?",
-        "ধরন": "Knowledge-based",
+        "ধরন": "Understanding",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর রাশি ও স্কেলার রাশি",
         "source": "সিলেট বোর্ড ২০২২",
@@ -2204,9 +2204,9 @@
     "subject": "পদার্থবিজ্ঞান ১ম পত্র",
     "chapter_no": "ch02",
     "chapter": "ভেক্টর",
-    "source": "MB ২০২১",
+    "source": "ময়মনসিংহ বোর্ড ২০২১",
     "উদ্দীপক": {
-      "title": "MB ২০২১",
+      "title": "ময়মনসিংহ বোর্ড ২০২১",
       "description": "",
       "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC_PHY_1-02_CQ_SOLVE%20LQ%20%200002.png?alt=media&token=97d4bbb5-f6f4-4aa8-a033-d3355af5fbc7"
     },
@@ -2217,7 +2217,7 @@
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর রাশি ও স্কেলার রাশি",
-        "source": "MB ২০২১",
+        "source": "ময়মনসিংহ বোর্ড ২০২১",
         "উত্তর": "যে ভেক্টরের মান শূন্য তাকে শূন্য ভেক্টর বা নাল ভেক্টর বলে।\n\n \n\n$\\\\ $\n"
       },
       {
@@ -2226,7 +2226,7 @@
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
-        "source": "MB ২০২১",
+        "source": "ময়মনসিংহ বোর্ড ২০২১",
         "উত্তর": "পাখির উড্ডয়নে ভেক্টর বিভাজনের কোনো ভূমিকা নেই, তবে ভেক্টর যোজনের ভূমিকা রয়েছে।\n পাখি তার প্রতিটি ডানা দিয়ে বাতাসের ওপর তীর্যকভাবে বল প্রয়োগ করে।\n তবে পাখিটি তীর্যকভাবে নয়, বরং সম্মুখদিকে এগিয়ে যায়।\n এর কারণ হলো বাতাসও প্রতিটি ডানার ওপর তীর্যকভাবে (বিপরীত দিকে) প্রতিক্রিয়া বল প্রয়োগ করে।\n এ প্রতিক্রিয়া বলদ্বয়ের লব্ধির উলম্ব উপাংশ পাখির ওজনকে নিষ্ক্রিয় করে অথবা উপরে উঠতে বা নিচে নামতে সাহায্য করে এবং অনুভূমিক অংশের দিকে পাখিটি এগিয়ে যায়।\n এটি ভেক্টর যোজনের উদাহরণ।\n \n\n$\\\\ $\n"
       },
       {
@@ -2235,7 +2235,7 @@
         "ধরন": "Application",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
-        "source": "MB ২০২১",
+        "source": "ময়মনসিংহ বোর্ড ২০২১",
         "উত্তর": "এখানে, $\\mathrm{O}(0,0,0), \\mathrm{A}(3,2,1)$\n ও $\\mathrm{B}(3,2,-3)$\n $\\hspace{1.5 cm}\\therefore \\overrightarrow{\\mathrm{OA}}=(3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}})^{\\prime}$\n এবং $\\overrightarrow{\\mathrm{OB}}=(3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}})$\n আমরা জানি, $\\hspace{1.1 cm}\\begin{aligned} \\overrightarrow{\\mathrm{OA}} \\cdot \\overrightarrow{\\mathrm{OB}} & =|\\overrightarrow{\\mathrm{OA}}| \\cdot|\\overrightarrow{\\mathrm{OB}}| \\cdot \\cos \\angle \\mathrm{AOB}\\\\ \n\\Rightarrow \\cos \\angle \\rm{A O B} & =\\rm{\\frac{\\overrightarrow{O A} \\cdot \\overrightarrow{O B}}{|\\overrightarrow{O A}| \\cdot|\\overrightarrow{O B}|}} \\\\ \n& =\\frac{(3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}) \\cdot(3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}})}{\\sqrt{3^{2}+2^{2}+1^{2}} \\cdot \\sqrt{3^{2}+2^{2}+(-3)^{2}}} \\\\ \n& =\\left(\\frac{9 \\cdot+4-3}{\\sqrt{14} \\cdot \\sqrt{22}}\\right)=\\frac{10}{2 \\sqrt{77}}=\\frac{5}{\\sqrt{77}}\\\\\n\\rm{\\therefore \\angle A O B} & =\\cos ^{-1} \\frac{5}{\\sqrt{77}}=55.264^{\\circ} \\textbf { (Ans.)\n\n }\n\\end{aligned}$\n \n\n$\\\\ $\n"
       },
       {
@@ -2244,7 +2244,7 @@
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
-        "source": "MB ২০২১",
+        "source": "ময়মনসিংহ বোর্ড ২০২১",
         "উত্তর": "এখানে,  $\\hspace{1.5 cm}\\begin{array}{l} \\overrightarrow{\\mathrm{OA}}=\\rm{3 \\hat{i}+2 \\hat{j}+\\hat{k}} \\\\ \\overrightarrow{\\mathrm{OB}}=\\rm{3 \\hat{i}+2 \\hat{j}-3 \\hat{k}}\\end{array}$\n এখানে, $\\hspace{1 cm}\\rm{A}$\n এর স্থানাঙ্ক $( 3, 2, 1 )$\n $\\hspace{1 cm}\\rm{B}$\n এর স্থানাংক $(3, 2, -3)$\n  $\\hspace{1 cm}\\rm{A ~ও~ B}$\n সংযোগকারী ভেক্টর, $\\overrightarrow{\\mathrm{AB}}=\\text { ? }$\n আমরা জানি, $\\hspace{1.5 cm}\\begin{aligned} \\overrightarrow{\\mathrm{AB}}~ & =\\overrightarrow{\\mathrm{OB}}-\\overrightarrow{\\mathrm{OA}} \\\\ & =(3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}}) \\rm{-(3 \\hat{i}+2 \\hat{j}+\\hat{k})}\\\\ & =-4 \\hat{\\mathrm{k}} \\\\ |\\overrightarrow{\\mathrm{AB}}| & =\\sqrt{(-4)^{2}}=4 \\\\ |\\overrightarrow{\\mathrm{OA}}| & =\\sqrt{(3)^{2}+(2)^{2}+(1)^{2}}=\\sqrt{14} \\\\ |\\overrightarrow{\\mathrm{OB}}| & =\\sqrt{(3)^{2}+(2)^{2}+(-3)^{2}}=\\sqrt{22} \\end{aligned}$\n এখানে,  $\\hspace{1 cm}\\begin{array}{l} |\\overrightarrow{\\mathrm{OB}}|^{2}=(\\sqrt{22})^{2}=22 \\\\ |\\overrightarrow{\\mathrm{OA}}|^{2}+|\\overrightarrow{\\mathrm{AB}}|^{2}=(\\sqrt{14})^{2}+(4)^{2}=30 \\end{array}$\n অর্থাৎ, $|\\overrightarrow{\\mathrm{OB}}|^{2} \\neq|\\overrightarrow{\\mathrm{OA}}|^{2}+|\\overrightarrow{\\mathrm{AB}}|^{2}$\n একইভাবে দেখানো যায় $|\\overrightarrow{\\mathrm{OA}}|^{2} \\neq|\\overrightarrow{\\mathrm{AB}}|^{2}+|\\overrightarrow{\\mathrm{OB}}|^{2}$\n এবং $|\\overrightarrow{\\mathrm{AB}}|^{2} \\neq|\\overrightarrow{\\mathrm{OA}}|^{2}+|\\overrightarrow{\\mathrm{OB}}|^{2}$\n অতএব, উদ্দীপকের $\\triangle \\mathrm{AOB}$\n সমকোণী ত্রিভুজ গঠন করবে না।\n"
       }
     ]
@@ -3623,7 +3623,7 @@
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "আমাদের পায়ে হাঁটা কীভাবে ভেক্টর বিভাজনের মাধ্যমে ব্যাখ্যা করা যায়?",
-        "ধরন": "Knowledge-based",
+        "ধরন": "Understanding",
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর রাশি ও স্কেলার রাশি",
         "source": "সিলেট বোর্ড ২০১৭",
@@ -3718,7 +3718,7 @@
         "chapter": "ভেক্টর",
         "topic": "ভেক্টর রাশি ও স্কেলার রাশি",
         "source": "বরিশাল বোর্ড ২০১৭",
-        "উত্তর": ""
+        "উত্তর": "যখন কোনো তরল একটি কঠিন বস্তুর সংস্পর্শে আসে, তখন তরলের পৃষ্ঠদেশ কঠিনের সাথে যেখানে মিলিত হয়, সেখানে একটি কোণ তৈরি করে। এই কোণটিকেই স্পর্শ কোণ বা Contact Angle বলা হয়। একে গ্রিক অক্ষর 'থিটা' (θ) দ্বারা প্রকাশ করা হয়।"
       },
       {
         "ক্রমিক": "খ",
