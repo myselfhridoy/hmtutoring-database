@@ -1,53 +1,53 @@
 [
   {
-  "id": "cqp02vectorDB24_1",
-  "subject": "পদার্থবিজ্ঞান ১ম পত্র",
-  "chapter_no": "ch02",
-  "chapter": "ভেক্টর",
-  "source": "ঢাকা বোর্ড ২০২৪",
-  "উদ্দীপক": {
-    "title": "ঢাকা বোর্ড ২০২৪",
-    "description": "$\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}, \\overrightarrow{\\mathrm{~B}}$$$=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-\\hat{\\mathbf{k}}$ তিনটি ভেক্টর",
-    "image": ""
-  },
-  "প্রশ্নাবলী": [
-    {
-      "ক্রমিক": "ক",
-      "প্রশ্ন": "অবস্থান ভেক্টর কী?",
-      "ধরন": "Knowledge-based",
-      "chapter": "ভেক্টর",
-      "topic": "কতিপয় ভেক্টর",
-      "source": "ঢাকা বোর্ড ২০২৪",
-      "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাই অবস্থান ভেক্টর।"
+    "id": "cqp02vectorDB24_1",
+    "subject": "পদার্থবিজ্ঞান ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর",
+    "source": "ঢাকা বোর্ড ২০২৪",
+    "উদ্দীপক": {
+        "title": "ঢাকা বোর্ড ২০২৪",
+        "description": "$$\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}, \\overrightarrow{\\mathrm{~B}}$$$$=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-\\hat{\\mathbf{k}}$ তিনটি ভেক্টর",
+        "image": ""
     },
-    {
-      "ক্রমিক": "খ",
-      "প্রশ্ন": "$\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}} \\neq 0$ কেন? ব্যাখ্যা করো।",
-      "ধরন": "Understanding",
-      "chapter": "ভেক্টর",
-      "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
-      "source": "ঢাকা বোর্ড ২০২৪",
-      "উত্তর": "আমরা জানি $x$-অক্ষে নির্দেশিত একক ভেক্টরকে $\\hat{i}$ দ্বারা প্রকাশ করা হয় যার মান $|\\hat{i}|=1$ একক।\nআবার আমরা জানি, ভেক্টরের স্কেলার গুণ অনুসারে, $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=|\\hat{\\mathrm{i}}| \\times|\\hat{\\mathrm{i}}| \\cos \\theta$। যেহেতু দুটি ভেক্টর সমান এবং একই দিকে ক্রিয়াশীল, তাই তাদের মধ্যবর্তী কোণ $\\theta=0^{\\circ}$।\nসুতরাং, $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=(1) \\times(1) \\times \\cos 0^{\\circ}=1 \\times 1 \\times 1=1$।\nযেহেতু $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=1$ যা শূন্যের সমান নয়, তাই $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}} \\neq 0$।"
-    },
-    {
-      "ক্রমিক": "গ",
-      "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ নির্ণয় করো।",
-      "ধরন": "Application",
-      "chapter": "ভেক্টর",
-      "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
-      "source": "ঢাকা বোর্ড ২০২৪",
-      "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ হলো $\\vec{B}$ এর উপর $\\vec{A}$ এর লম্ব অভিক্ষেপ।\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ $=\\frac{\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{B}}}{|\\overrightarrow{\\mathrm{A}}|}$।\n$\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{B}}=(2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}) \\cdot(-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}})$ $=2(-1)+3(2)+5(7)=-2+6+35=39$\n$|\\overrightarrow{\\mathrm{A}}|=\\sqrt{2^{2}+3^{2}+5^{2}}=\\sqrt{4+9+25}=\\sqrt{38}$\n$\\therefore$ অভিক্ষেপ $=\\frac{39}{\\sqrt{38}}=\\frac{39}{6.164}=6.327 \\approx 6.33$ একক।"
-    },
-    {
-      "ক্রমিক": "ঘ",
-      "প্রশ্ন": "উদ্দীপকের ভেক্টর তিনটি একই সমতলে থাকবে কিনা- গাণিতিকভাবে যাচাই করো।",
-      "ধরন": "Higher-order skills",
-      "chapter": "ভেক্টর",
-      "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
-      "source": "ঢাকা বোর্ড ২০২৪",
-      "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$, $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$\nতিনটি ভেক্টর সমতলীয় হবে যদি তাদের স্কেলার ট্রিপল গুণফল শূন্য হয়। অর্থাৎ, $\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})=0$।\n$\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})=\\left|\\begin{array}{ccc}2 & 3 & 5 \\\\-1 & 2 & 7 \\\\1 & 7 & -1\\end{array}\\right|$\n$=2\\left|\\begin{array}{cc}2 & 7 \\\\7 & -1\\end{array}\\right|-3\\left|\\begin{array}{cc}-1 & 7 \\\\1 & -1\\end{array}\\right|+5\\left|\\begin{array}{cc}-1 & 2 \\\\1 & 7\\end{array}\\right|$\n$=2\\{(-2)-(49)}-3\\{1-7\\}+5\\{-7-2\\}$\n$=2(-51)-3(-6)+5(-9)$\n$=-102+18-45$\n$=-129 \\neq 0$\nযেহেতু উদ্দীপকের ভেক্টর তিনটির স্কেলার ট্রিপল গুণফল শূন্য নয়, তাই ভেক্টর তিনটি একই সমতলে থাকবে না।"
-    }
-  ]
+    "প্রশ্নাবলী": [
+        {
+            "ক্রমিক": "ক",
+            "প্রশ্ন": "অবস্থান ভেক্টর কী?",
+            "ধরন": "Knowledge-based",
+            "chapter": "ভেক্টর",
+            "topic": "কতিপয় ভেক্টর",
+            "source": "ঢাকা বোর্ড ২০২৪",
+            "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাই অবস্থান ভেক্টর।"
+        },
+        {
+            "ক্রমিক": "খ",
+            "প্রশ্ন": "$\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}} \\neq 0$ কেন? ব্যাখ্যা করো।",
+            "ধরন": "Understanding",
+            "chapter": "ভেক্টর",
+            "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
+            "source": "ঢাকা বোর্ড ২০২৪",
+            "উত্তর": "আমরা জানি, $x-$অক্ষে নির্দেশিত একক ভেক্টর হলো $\\hat{i}$। এর মান $|\\hat{i}|=1$ একক।\n$\\hat{i}$ এবং $\\hat{i}$ সমান্তরাল ভেক্টর। সুতরাং এদের মধ্যবর্তী কোণ $\\theta=0^{\\circ}$।\nভেক্টরের স্কেলার গুণনের সংজ্ঞা অনুযায়ী,\n$\\hat{\\mathbf{i}} \\cdot \\hat{\\mathbf{i}}=|\\hat{\\mathrm{i}}| \\times|\\hat{\\mathrm{i}}| \\cos \\theta$\n$=1 \\times 1 \\times \\cos 0^{\\circ}$\n$=1$\nযেহেতু, $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=1$ অর্থাৎ শূন্য নয়, তাই $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}} \\neq 0$।"
+        },
+        {
+            "ক্রমিক": "গ",
+            "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ নির্ণয় করো।",
+            "ধরন": "Application",
+            "chapter": "ভেক্টর",
+            "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
+            "source": "ঢাকা বোর্ড ২০২৪",
+            "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ হলো $\\frac{\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{B}}}{|\\overrightarrow{\\mathrm{A}}|}$।\nপ্রথমে $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর ডট গুণফল নির্ণয় করি:\n$\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{B}}=(2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}) \\cdot(-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}})$\n$=2(-1)+3(2)+5(7)$\n$=-2+6+35$\n$=39$\nএখন, $\\overrightarrow{\\mathrm{A}}$ এর মান নির্ণয় করি:\n$|\\overrightarrow{\\mathrm{A}}|=\\sqrt{2^{2}+3^{2}+5^{2}}=\\sqrt{4+9+25}=\\sqrt{38}$\nসুতরাং, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ:\n$=\\frac{39}{\\sqrt{38}}$\n$\\approx 6.33$ (প্রায়)\n$\\therefore \\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ $6.33$।"
+        },
+        {
+            "ক্রমিক": "ঘ",
+            "প্রশ্ন": "উদ্দীপকের ভেক্টর তিনটি একই সমতলে থাকবে কিনা- গাণিতিকভাবে যাচাই করো।",
+            "ধরন": "Higher-order skills",
+            "chapter": "ভেক্টর",
+            "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
+            "source": "ঢাকা বোর্ড ২০২৪",
+            "উত্তর": "উদ্দীপক অনুযায়ী,\n$\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$\nতিনটি ভেক্টর একই সমতলে থাকবে যদি তাদের স্কেলার ট্রিপল গুণফল শূন্য হয়, অর্থাৎ $\\overrightarrow{\\mathrm{A}} \\cdot(\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}})=0$ হয়।\nপ্রথমে $\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}}$ নির্ণয় করি:\n$\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}}=\\begin{vmatrix}\\hat{\\mathbf{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\-1 & 2 & 7 \\\\1 & 7 & -1\\end{vmatrix}$\n$=\\hat{\\mathrm{i}}(-2-49)-\\hat{\\mathrm{j}}(1-7)+\\hat{\\mathrm{k}}(-7-2)$\n$=\\hat{\\mathrm{i}}(-51)-\\hat{\\mathrm{j}}(-6)+\\hat{\\mathrm{k}}(-9)$\n$=-51\\hat{\\mathrm{i}}+6\\hat{\\mathrm{j}}-9\\hat{\\mathrm{k}}$\nএখন $\\overrightarrow{\\mathrm{A}} \\cdot(\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}})$ নির্ণয় করি:\n$\\overrightarrow{\\mathrm{A}} \\cdot(\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}})=(2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}) \\cdot(-51 \\hat{\\mathrm{i}}+6 \\hat{\\mathrm{j}}-9 \\hat{\\mathrm{k}})$\n$=2(-51)+3(6)+5(-9)$\n$=-102+18-45$\n$=-129$\nযেহেতু, $\\overrightarrow{\\mathrm{A}} \\cdot(\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}})=-129 \\neq 0$, তাই উদ্দীপকের ভেক্টর তিনটি একই সমতলে থাকবে না।"
+        }
+    ]
 },
   {
     "id": "cqp02vectorDB24_2",
