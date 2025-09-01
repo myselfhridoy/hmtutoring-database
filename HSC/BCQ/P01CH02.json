@@ -16,36 +16,36 @@
         "প্রশ্ন": "অবস্থান ভেক্টর কী?",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাই অবস্থান ভেক্টর। $\\\\ $"
+        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাই অবস্থান ভেক্টর।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "$\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}} \\neq 0$ কেন? ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "আমরা জানি $x-$অক্ষে নির্দেশিত একক ভেক্টরকে $\\hat{i}$ দ্বারা প্রকাশ করা $\\hat{i}$ > $\\hat{i}$ হয় যার মান $|\\hat{i}|=1$ একক। যেহেতু ও সুতরাং $\\hat{i}$ এবং $\\hat{i}$ এর মধ্যবর্তী কোণ $\\theta=0^{\\circ}$। সমান ও সদৃশ ভেক্টর আবার আমরা জানি ভেক্টরের স্কেলার গুণ অনুসারে, $\\hat{\\mathbf{i}} \\cdot \\hat{\\mathbf{i}}=|\\hat{\\mathrm{i}}| \\times|\\hat{\\mathrm{i}}| \\cos \\theta$$=1 \\times 1 \\times \\cos 0^{\\circ}=1$ একক $\\neq 0$ $\\therefore \\hat{\\mathrm{i}}, \\hat{\\mathrm{i}} \\neq 0$ বরং $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=1$  $\\\\ $"
+        "উত্তর": "আমরা জানি $x-$অক্ষে নির্দেশিত একক ভেক্টরকে $\\hat{i}$ দ্বারা প্রকাশ করা হয় যার মান $|\\hat{i}|=1$ একক। যেহেতু $\\hat{i}$ এবং $\\hat{i}$ সমান ও সদৃশ ভেক্টর, সুতরাং এদের মধ্যবর্তী কোণ $\\theta=0^{\\circ}$।\nআবার আমরা জানি ভেক্টরের স্কেলার গুণ অনুসারে, $\\hat{\\mathbf{i}} \\cdot \\hat{\\mathbf{i}}=|\\hat{\\mathrm{i}}| \\times|\\hat{\\mathrm{i}}| \\cos \\theta$\n$=1 \\times 1 \\times \\cos 0^{\\circ}=1$ একক $\\neq 0$\n$\\therefore \\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}} \\neq 0$ বরং $\\hat{\\mathrm{i}} \\cdot \\hat{\\mathrm{i}}=1$"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর অভিক্ষেপ নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ $A=\\sqrt{2^{2}+3^{2}+5^{2}}=\\sqrt{38}$ $\\theta=\\vec{A} \\text { ও } \\vec{B}$ এর মধ্যবর্তী কোণ $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর লম্ব অভিক্ষেপ $=\\mathrm{B} \\cos \\theta$ যেখানে $\\theta$ হলো $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর মধ্যবর্তী কোণ। বা, $(2 \\hat{i}+3 \\hat{j}+5 \\hat{k})$(-\\hat{i}+2 \\hat{j}+7 \\hat{k})$$=\\sqrt{38} \\mathrm{~B} \\cos \\theta$ বা, $\\sqrt{38} \\mathrm{~B} \\cos \\theta$$=-2+6+35$ বা, $39=\\sqrt{38} \\cdot B \\cos \\theta$ বা, $B \\cos \\theta=\\frac{39}{\\sqrt{38}}$ $~~~~~~~~~~~~~~~~~~~$=6.33$  $\\therefore \\vec{A}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ লম্ব অভিক্ষেপ $6.33$ (Ans.) $\\\\ $"
+        "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$\n$A=\\sqrt{2^{2}+3^{2}+5^{2}}=\\sqrt{4+9+25}=\\sqrt{38}$\n$\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর লম্ব অভিক্ষেপ $=\\mathrm{B} \\cos \\theta$ যেখানে $\\theta$ হলো $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর মধ্যবর্তী কোণ।\nবা, $\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{B}} = |\\overrightarrow{\\mathrm{A}}||\\overrightarrow{\\mathrm{B}}| \\cos \\theta = A (B \\cos \\theta)$\nবা, $(2 \\hat{i}+3 \\hat{j}+5 \\hat{k})\\cdot(-\\hat{i}+2 \\hat{j}+7 \\hat{k}) = \\sqrt{38} \\mathrm{~B} \\cos \\theta$\nবা, $-2+6+35 =\\sqrt{38} \\mathrm{~B} \\cos \\theta$\nবা, $39=\\sqrt{38} \\cdot B \\cos \\theta$\nবা, $B \\cos \\theta=\\frac{39}{\\sqrt{38}}$\n$~~~~~~~~~~~~~~~~~~~\\approx 6.33$\n$\\therefore \\vec{A}$ বরাবর $\\overrightarrow{\\mathrm{B}}$ এর লম্ব অভিক্ষেপ $6.33$ (Ans.)"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "উদ্দীপকের ভেক্টর তিনটি একই সমতলে থাকবে কিনা- গাণিতিকভাবে যাচাই করো।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ $\\vec{B}=-\\hat{i}+2 \\hat{j}+7 \\hat{k}$ $\\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$\nআমরা জানি, তিনটি ভেক্টর সমতলীয় হবে যদি $\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})=0$ হয়। $\\vec{B} \\times \\vec{C}=(-\\hat{i}+2 \\hat{j}+7 \\hat{k})$$x(\\hat{i}+7 \\hat{j}-\\hat{k})$  $=\\left|\\begin{array}{rrr}\\hat{\\mathbf{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\-1 & 2 & 7 \\\\1 & 7 & -1\\end{array}\\right|$ $=\\hat{\\mathrm{i}}(-2-49)-\\hat{\\mathrm{j}}(1-7)$$+\\hat{k}(-7-2)$ $\\therefore \\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{C}}=-5 \\hat{\\mathrm{i}}+6\\hat{\\mathrm{j}}-9 \\hat{\\mathrm{k}}$ $\\therefore \\vec{A} \\cdot(\\vec{B} \\times \\vec{C})$$=(2 \\hat{i}+3 \\hat{j}+5 \\hat{k})$$.(-51 \\hat{i}+6 \\hat{j}-9 \\hat{k})$ $~~~~~~~~~~~~~~~~~~~~~~~~$$=-102+18-45$$=-129 \\neq 0$ যেহেতু উদ্দীপকের $\\vec{A}, \\vec{B} \\text { ও } \\vec{C}$ ভেক্টরত্রয় এর ক্ষেত্রে $\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})=129$ তাই বলা যায় $\\vec{A}, \\vec{B} \\text { ও } \\vec{C}$ ভেক্টর তিনটি একই সমতলে থাকবে না।"
+        "উত্তর": "এখানে, $\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$\n$\\vec{B}=-\\hat{i}+2 \\hat{j}+7 \\hat{k}$\n$\\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-\\hat{\\mathbf{k}}$\nআমরা জানি, তিনটি ভেক্টর সমতলীয় হবে যদি $\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})=0$ হয়।\n$\\vec{B} \\times \\vec{C}=(-\\hat{i}+2 \\hat{j}+7 \\hat{k})\\times(\\hat{i}+7 \\hat{j}-\\hat{k})$\n$=\\left|\\begin{array}{rrr}\\hat{\\mathbf{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\-1 & 2 & 7 \\\\1 & 7 & -1\\end{array}\\right|$\n$=\\hat{\\mathrm{i}}((-1)(-1)-7 \\times 2)-\\hat{\\mathrm{j}}((-1)(-1)-7 \\times 1)+\\hat{k}((-1) \\times 7 - 2 \\times 1)$\n$=\\hat{\\mathrm{i}}(1-14)-\\hat{\\mathrm{j}}(1-7)+\\hat{k}(-7-2)$\n$=\\hat{\\mathrm{i}}(-13)-\\hat{\\mathrm{j}}(-6)+\\hat{k}(-9)$\n$=-13 \\hat{i}+6\\hat{j}-9 \\hat{k}$\n$\\therefore \\vec{A} \\cdot(\\vec{B} \\times \\vec{C})$\n$=(2 \\hat{i}+3 \\hat{j}+5 \\hat{k}) \\cdot (-13 \\hat{i}+6 \\hat{j}-9 \\hat{k})$\n$~~~~~~~~~~~~~~~~~~~~~~~~$$=2(-13)+3(6)+5(-9)$\n$~~~~~~~~~~~~~~~~~~~~~~~~$$=-26+18-45$\n$~~~~~~~~~~~~~~~~~~~~~~~~$$=-53 \\neq 0$\nযেহেতু উদ্দীপকের $\\vec{A}, \\vec{B} \\text { ও } \\vec{C}$ ভেক্টরত্রয় এর ক্ষেত্রে $\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})=-53$ তাই বলা যায় $\\vec{A}, \\vec{B} \\text { ও } \\vec{C}$ ভেক্টর তিনটি একই সমতলে থাকবে না।"
       }
     ]
   },
@@ -66,36 +66,36 @@
         "প্রশ্ন": "ভেক্টর অপারেটর কী?",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর ক্যালকুলাস",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "যে গাণিতিক চিহ্নের দ্বারা একটি ভেক্টর রাশিকে অন্য একটি স্কেলার বা ভেক্টর রাশিতে রূপান্তর করা যায় বা কোনো পরিবর্তনশীল ভেক্টর রাশির ব্যাখ্যা দেয়া যায় তাই ভেক্টর অপারেটর। $\\\\ $"
+        "উত্তর": "যে গাণিতিক চিহ্নের দ্বারা একটি ভেক্টর রাশিকে অন্য একটি স্কেলার বা ভেক্টর রাশিতে রূপান্তর করা যায় বা কোনো পরিবর্তনশীল ভেক্টর রাশির ব্যাখ্যা দেয়া যায় তাই ভেক্টর অপারেটর।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "কেন্দ্রমুখী বল কোন কোন বিষয়ের উপর নির্ভর করে?",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর রাশির কয়েকটি বিশেষ উদাহরণ",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "কোনো বস্তুকণাকে বৃত্তাকার পথে গতিশীল রাখতে কেন্দ্রের দিকে যে বল প্রয়োগ করতে হয় তাকে কেন্দ্রমুখী বল বলা হয়। বৃত্তাকার পথে ঘূর্ণনরত বস্তু কণার ভর, $m$, রৈখিক বেগ $v$ বা কৌণিক বেগ, $\\omega$ এবং বৃত্তাকার পথের ব্যাসার্ধ, $r$ হলে, কেন্দ্রমুখী বল, $F_{c}=\\frac{m v^{2}}{r}=m \\omega^{2} r$  কেন্দ্রমুখী বলের সমীকরণ অনুযায়ী কেন্দ্রমুখী বল ৩টি বিষয়ের উপর নির্ভর করে:  i. বস্তু কণার ভর $(m)$, ii. বস্তু কণার রৈখিক বেগ $(v)$ বা কৌণিক বেগ $(\\omega)$,  iii. বস্তু কণাটি যে বৃত্তাকার পথে ঘুরে, তার ব্যাসার্ধ $(r)$। $\\\\ $"
+        "উত্তর": "কোনো বস্তুকণাকে বৃত্তাকার পথে গতিশীল রাখতে কেন্দ্রের দিকে যে বল প্রয়োগ করতে হয় তাকে কেন্দ্রমুখী বল বলা হয়। বৃত্তাকার পথে ঘূর্ণনরত বস্তু কণার ভর, $m$, রৈখিক বেগ $v$ বা কৌণিক বেগ, $\\omega$ এবং বৃত্তাকার পথের ব্যাসার্ধ, $r$ হলে, কেন্দ্রমুখী বল, $F_{c}=\\frac{m v^{2}}{r}=m \\omega^{2} r$\nকেন্দ্রমুখী বলের সমীকরণ অনুযায়ী কেন্দ্রমুখী বল ৩টি বিষয়ের উপর নির্ভর করে:\ni. বস্তু কণার ভর $(m)$,\nii. বস্তু কণার রৈখিক বেগ $(v)$ বা কৌণিক বেগ $(\\omega)$,\niii. বস্তু কণাটি যে বৃত্তাকার পথে ঘুরে, তার ব্যাসার্ধ $(r)$।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$QM$ এর দূরত্ব নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "এখানে, স্রোতের বেগ, $\\mathrm{u}=3 \\mathrm{kmh}^{-1}$ নৌকার বেগ, $\\mathrm{v}=5 \\mathrm{kmh}^{-1}$ স্রোত ও নৌকার মধ্যবর্তী কোণ $\\alpha=100^{\\circ}$   ধরি, লব্ধি বেগ স্রোতের বেগের সাথে $θ $ কোণ উৎপন্ন করে। $\\therefore \\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$ বা, $\\tan \\theta=\\frac{5 \\sin 100^{\\circ}}{3+5 \\cos 100^{\\circ}}$ বা, $\\tan \\theta=2.31$ বা, $\\theta=\\tan ^{-1}(2.31)$ $\\therefore \\theta=66.59^{\\circ}$ চিত্রানুযায়ী, $\\phi=90^{\\circ}-66.59^{\\circ}$ $~~~~~~~~~~~~~~~~~~~~$$=23,41^{\\circ}$ এখানে,  নদীর প্রস্থ, $PQ = 2km$ $\\triangle \\mathrm{P}^{\\circ} \\mathrm{QM}$ -এ $\\tan \\phi=\\frac{\\mathrm{QM}}{\\mathrm{PQ}}$ বা, $\\tan 23.41^{\\circ}=\\frac{\\mathrm{QM}}{2}$ $\\therefore \\mathrm{QM}=0.866 \\mathrm{~km}$$=866 \\mathrm{~m}$ (Ans.) $\\\\ $"
+        "উত্তর": "এখানে, স্রোতের বেগ, $\\mathrm{u}=3 \\mathrm{kmh}^{-1}$ (চিত্রানুযায়ী)\nনৌকার বেগ, $\\mathrm{v}=5 \\mathrm{kmh}^{-1}$\nস্রোত ও নৌকার মধ্যবর্তী কোণ $\\alpha=100^{\\circ}$\nধরি, লব্ধি বেগ স্রোতের বেগের সাথে $\\theta $ কোণ উৎপন্ন করে।\n$\\therefore \\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$\nবা, $\\tan \\theta=\\frac{5 \\sin 100^{\\circ}}{3+5 \\cos 100^{\\circ}}$\nবা, $\\tan \\theta \\approx 2.31$\nবা, $\\theta=\\tan ^{-1}(2.31)$\n$\\therefore \\theta \\approx 66.59^{\\circ}$\nচিত্রানুযায়ী, $\\phi=90^{\\circ}-66.59^{\\circ}$\n$~~~~~~~~~~~~~~~~~~~~\\approx 23.41^{\\circ}$\nএখানে, নদীর প্রস্থ, $PQ = 2km$\n$\\triangle \\mathrm{PQM}$ -এ $\\tan \\phi=\\frac{\\mathrm{QM}}{\\mathrm{PQ}}$\nবা, $\\tan 23.41^{\\circ}=\\frac{\\mathrm{QM}}{2}$\n$\\therefore \\mathrm{QM}=2 \\tan 23.41^{\\circ} \\approx 0.866 \\mathrm{~km}$\n$~~~~~~~~~~~~~~~~~~~~\\approx 866 \\mathrm{~m}$ (Ans.)"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "$PS$ বরাবর নৌকা চালিয়ে $'M'$ বিন্দুতে পৌঁছার সময় এবং $P$ থেকে স্রোতহীন অবস্থায় সরাসরি নৌকা চালিয়ে $Q$-তে পৌঁছার সময়ের পার্থক্য গাণিতিক বিশ্লেষণপূর্বক নির্ণয় করো।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "ঢাকা বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  নদীর প্রস্থ, $d = 2 km$  নৌকার বেগ, $\\mathrm{v}=5 \\mathrm{kmh}^{-1}$ কোন, $\\alpha=100^{\\circ}$\n$PS$ বরাবর নৌকা চালিয়ে $M$ বিন্দুতে পৌঁছার প্রয়োজনীয় সময়, $t_{1}=\\frac{d}{v \\sin \\alpha}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{2}{5 \\sin 100^{\\circ}}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=0.406 \\mathrm{~h}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=24.35 \\mathrm{~min}$ $P$ থেকে স্রোতহীন অবস্থায় নৌকা চালিয়ে $Q$ তে পৌঁছানোর সময়: এক্ষেত্রে নৌকার বেগ হবে $PQ$ বরাবর অর্থাৎ, $\\alpha=90^{\\circ}$ ∴ প্রয়োজনীয় সময়, $t_{2}=\\frac{2}{5 \\sin 90^{\\circ}}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=0.4 \\mathrm{~h}=24 \\mathrm{~min}$ $\\therefore \\mathrm{t}_{2}<\\mathrm{t}_{1}$ সময়ের পার্থক্য $=t_{1}-t_{2}$$=24.35-24$ $~~~~~~~~~~~~~~~~~~~~~~$$=0.35 \\mathrm{~min}$ $~~~~~~~~~~~~~~~~~~~~~~$$21 \\mathrm{~s}$ সুতরাং, $PS$ বরাবর নৌকা চালিয়ে $'M'$ বিন্দুতে পৌঁছার সময় এবং $P$ থেকে স্রোতহীন অবস্থায় সরাসরি নৌকা চালিয়ে $Q$-তে পৌঁছার সময়ের পার্থক্য $21 s$।"
+        "উত্তর": "এখানে, নদীর প্রস্থ, $d = 2 km$\nনৌকার বেগ, $\\mathrm{v}=5 \\mathrm{kmh}^{-1}$\nস্রোতের বেগ, $\\mathrm{u}=3 \\mathrm{kmh}^{-1}$ (চিত্রানুযায়ী)\nস্রোত ও নৌকার মধ্যবর্তী কোণ $\\alpha=100^{\\circ}$\n$PS$ বরাবর নৌকা চালিয়ে $M$ বিন্দুতে পৌঁছার প্রয়োজনীয় সময়, $t_{1}=\\frac{d}{v \\sin \\alpha}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{2}{5 \\sin 100^{\\circ}}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\approx 0.406 \\mathrm{~h}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\approx 24.35 \\mathrm{~min}$\n$P$ থেকে স্রোতহীন অবস্থায় নৌকা চালিয়ে $Q$ তে পৌঁছানোর সময়:\nএক্ষেত্রে নৌকার বেগ হবে $PQ$ বরাবর অর্থাৎ, $\\alpha=90^{\\circ}$\n∴ প্রয়োজনীয় সময়, $t_{2}=\\frac{d}{v \\sin \\alpha}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{2}{5 \\sin 90^{\\circ}}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=0.4 \\mathrm{~h}=24 \\mathrm{~min}$\n$\\therefore \\mathrm{t}_{2}<\\mathrm{t}_{1}$\nসময়ের পার্থক্য $=t_{1}-t_{2}$\n$~~~~~~~~~~~~~~~~~~~~~~$$=24.35-24$\n$~~~~~~~~~~~~~~~~~~~~~~$$=0.35 \\mathrm{~min}$\n$~~~~~~~~~~~~~~~~~~~~~~$$=21 \\mathrm{~s}$\nসুতরাং, $PS$ বরাবর নৌকা চালিয়ে $'M'$ বিন্দুতে পৌঁছার সময় এবং $P$ থেকে স্রোতহীন অবস্থায় সরাসরি নৌকা চালিয়ে $Q$-তে পৌঁছার সময়ের পার্থক্য $21 s$।"
       }
     ]
   },
@@ -118,34 +118,34 @@
         "chapter": "ভেক্টর",
         "topic": "",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "কোনো স্থানের বাতাসে প্রতি ঘনমিটারে যে পরিমাণ জলীয় বা আছে তাই ঐ স্থানের পরম আর্দ্রতা। $\\\\ $"
+        "উত্তর": "কোনো স্থানের বাতাসে প্রতি ঘনমিটারে যে পরিমাণ জলীয় বাষ্প আছে তাই ঐ স্থানের পরম আর্দ্রতা।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "দেখাও যে, $\\hat{\\mathrm{i}} \\times \\hat{\\mathrm{j}}=\\hat{\\mathrm{k}}$",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "আমরা জানি, $\\vec{A} \\times \\vec{B}=\\hat{\\eta} A B \\sin \\theta$ সুতরাং $\\hat{\\mathrm{i}} \\times \\hat{\\mathrm{j}}=\\hat{\\eta}(1)(1)\\left(\\sin 90^{\\circ}\\right)$ $[\\because \\hat{\\mathrm{i}}$ ও $\\hat{\\mathbf{j}}$ পরস্পর লম্ব] $~~~~~~~~~~~~~~~~~~~~~$$=\\hat{\\eta}(1)(1)(1)=\\hat{\\eta}$ এখানে $\\hat{i}$ ও $\\hat{j}$ উভয়ের ওপর লম্ব $\\hat{n}$ ডানহাতি স্ক্রু নিয়ম মেনে চলে,  আবার $\\hat{i}$ ও $\\hat{i}$ ও $\\hat{i}$ ও $\\hat{j}$  উভয়ের ওপর লম্ব $$\\hat{i}$ ও $\\hat{k}$ $ এবং এরাও ডানহাতি স্ক্রু নিয়ম মেনে চলে।  সুতরাং বলা যায় $\\hat{\\eta}=\\hat{\\mathrm{k}}$ $\\therefore \\hat{\\mathrm{i}} \\times \\hat{\\mathrm{j}}=\\hat{\\mathrm{k}}$ (Showed) $\\\\ $"
+        "উত্তর": "আমরা জানি, $\\vec{A} \\times \\vec{B}=\\hat{\\eta} A B \\sin \\theta$\nসুতরাং $\\hat{\\mathrm{i}} \\times \\hat{\\mathrm{j}}=\\hat{\\eta}(1)(1)\\left(\\sin 90^{\\circ}\\right)$ $[\\because \\hat{\\mathrm{i}}$ ও $\\hat{\\mathbf{j}}$ পরস্পর লম্ব]\n$~~~~~~~~~~~~~~~~~~~~~$$=\\hat{\\eta}(1)(1)(1)=\\hat{\\eta}$\nএখানে $\\hat{i}$ ও $\\hat{j}$ উভয়ের ওপর লম্ব $\\hat{\\eta}$ ডানহাতি স্ক্রু নিয়ম মেনে চলে। আবার $\\hat{i}$ ও $\\hat{j}$ উভয়ের ওপর লম্ব $\\hat{k}$ এবং এরাও ডানহাতি স্ক্রু নিয়ম মেনে চলে।\nসুতরাং বলা যায় $\\hat{\\eta}=\\hat{\\mathrm{k}}$\n$\\therefore \\hat{\\mathrm{i}} \\times \\hat{\\mathrm{j}}=\\hat{\\mathrm{k}}$ (Showed)"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ এবং $\\overrightarrow{\\mathrm{B}}$ কে সন্নিহিত বাহু ধরে সামান্তরিকের ক্ষেত্রফল নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\vec{A}=2 \\hat{i}-3 \\hat{j}+\\hat{k}$ $\\vec{B}=3 \\hat{i}-\\hat{j}+5 \\hat{k}$\nমনে করি, দুটি ভেক্টর $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ দ্বারা গঠিত সামান্তরিকের ক্ষেত্রফল $\\Delta$ আমরা জানি, $\\overrightarrow{\\mathrm{A}}$  ও $\\overrightarrow{\\mathrm{B}}$  দ্বারা সামান্তরিকের দুইটি সন্নিহিত বাহু নির্দেশ করলে এর ক্ষেত্রফল হবে, $|\\vec{A} \\times \\vec{B}|$ এখন, $\\therefore \\vec{A} \\times \\vec{B}=\\left|\\begin{array}{ccc}\\hat{i} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\2 & -3 & 1 \\\\3 & -1 & 5\\end{array}\\right|$ $=\\hat{\\mathrm{i}}(-15+1)-\\hat{\\mathrm{j}}$$(10-3)+\\hat{k}(-2+9)$$=-14 \\hat{i}-7 \\hat{j}+7 \\hat{k}$ ∴ সামান্তরিকের ক্ষেত্রফল, $=|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{(-14)^{2}+(-7)^{2}+7^{2}}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=7 \\sqrt{6}$ বর্গ একক (Ans.) $\\\\ $"
+        "উত্তর": "এখানে, $\\vec{A}=2 \\hat{i}-3 \\hat{j}+\\hat{k}$\n$\\vec{B}=3 \\hat{i}-\\hat{j}+5 \\hat{k}$\nমনে করি, দুটি ভেক্টর $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ দ্বারা গঠিত সামান্তরিকের ক্ষেত্রফল $\\Delta$\nআমরা জানি, $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ দ্বারা সামান্তরিকের দুইটি সন্নিহিত বাহু নির্দেশ করলে এর ক্ষেত্রফল হবে, $|\\vec{A} \\times \\vec{B}|$\nএখন, $\\therefore \\vec{A} \\times \\vec{B}=\\left|\\begin{array}{ccc}\\hat{i} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\2 & -3 & 1 \\\\3 & -1 & 5\\end{array}\\right|$\n$=\\hat{\\mathrm{i}}((-3) \\times 5 - 1 \\times (-1))-\\hat{\\mathrm{j}}(2 \\times 5 - 1 \\times 3)+\\hat{k}(2 \\times (-1) - (-3) \\times 3)$\n$=\\hat{\\mathrm{i}}(-15+1)-\\hat{\\mathrm{j}}(10-3)+\\hat{k}(-2+9)$\n$=-14 \\hat{i}-7 \\hat{j}+7 \\hat{k}$\n∴ সামান্তরিকের ক্ষেত্রফল, $=|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{(-14)^{2}+(-7)^{2}+7^{2}}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{196+49+49}=\\sqrt{294}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=7 \\sqrt{6}$ বর্গ একক (Ans.)"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "উদ্দীপকে ত্রিভুজটি সমকোণী ত্রিভুজ হবে কি-না- গাণিতিকভাবে বিশ্লেষণ করো।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  $\\vec{A}=2 \\hat{i}-3 \\hat{j}+\\hat{k}$ $\\overrightarrow{\\mathrm{B}}=3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$ $\\overrightarrow{\\mathrm{C}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}$ উদ্দীপকের ত্রিভুজটি সমকোণী ত্রিভুজ হলে, এর দুই বাহুর বর্গের সমষ্টি অপর বাহুর (অতিভুজ) বর্গের সমান হবে। মধ্যবর্তী কোণ সমকোণ হতে হবে অর্থাৎ বাহুর ডটগুণফল শূন্য হতে হবে। $\\vec{A} \\cdot \\vec{B}=(2 \\hat{i}-3 \\hat{j}+\\hat{k})$$(3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}})$$=6+3+5+=14\\neq 0$ $\\vec{A} \\cdot \\vec{C}=(2 \\hat{i}-3 \\hat{j}+\\hat{k})$$(3 \\hat{i}+2 \\hat{j}-4 \\hat{k})=6$$-6-4=-4 \\neq 0$ $\\overrightarrow{\\mathrm{B}} \\cdot \\overrightarrow{\\mathrm{C}}=(3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}})$$(3 \\hat{i}+2 \\hat{j}-4 \\hat{k})=9$$-2-20=-13 \\neq 0$ ∴ সুতরাং বলা যায়, $\\triangle \\mathrm{ABC}$ সমকোণী ত্রিভুজ হবে না।"
+        "উত্তর": "এখানে,\n$\\vec{A}=2 \\hat{i}-3 \\hat{j}+\\hat{k}$\n$\\overrightarrow{\\mathrm{B}}=3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{C}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}$\nউদ্দীপকের ত্রিভুজটি সমকোণী ত্রিভুজ হলে, এর দুই বাহুর বর্গের সমষ্টি অপর বাহুর (অতিভুজ) বর্গের সমান হবে। মধ্যবর্তী কোণ সমকোণ হতে হবে অর্থাৎ বাহুর ডটগুণফল শূন্য হতে হবে।\n$\\vec{A} \\cdot \\vec{B}=(2 \\hat{i}-3 \\hat{j}+\\hat{k})\\cdot(3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}})$\n$=2(3)+(-3)(-1)+1(5)=6+3+5=14 \\neq 0$\n$\\vec{A} \\cdot \\vec{C}=(2 \\hat{i}-3 \\hat{j}+\\hat{k})\\cdot(3 \\hat{i}+2 \\hat{j}-4 \\hat{k})$\n$=2(3)+(-3)(2)+1(-4)=6-6-4=-4 \\neq 0$\n$\\overrightarrow{\\mathrm{B}} \\cdot \\overrightarrow{\\mathrm{C}}=(3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}})\\cdot(3 \\hat{i}+2 \\hat{j}-4 \\hat{k})$\n$=3(3)+(-1)(2)+5(-4)=9-2-20=-13 \\neq 0$\nসুতরাং বলা যায়, কোনো দুটি ভেক্টরের স্কেলার গুণফল শূন্য না হওয়ায় $\\triangle \\mathrm{ABC}$ সমকোণী ত্রিভুজ হবে না।"
       }
     ]
   },
@@ -168,34 +168,34 @@
         "chapter": "ভেক্টর",
         "topic": "",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "যে সংঘর্ষের আগে ও পরে দুটি বস্তুর মোট গতিশক্তি ও ভরবেগের সমষ্টি উভয়ই অপরিবর্তিত থাকে সেই সংঘর্ষকে স্থিতিস্থাপক সংঘর্ষ বলে। $\\\\ $"
+        "উত্তর": "যে সংঘর্ষের আগে ও পরে দুটি বস্তুর মোট গতিশক্তি ও ভরবেগের সমষ্টি উভয়ই অপরিবর্তিত থাকে সেই সংঘর্ষকে স্থিতিস্থাপক সংঘর্ষ বলে।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "ভেক্টর গুণন বিনিময় সূত্র মানে না- ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "মনে করি $\\overrightarrow{\\mathrm{A}}$ এবং $\\overrightarrow{\\mathrm{A}}$ ভেক্টরদ্বয়ের মধ্যকার কোণ $\\theta$ তা হলে,$\\vec{A} \\times \\vec{B}=\\hat{\\eta} \\mathrm{AB} \\sin \\theta$ আবার, $\\vec{B} \\times \\vec{A}=A B \\sin \\theta(-\\hat{\\eta})$$=-\\mathrm{AB} \\sin \\theta \\hat{\\eta}$ অর্থাৎ, $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}$ এর দিক যা হবে $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}$ এর দিক হবে তার বিপরীতে। তাই $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}$ এবং $\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{A}}$ ভেক্টরদ্বয়ের মান সমান হলেও দিক হবে পরস্পর বিপরীত। এ কারণে $\\vec{A} \\times \\vec{B} \\neq \\vec{B} \\times \\vec{A}$  অর্থাৎ ভেক্টর গুণন বিনিময় সূত্র মানে না। $\\\\ $"
+        "উত্তর": "মনে করি $\\overrightarrow{\\mathrm{A}}$ এবং $\\overrightarrow{\\mathrm{B}}$ ভেক্টরদ্বয়ের মধ্যকার কোণ $\\theta$ তা হলে, $\\vec{A} \\times \\vec{B}=\\hat{\\eta} \\mathrm{AB} \\sin \\theta$\nআবার, $\\vec{B} \\times \\vec{A}=\\mathrm{AB} \\sin \\theta(-\\hat{\\eta})$\n$=-\\mathrm{AB} \\sin \\theta \\hat{\\eta}$\nঅর্থাৎ, $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}$ এর দিক যা হবে $\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{A}}$ এর দিক হবে তার বিপরীতে। তাই $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}$ এবং $\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{A}}$ ভেক্টরদ্বয়ের মান সমান হলেও দিক হবে পরস্পর বিপরীত। এ কারণে $\\vec{A} \\times \\vec{B} \\neq \\vec{B} \\times \\vec{A}$। অর্থাৎ ভেক্টর গুণন বিনিময় সূত্র মানে না।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "বস্তুকণার উপর $OX$ বরাবর ক্রিয়াশীল লব্ধি বলের মান নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টরের বিভাজন",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  'গ' থেকে পাই, $\\theta_{1}=0^{\\circ} ; \\theta_{2}=120^{\\circ}$ ও $\\theta_{3}=240^{\\circ}$\nধরি, লব্ধি বল $\\overrightarrow{\\mathrm{F}}, \\mathrm{OX}$ এর দিকের সাথে $\\theta$ কোণ তৈরি করে। $OX$ এর সাথে, $\\theta_{1}=0^{\\circ}$ $OX$ এর সাথে $\\overrightarrow{\\mathrm{F}}_{2}$ এর কোণ, $\\theta_{2}=180^{\\circ}-60^{\\circ}$$=120^{\\circ}$ $OX$ এর সাথে $\\vec{F}_{3}$ এর কোণ, $\\theta_{3}=270^{\\circ}-30^{\\circ}=240^{\\circ}$ ∴ বস্তুকণার উপর $OX$ বরাবর ক্রিয়াশীল লব্ধি বলের মান, $|\\overrightarrow{\\mathrm{F}}| \\cos \\theta=\\left|\\overrightarrow{\\mathrm{F}}_{1}\\right| \\cos \\theta_{1}$$+\\left|\\overrightarrow{\\mathrm{F}}_{2}\\right| \\cos \\theta_{2}+\\left|\\overrightarrow{\\mathrm{F}}_{3}\\right| \\cos \\theta_{3}$ বা, $|\\overrightarrow{\\mathrm{F}}| \\cos \\theta=11 \\cos 0^{\\circ}$$+22 \\cos 120^{\\circ}+33 \\cos 240^{\\circ}$ $~~~~~~~~~~~~~~~~~~~~~~$$=-16.5 \\mathrm{~N} \\text { (Ans.) }$ $\\\\ $"
+        "উত্তর": "উদ্দীপক থেকে পাই,\n$\\overrightarrow{F_1} = 11N$ (OX বরাবর)\n$\\overrightarrow{F_2} = 22N$ (OX এর সাথে $120^{\\circ}$ কোণে)\n$\\overrightarrow{F_3} = 33N$ (OX এর সাথে $240^{\\circ}$ কোণে)\n$OX$ এর সাথে, $\\theta_{1}=0^{\\circ}$\n$OX$ এর সাথে $\\overrightarrow{\\mathrm{F}}_{2}$ এর কোণ, $\\theta_{2}=180^{\\circ}-60^{\\circ}=120^{\\circ}$\n$OX$ এর সাথে $\\vec{F}_{3}$ এর কোণ, $\\theta_{3}=270^{\\circ}-30^{\\circ}=240^{\\circ}$\n∴ বস্তুকণার উপর $OX$ বরাবর ক্রিয়াশীল লব্ধি বলের $X$-উপাংশ, $R_x = |\\overrightarrow{\\mathrm{F}}_{1}| \\cos \\theta_{1}+|\\overrightarrow{\\mathrm{F}}_{2}| \\cos \\theta_{2}+|\\overrightarrow{\\mathrm{F}}_{3}| \\cos \\theta_{3}$\n$~~~~~~~~~~~~~~~~~~~~~~$$=11 \\cos 0^{\\circ}+22 \\cos 120^{\\circ}+33 \\cos 240^{\\circ}$\n$~~~~~~~~~~~~~~~~~~~~~~$$=11(1)+22(-\\frac{1}{2})+33(-\\frac{1}{2})$\n$~~~~~~~~~~~~~~~~~~~~~~$$=11-11-16.5$\n$~~~~~~~~~~~~~~~~~~~~~~$$=-16.5 \\mathrm{~N} \\text { (Ans.) }$"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "বল প্রয়োগের ফলে বস্তুকণাটি কোন দিকে গতিশীল হবে? গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টরের বিভাজন",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "'গ' থেকে প্রাপ্ত, $|\\overrightarrow{\\mathrm{F}}| \\cos \\theta=-16.5$$\\text { N ... .... .... (i) }$ অনুরূপভাবে,  $|\\vec{F}| \\sin \\theta=\\left|\\vec{F}_{1}\\right| \\sin \\theta_{1}$$+\\left|\\overrightarrow{\\mathrm{F}}_{2}\\right| \\sin \\theta_{2}+\\left|\\overrightarrow{\\mathrm{F}}_{3}\\right| \\sin \\theta_{3}$ $~~~~~~~~~~~~~~~$$=11 \\sin 0^{\\circ}+22 \\sin 120^{\\circ}$$+33 \\sin 240^{\\circ}$ $~~~~~~~~~~~~~~~$$=-\\frac{11 \\sqrt{3}}{2} \\mathrm{~N}$$\\text { ... ... ... (ii) }$ $(ii)$ কে $(i)$ দ্বারা ভাগ করে পাই, $\\frac{|\\overrightarrow{\\mathrm{F}}| \\sin \\theta}{|\\overrightarrow{\\mathrm{F}}| \\cos \\theta}=\\frac{\\frac{-11 \\sqrt{3}}{2}}{-16.5}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\begin{array}{l}\\tan \\theta=\\frac{1}{\\sqrt{3}} \\\\\\therefore \\theta=210^{\\circ}\\end{array}$ (যেহেতু $\\sin \\theta, \\cos \\theta$ উভয়ের মান ঋণাত্মক, তাই $\\theta$ ৩য় চতুর্ভাগে অবস্থিত) সুতরাং, বল প্রয়োগের ফলে বস্তুকণাটি $OX$ এর দিকের সাথে $210^{\\circ}$ কোণে; অন্যকথায়, $OX$' এর দিকের সাথে নিচের দিকে $(210° – 180°) = 30°$ কোণে গতিশীল হবে।"
+        "উত্তর": "'গ' থেকে প্রাপ্ত, $R_x = -16.5 \\mathrm{~N} \\text { ... .... .... (i) }$\nঅনুরূপভাবে, $Y$-উপাংশ, $R_y = |\\overrightarrow{\\mathrm{F}}_{1}| \\sin \\theta_{1}+|\\overrightarrow{\\mathrm{F}}_{2}| \\sin \\theta_{2}+|\\overrightarrow{\\mathrm{F}}_{3}| \\sin \\theta_{3}$\n$~~~~~~~~~~~~~~~$$=11 \\sin 0^{\\circ}+22 \\sin 120^{\\circ}+33 \\sin 240^{\\circ}$\n$~~~~~~~~~~~~~~~$$=11(0)+22(\\frac{\\sqrt{3}}{2})+33(-\\frac{\\sqrt{3}}{2})$\n$~~~~~~~~~~~~~~~$$=11\\sqrt{3}-16.5\\sqrt{3}$\n$~~~~~~~~~~~~~~~$$=-5.5\\sqrt{3} = -\\frac{11 \\sqrt{3}}{2} \\mathrm{~N}$$\\text { ... ... ... (ii) }$\n$(ii)$ কে $(i)$ দ্বারা ভাগ করে পাই, $\\frac{R_y}{R_x}=\\frac{\\frac{-11 \\sqrt{3}}{2}}{-16.5}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\tan \\theta=\\frac{1}{\\sqrt{3}}$\n$\\therefore \\theta=210^{\\circ}$ (যেহেতু $R_x, R_y$ উভয়ের মান ঋণাত্মক, তাই $\\theta$ ৩য় চতুর্ভাগে অবস্থিত)\nসুতরাং, বল প্রয়োগের ফলে বস্তুকণাটি $OX$ এর দিকের সাথে $210^{\\circ}$ কোণে; অন্যকথায়, $OX$' এর দিকের সাথে নিচের দিকে $(210^{\\circ} – 180^{\\circ}) = 30^{\\circ}$ কোণে গতিশীল হবে।"
       }
     ]
   },
@@ -216,36 +216,36 @@
         "প্রশ্ন": "অবস্থান ভেক্টর কাকে বলে?",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে। $\\\\ $"
+        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "তিনটি ভেক্টরের লব্ধি কখন শূন্য হবে? ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "একই সময়ে একটি বিন্দুতে ক্রিয়ারত তিনটি সমজাতীয় সমতলীয় ভেক্টরের লব্ধি শূন্য হবে যদি ভেক্টর তিনটিকে কোন ত্রিভুজের তিনটি বাহু দ্বারা একই ক্রমে নির্দেশ করা যায়।    চিত্রে, $\\triangle \\mathrm{ABC}-$ -এ $\\overrightarrow{A B}=\\overrightarrow{\\mathrm{P}}, \\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{Q}}, \\overrightarrow{\\mathrm{AC}}=\\vec{R}$ ত্রিভুজ সূত্রানুযায়ী, $\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{R}}$ বা, $\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{AC}}$ বা, $\\overrightarrow{A B}+\\overrightarrow{B C}-\\overrightarrow{A C}=0$ বা, $\\overrightarrow{A B}+\\overrightarrow{B C}+\\overrightarrow{C A}=0$ আবার, দুইটি ভেক্টরের লব্ধির মান তৃতীয় ভেক্টরের সমান এবং লব্ধির দিক তৃতীয় ভেক্টরের বিপরীত হলেও তিনটি ভেক্টরের লব্ধি শূন্য হয়। $\\\\ $"
+        "উত্তর": "একই সময়ে একটি বিন্দুতে ক্রিয়ারত তিনটি সমজাতীয় সমতলীয় ভেক্টরের লব্ধি শূন্য হবে যদি ভেক্টর তিনটিকে একটি ত্রিভুজের তিনটি বাহু দ্বারা একই ক্রমে নির্দেশ করা যায়।\nচিত্রে, $\\triangle \\mathrm{ABC}$-এ $\\overrightarrow{A B}=\\overrightarrow{\\mathrm{P}}, \\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{Q}}, \\overrightarrow{\\mathrm{CA}}=\\overrightarrow{\\mathrm{R}}$\nত্রিভুজ সূত্রানুযায়ী, $\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}+\\overrightarrow{\\mathrm{R}}=0$\nঅর্থাৎ, $\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{BC}}+\\overrightarrow{\\mathrm{CA}}=0$\nআবার, যদি দুটি ভেক্টরের লব্ধির মান তৃতীয় ভেক্টরের সমান হয় এবং লব্ধির দিক তৃতীয় ভেক্টরের বিপরীত হয়, তাহলেও তিনটি ভেক্টরের লব্ধি শূন্য হয়।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "উদ্দীপকের $'x'$ এর মান নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  $\\vec{v}=2 \\hat{i}+3 \\hat{j}-x \\hat{k}$ $\\overrightarrow{\\mathrm{u}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$ $\\therefore x=\\text { ? }$ আমরা জানি, দুটি ভেক্টর পরস্পর লম্ব হলে এদের স্কেলার গুণফল শূন্য হয়। $\\therefore \\overrightarrow{\\mathrm{v}} \\cdot \\overrightarrow{\\mathrm{u}}=0$ বা, $(2 \\hat{i}+3 \\hat{j}-x \\hat{k}).$$(3 \\hat{i}+2 \\hat{j}+2 \\hat{k})=0$ বা, $6+6-2 x=0$ $\\therefore x=6 \\text { (Ans.) }$ $\\\\ $"
+        "উত্তর": "এখানে, $\\vec{v}=2 \\hat{i}+3 \\hat{j}-x \\hat{k}$\n$\\overrightarrow{\\mathrm{u}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$\n$\\therefore x = ?$\nআমরা জানি, দুটি ভেক্টর পরস্পর লম্ব হলে এদের স্কেলার গুণফল শূন্য হয়।\n$\\therefore \\overrightarrow{\\mathrm{v}} \\cdot \\overrightarrow{\\mathrm{u}}=0$\nবা, $(2 \\hat{i}+3 \\hat{j}-x \\hat{k})\\cdot(3 \\hat{i}+2 \\hat{j}+2 \\hat{k})=0$\nবা, $2(3)+3(2)-x(2)=0$\nবা, $6+6-2 x=0$\nবা, $12-2x=0$\nবা, $2x=12$\n$\\therefore x=6 \\text { (Ans.) }$"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "নূন্যতম সময়ে নদী পার হতে হলে মাঝিকে নদীর প্রস্থ অপেক্ষা বেশি দূরত্ব অতিক্রম করতে হবে কি না- গাণিতিকভাবে যাচাই করো।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "ময়মনসিংহ বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\vec{v}=2 \\hat{i}+3 \\hat{j}-6 \\hat{k}$ (গ থেকে) $\\overrightarrow{\\mathrm{u}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$ স্রোতের বেগের মান, $|\\vec{u}|=u=\\sqrt{3^{2}+2^{2}+2^{2}}$$\\mathrm{ms}^{-1}=\\sqrt{17} \\mathrm{~ms}^{-1}$ নৌকার বেগের মান, $|\\vec{v}|=v=\\sqrt{2^{2}+3^{2}+(-6)^{2}}$$\\mathrm{ms}^{-1}=7 \\mathrm{~ms}^{-1}$ $u$ এবং $v$ এর মধ্যবর্তী কোণ, $a = ?$\nন্যূনতম পথে নদী পার হতে হলে লব্ধি বেগ নদীর প্রস্থ বরাবর হতে হয়। অর্থাৎ তখন লব্ধি বেগ ও স্রোতের বেগের মধ্যবর্তী কোণ $θ = 90°$ হয়। $\\therefore \\tan 90^{\\circ}=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$ বা, $u+v \\cos \\alpha=0$ বা, $\\alpha=\\cos ^{-1}\\left(-\\frac{\\mathrm{u}}{\\mathrm{v}}\\right)$ বা, $\\alpha=\\cos ^{-1}\\left(-\\frac{\\sqrt{17}}{7}\\right)$ $\\therefore \\quad \\alpha=126.087^{\\circ}$ সর্বনিম্ন পথে নদী পার হতে প্রয়োজনীয় সময়, $t₁ = 4 min$ (দেওয়া আছে) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$= 240s$ এখানে  $d =$ নদীর প্রস্থ    $\\therefore \\mathrm{t}_{1}=\\frac{\\mathrm{d}}{\\mathrm{v} \\sin \\alpha}$ বা, $240=\\frac{d}{7 \\sin 126.087^{\\circ}}$ $\\therefore \\mathrm{d}=1357.648 \\mathrm{~m}$ $~~~~~~~$$=\\mathrm{AB}$ এখন, ন্যূনতম সময়ে নদী পার হতে হলে নৌকার বেগ নদীর প্রস্থ বরাবর হতে হবে, অর্থাৎ, $\\alpha=90^{\\circ}$ হবে।    ∴ এক্ষেত্রে প্রয়োজনীয় সময়, $t_{2}=\\frac{d}{v \\sin \\alpha}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{1357.648}{7 \\sin 90^{\\circ}} \\mathrm{s}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=193.950 \\mathrm{~s}$ যা $t_1$ এর চেয়ে কম এখানে, $\\alpha=90^{\\circ}$ $u=\\sqrt{17}$ $v=7$ এবং লব্ধি বেগ, $w=\\sqrt{u^{2}+v^{2}+2 u v \\cos \\alpha}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{(\\sqrt{17})^{2}+7^{2}}+2$$\\times \\sqrt{17} \\times 7 \\times \\cos 90^{\\circ}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~$$=8.124 \\mathrm{~ms}^{-1}$ ∴ অতিক্রান্ত দূরত্ব, $\\mathrm{AC}=\\mathrm{wt}_{2}$$=(8.124 \\times 193.950)$$\\mathrm{m}=1575.650 \\mathrm{~m}$ দেখা যাচ্ছে, $AC > AB$ সুতরাং, ন্যূনতম সময়ে নদী পার হতে হলে মাঝিকে নদীর প্রস্থ অপেক্ষা বেশি দূরত্ব অতিক্রম করতে হবে।"
+        "উত্তর": "এখানে, $\\vec{v}=2 \\hat{i}+3 \\hat{j}-6 \\hat{k}$ (গ থেকে)\n$\\overrightarrow{\\mathrm{u}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$\nস্রোতের বেগের মান, $|\\vec{u}|=u=\\sqrt{3^{2}+2^{2}+2^{2}}$\n$\\mathrm{ms}^{-1}=\\sqrt{9+4+4}=\\sqrt{17} \\mathrm{~ms}^{-1}$\nনৌকার বেগের মান, $|\\vec{v}|=v=\\sqrt{2^{2}+3^{2}+(-6)^{2}}$\n$\\mathrm{ms}^{-1}=\\sqrt{4+9+36}=\\sqrt{49}=7 \\mathrm{~ms}^{-1}$\nন্যূনতম পথে নদী পার হতে হলে লব্ধি বেগ নদীর প্রস্থ বরাবর হতে হয়। অর্থাৎ তখন লব্ধি বেগ ও স্রোতের বেগের মধ্যবর্তী কোণ $\\theta = 90^{\\circ}$ হয়।\n$\\therefore \\tan 90^{\\circ}=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$\nবা, $u+v \\cos \\alpha=0$\nবা, $\\cos \\alpha=-\\frac{\\mathrm{u}}{\\mathrm{v}}$\nবা, $\\alpha=\\cos ^{-1}\\left(-\\frac{\\sqrt{17}}{7}\\right)$\n$\\therefore \\alpha \\approx 126.087^{\\circ}$\nসর্বনিম্ন পথে নদী পার হতে প্রয়োজনীয় সময়, $t₁ = 4 min$ (দেওয়া আছে)\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$= 240s$\nএখানে $d =$ নদীর প্রস্থ\n$\\therefore \\mathrm{t}_{1}=\\frac{\\mathrm{d}}{\\mathrm{v} \\sin \\alpha}$\nবা, $240=\\frac{d}{7 \\sin 126.087^{\\circ}}$\n$\\therefore \\mathrm{d}=240 \\times 7 \\sin 126.087^{\\circ} \\approx 1357.648 \\mathrm{~m}$\nএখন, ন্যূনতম সময়ে নদী পার হতে হলে নৌকার বেগ নদীর প্রস্থ বরাবর হতে হবে, অর্থাৎ, স্রোতের সাপেক্ষে নৌকাকে $90^{\\circ}$ কোণে চালাতে হবে।\n∴ এক্ষেত্রে প্রয়োজনীয় সময়, $t_{2}=\\frac{d}{v \\sin 90^{\\circ}}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{1357.648}{7 \\times 1} \\mathrm{s}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\approx 193.950 \\mathrm{~s}$\nযা $t_1$ এর চেয়ে কম।\nন্যূনতম সময়ে নদীর অন্য পাড়ে পৌঁছার লব্ধি বেগ, $w=\\sqrt{u^{2}+v^{2}+2 u v \\cos 90^{\\circ}}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{(\\sqrt{17})^{2}+7^{2}+0}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{17+49}=\\sqrt{66} \\approx 8.124 \\mathrm{~ms}^{-1}$\n∴ ন্যূনতম সময়ে অতিক্রান্ত দূরত্ব, $\\mathrm{S}=\\mathrm{wt}_{2}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~$$=(8.124 \\times 193.950)\\,\\mathrm{m} \\approx 1575.650 \\mathrm{~m}$\nদেখা যাচ্ছে, অতিক্রান্ত দূরত্ব $S \\approx 1575.650 \\mathrm{~m}$ যা নদীর প্রস্থ $d \\approx 1357.648 \\mathrm{~m}$ অপেক্ষা বেশি।\nসুতরাং, ন্যূনতম সময়ে নদী পার হতে হলে মাঝিকে নদীর প্রস্থ অপেক্ষা বেশি দূরত্ব অতিক্রম করতে হবে।"
       }
     ]
   },
@@ -264,38 +264,38 @@
       {
         "ক্রমিক": "ক",
         "প্রশ্ন": "অবস্থান ভেক্টরের সংজ্ঞা লেখো।",
-        "ধরন": "Knowledge-based",
+        " ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে। $\\\\ $"
+        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "ভেক্টর যোগের সামান্তরিক সূত্র বিনিময় সূত্র মেনে চলে।- ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "$\\overrightarrow{\\mathbf{P}}$ ও $\\overrightarrow{\\mathbf{Q}}$ ভেক্টরদ্বয় $OACB$ সামান্তরিকের $OA$ ও $OB$ বাহু দ্বারা নির্দেশ করা হলে, $OC$ কর্ণ তাদের লব্ধি প্রকাশ করবে। $OA$ ও $BC$ সমান ও সমান্তরাল বলে $\\overrightarrow{\\mathrm{OA}}=\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{P}}$ অনুরূপভাবে, $\\overrightarrow{\\mathrm{OB}}=\\overrightarrow{\\mathrm{AC}}=\\overrightarrow{\\mathrm{Q}}$ $\\triangle \\mathrm{OAC}$ হতে $\\overrightarrow{\\mathrm{OA}}+\\overrightarrow{\\mathrm{AC}}=\\overrightarrow{\\mathrm{OC}}$ $\\therefore \\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{R}}$   আবার, $\\triangle \\mathrm{OBC}$ হতে $\\overrightarrow{\\mathrm{OA}}+\\overrightarrow{\\mathrm{AC}}=\\overrightarrow{\\mathrm{OC}}$ $\\therefore \\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{R}}$ আবার,  $\\triangle \\mathrm{OBC}$ হতে $\\overrightarrow{\\mathrm{OB}}+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{OC}}$ $\\therefore \\overrightarrow{\\mathrm{Q}}+\\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{R}}$ অতএব, $\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{Q}}+\\overrightarrow{\\mathrm{P}}$ সুতরাং ভেক্টর যোগের সামান্তরিক সূত্র বিনিময় সূত্র মেনে চলে। $\\\\ $"
+        "উত্তর": "$\\overrightarrow{\\mathbf{P}}$ ও $\\overrightarrow{\\mathbf{Q}}$ ভেক্টরদ্বয় $OACB$ সামান্তরিকের $OA$ ও $OB$ বাহু দ্বারা নির্দেশ করা হলে, $OC$ কর্ণ তাদের লব্ধি প্রকাশ করবে।\n$OA$ ও $BC$ সমান ও সমান্তরাল বলে $\\overrightarrow{\\mathrm{OA}}=\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{P}}$\nঅনুরূপভাবে, $\\overrightarrow{\\mathrm{OB}}=\\overrightarrow{\\mathrm{AC}}=\\overrightarrow{\\mathrm{Q}}$\n$\\triangle \\mathrm{OAC}$ হতে $\\overrightarrow{\\mathrm{OA}}+\\overrightarrow{\\mathrm{AC}}=\\overrightarrow{\\mathrm{OC}}$\n$\\therefore \\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{R}}$\nআবার, $\\triangle \\mathrm{OBC}$ হতে $\\overrightarrow{\\mathrm{OB}}+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{OC}}$\n$\\therefore \\overrightarrow{\\mathrm{Q}}+\\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{R}}$\nঅতএব, $\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{Q}}+\\overrightarrow{\\mathrm{P}}$\nসুতরাং ভেক্টর যোগের সামান্তরিক সূত্র বিনিময় সূত্র মেনে চলে।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "সোহেলের ক্ষেত্রে নৌকার বেগ ও স্রোতের বেগের লব্ধি বেগের মান নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  স্রোতের বেগ, $\\mathrm{u}=4 \\mathrm{kmh}^{-1}$ নৌকার বেগ, $\\mathrm{u}=8 \\mathrm{kmh}^{-1}$ $\\therefore \\mathrm{u}$ ও $v$ এর মধ্যবর্তী কোণ, $\\alpha=?$ যেহেতু, লব্ধি ও স্রোতের মধ্যবর্তী কোণ $\\theta=90^{\\circ}$ সুতরাং লব্ধি বেগের দিক, $\\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$ বা, $\\tan 90^{\\circ}=\\frac{8 \\sin \\alpha}{4+8 \\cos \\alpha}$ বা, $4+8 \\cos \\alpha=0$ বা, $\\alpha=\\cos ^{-1}\\left(-\\frac{4}{8}\\right)$ $\\therefore \\alpha=120^{\\circ}$ লব্ধি বেগ, $R=\\sqrt{u^{2}+v^{2}+2 u v \\cos \\alpha}$ $~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{4^{2}+8^{2}+2 \\times 4 \\times 8 \\times \\cos 120^{\\circ}}$ $~~~~~~~~~~~~~~~~~~~~$$=4 \\sqrt{3} \\mathrm{kmh}^{-1} \\text { (Ans.) }$ $\\\\ $"
+        "উত্তর": "এখানে, স্রোতের বেগ, $\\mathrm{u}=4 \\mathrm{kmh}^{-1}$\nসোহেলের নৌকার বেগ, $\\mathrm{v}=8 \\mathrm{kmh}^{-1}$\n$\\therefore \\mathrm{u}$ ও $v$ এর মধ্যবর্তী কোণ, $\\alpha=?$\nযেহেতু, লব্ধি ও স্রোতের মধ্যবর্তী কোণ $\\theta=90^{\\circ}$ (সোহেল নদীর প্রস্থ বরাবর D বিন্দুতে পৌঁছায়)\nলব্ধি বেগের দিক নির্ণয়ের সূত্রানুযায়ী, $\\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$\nবা, $\\tan 90^{\\circ}=\\frac{8 \\sin \\alpha}{4+8 \\cos \\alpha}$\nবা, $4+8 \\cos \\alpha=0$\nবা, $8 \\cos \\alpha=-4$\nবা, $\\cos \\alpha=-\\frac{4}{8}=-\\frac{1}{2}$\nবা, $\\alpha=\\cos ^{-1}\\left(-\\frac{1}{2}\\right)$\n$\\therefore \\alpha=120^{\\circ}$\nলব্ধি বেগ, $R=\\sqrt{u^{2}+v^{2}+2 u v \\cos \\alpha}$\n$~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{4^{2}+8^{2}+2 \\times 4 \\times 8 \\times \\cos 120^{\\circ}}$\n$~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{16+64+64 \\times (-\\frac{1}{2})}$\n$~~~~~~~~~~~~~~~~~~~~$$=\\sqrt{16+64-32}=\\sqrt{48}$\n$~~~~~~~~~~~~~~~~~~~~$$=4 \\sqrt{3} \\mathrm{kmh}^{-1} \\text { (Ans.) }$"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "নদীর প্রস্থ $AD$ ও রোহানের দৈর্ঘ্য বরাবর অতিক্রান্ত দূরত্ব $DC$ সমান হবে কি-না? গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "রাজশাহী বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  $t=10 \\mathrm{~min}=600 \\mathrm{~s}$ $v_{s}=$ সোহেলের নৌকার বেগ $=8 \\mathrm{kmh}^{1}=\\frac{20}{9} \\mathrm{~ms}^{-1}$ নদীর প্রস্থ, $d = ?$ 'গ' থেকে প্রাপ্ত, স্রোতের বেগ ও সোহেলের নৌকার বেগের মধ্যবর্তী কোণ, $\\alpha_{\\mathrm{s}}=120^{\\circ}$ সোহেলের নদী পার হতে প্রয়োজনীয় সময়, $t=\\frac{d}{v_{s} \\sin \\alpha_{s}}$ বা, $600=\\frac{d}{\\frac{20}{9} \\sin 120^{\\circ}}$ $\\therefore \\mathrm{d}=1154.7 \\mathrm{~m}=\\mathrm{AD}$ এখন, রোহানের লব্ধি বেগ $AC$ বরাবর, যা স্রোতের দিকের সাথে $\\theta_{\\mathrm{R}}$ কোণ উৎপন্ন করে (ধরি)। $\\tan \\theta_{R}=\\frac{v_{R} \\sin \\alpha_{R}}{u+v_{R} \\cos \\alpha_{R}}$ বা, $\\tan \\theta_{R}=\\frac{\\frac{25}{9} \\sin 90^{\\circ}}{\\frac{10}{9}+\\frac{25}{9} \\cos 90^{\\circ}}$ $\\therefore \\theta_{R}=\\tan ^{-1}\\left(\\frac{25}{10}\\right)=68.20^{\\circ}$   চিত্র-১ থেকে, $\\phi=90^{\\circ}-68.20^{\\circ}$$=21.80^{\\circ}$ $\\triangle \\mathrm{ACD}$-তে $\\tan \\phi=\\frac{\\mathrm{CD}}{\\mathrm{AD}}$ বা, $\\tan \\phi=\\frac{\\mathrm{CD}}{\\mathrm{AD}}$ বা, $C D=1154.7 \\tan \\left(21.80^{\\circ}\\right)$ $\\therefore C D=461.85 \\mathrm{~m} \\neq \\mathrm{AD}$ সুতরাং, নদীর প্রস্থ $AD$ ও রোহানের দৈর্ঘ্য বরাবর অতিক্রান্ত দূরত্ব $DC$ সমান হবে না।"
+        "উত্তর": "এখানে, সোহেলের ক্ষেত্রে নদী পার হওয়ার সময় $t=10 \\mathrm{~min}=600 \\mathrm{~s}$\nসোহেলের নৌকার বেগ, $v_{s}=8 \\mathrm{kmh}^{-1}=\\frac{8 \\times 1000}{3600} \\mathrm{~ms}^{-1}=\\frac{20}{9} \\mathrm{~ms}^{-1}$\nস্রোতের বেগ, $u=4 \\mathrm{kmh}^{-1}=\\frac{4 \\times 1000}{3600} \\mathrm{~ms}^{-1}=\\frac{10}{9} \\mathrm{~ms}^{-1}$\nনদীর প্রস্থ, $d = ?$\n'গ' থেকে প্রাপ্ত, স্রোতের বেগ ও সোহেলের নৌকার বেগের মধ্যবর্তী কোণ, $\\alpha_{\\mathrm{s}}=120^{\\circ}$\nসোহেলের নদী পার হতে প্রয়োজনীয় সময়, $t=\\frac{d}{v_{s} \\sin \\alpha_{s}}$\nবা, $600=\\frac{d}{\\frac{20}{9} \\sin 120^{\\circ}}$\n$\\therefore \\mathrm{d}=600 \\times \\frac{20}{9} \\times \\frac{\\sqrt{3}}{2} \\approx 1154.7 \\mathrm{~m}=\\mathrm{AD}$\nএখন, রোহানের লব্ধি বেগ $AC$ বরাবর। রোহান $AD$ বরাবর $10 \\mathrm{kmh}^{-1}$ বেগে নৌকা চালানো শুরু করে। অর্থাৎ, স্রোতের সাথে নৌকার বেগের কোণ $\\alpha_{R}=90^{\\circ}$।\nরোহানের নৌকার বেগ, $v_R = 10 \\mathrm{kmh}^{-1} = \\frac{10 \\times 1000}{3600} \\mathrm{~ms}^{-1} = \\frac{25}{9} \\mathrm{~ms}^{-1}$\nধরি, রোহানের লব্ধি বেগ স্রোতের দিকের সাথে $\\theta_{\\mathrm{R}}$ কোণ উৎপন্ন করে।\n$\\tan \\theta_{R}=\\frac{v_{R} \\sin \\alpha_{R}}{u+v_{R} \\cos \\alpha_{R}}$\nবা, $\\tan \\theta_{R}=\\frac{\\frac{25}{9} \\sin 90^{\\circ}}{\\frac{10}{9}+\\frac{25}{9} \\cos 90^{\\circ}}$\nবা, $\\tan \\theta_{R}=\\frac{\\frac{25}{9}}{\\frac{10}{9}}=\\frac{25}{10}=2.5$\n$\\therefore \\theta_{R}=\\tan ^{-1}(2.5) \\approx 68.20^{\\circ}$\nচিত্র থেকে, স্রোতের দিকের সাথে লব্ধি বেগের কোণ $\\theta_R \\approx 68.20^{\\circ}$। নদীর প্রস্থের দিকের সাথে লব্ধি বেগের কোণ $\\phi = 90^{\\circ}-\\theta_R = 90^{\\circ}-68.20^{\\circ} \\approx 21.80^{\\circ}$\n$\\triangle \\mathrm{ACD}$-তে $\\tan \\phi=\\frac{\\mathrm{CD}}{\\mathrm{AD}}$\nবা, $\\tan 21.80^{\\circ}=\\frac{\\mathrm{CD}}{1154.7}$\nবা, $C D=1154.7 \\tan \\left(21.80^{\\circ}\\right)$\n$\\therefore C D \\approx 461.85 \\mathrm{~m}$\nদেখা যাচ্ছে, নদীর প্রস্থ $AD \\approx 1154.7 \\mathrm{~m}$ এবং রোহানের দৈর্ঘ্য বরাবর অতিক্রান্ত দূরত্ব $DC \\approx 461.85 \\mathrm{~m}$।\nসুতরাং, নদীর প্রস্থ $AD$ ও রোহানের দৈর্ঘ্য বরাবর অতিক্রান্ত দূরত্ব $DC$ সমান হবে না।"
       }
     ]
   },
@@ -316,36 +316,36 @@
         "প্রশ্ন": "কার্ল এর সংজ্ঞা দাও।",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর ক্যালকুলাস",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "কার্ল হলো কোন ভেক্টর ক্ষেত্রের ঘূর্ণনের সাথে সম্পর্কিত এমন একটি ভেক্টর রাশি যা ঐ ভেক্টর ক্ষেত্রের কোনো একটি বিন্দুর চতুর্দিকে প্রতি একক ক্ষেত্রফলে ভেক্টরটির সর্বোচ্চ লাইন ইন্টিগ্র্যাল প্রকাশ করে। $\\\\ $"
+        "উত্তর": "কার্ল হলো কোন ভেক্টর ক্ষেত্রের ঘূর্ণনের সাথে সম্পর্কিত এমন একটি ভেক্টর রাশি যা ঐ ভেক্টর ক্ষেত্রের কোনো একটি বিন্দুর চতুর্দিকে প্রতি একক ক্ষেত্রফলে ভেক্টরটির সর্বোচ্চ লাইন ইন্টিগ্র্যাল প্রকাশ করে।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "$\\overrightarrow{\\mathrm{r}}=5 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}$ একটি সীমাবদ্ধ ভেক্টর- ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "যে ভেক্টরের পাদবিন্দু নির্দিষ্ট (যা ইচ্ছানুযায়ী পরিবর্তন করা যায় না) তাকে সীমাবদ্ধ $(Localised vector)$ ভেক্টর বলে। $\\overrightarrow{\\mathrm{r}}=5 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}$ একটি সীমাবদ্ধ ভেক্টর, এটা দ্বারা বুঝায়, $\\overrightarrow{\\mathbf{r}}$ ভেক্টরটির পাদবিন্দু প্রসঙ্গ কাঠামোর মূলবিন্দুতে যা অপরিবর্তনীয়। এই পাদবিন্দু ইচ্ছামত পরিবর্তন করা যাবে না। $\\\\ $"
+        "উত্তর": "যে ভেক্টরের পাদবিন্দু নির্দিষ্ট (যা ইচ্ছানুযায়ী পরিবর্তন করা যায় না) তাকে সীমাবদ্ধ (Localised vector) ভেক্টর বলে। $\\overrightarrow{\\mathrm{r}}=5 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}$ একটি সীমাবদ্ধ ভেক্টর, এটা দ্বারা বুঝায়, $\\overrightarrow{\\mathbf{r}}$ ভেক্টরটির পাদবিন্দু প্রসঙ্গ কাঠামোর মূলবিন্দুতে যা অপরিবর্তনীয়। এই পাদবিন্দু ইচ্ছামত পরিবর্তন করা যাবে না।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$A$ হতে সোজা অপর পাড়ের $B$ বিন্দুতে পৌঁছতে হলে নৌকাটিকে কোন দিকে চালনা করতে হবে?",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "এখানে  নৌকার $= v$  স্রোতের $= u$ স্রোতের অনুকূলে নৌকার বেগ $=20 \\mathrm{kmh}^{-1}$ $\\therefore \\mathrm{v}+\\mathrm{u}=20$$.......................(i)$ অনুরূপভাবে, স্রোতের প্রতিকূলে,  নৌকার বেগ $=10 \\mathrm{kmh}^{-1}$ $\\therefore v-u=10$$.................(ii)$ $(\\mathrm{i})+(\\mathrm{ii})$ থেকে পাই, $2 \\mathrm{y}=30$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\therefore \\quad v=15 \\mathrm{kmh}^{-1}$ আবার, (i) হতে পাই, $\\mathrm{u}=20-\\mathrm{v}^{\\prime}$$=20-15=5 . \\mathrm{km} \\mathrm{~h}^{-1}$ $A$ থেকে সোজা-অপর পাড়ের $B$ বিন্দুতে পৌঁছাতে হলে লব্ধি কোণ θ $= 90°$ হবে। ধরি, $B$ বিন্দুতে পৌছাতে নৌকাটিকে স্রোতের সাথে $\\alpha$ কোণে চালনা করতে হবে। ∴ নৌকার লব্ধি বেগের দিক, $\\tan \\theta=\\frac{v \\sin \\alpha}{u+y \\cos \\alpha}$ বা, $\\tan 90^{\\circ}=\\frac{15 \\sin \\alpha}{5+15 \\cos \\alpha}$ বা, $5+15 \\cos \\alpha=0$$\\left[\\because \\frac{.1}{\\tan 90^{\\circ}}=0\\right]$ $\\therefore \\quad \\alpha=\\cos ^{-1}\\left(\\frac{-5}{15}\\right)$$=109.47^{\\circ}$ সুতরাং $A$ হতে সোজা অপর পাড়ের $B$ বিন্দুতে পৌছতে হলে নৌকাটিকে স্রোতের সাথে $109.47^{\\circ}$ কোণে চালনা করতে হবে। (Ans.) $\\\\ $"
+        "উত্তর": "এখানে,\nনৌকার বেগ $= v$\nস্রোতের বেগ $= u$\nস্রোতের অনুকূলে নৌকার বেগ $=20 \\mathrm{kmh}^{-1}$\n$\\therefore \\mathrm{v}+\\mathrm{u}=20$$.......................(i)$\nঅনুরূপভাবে, স্রোতের প্রতিকূলে, নৌকার বেগ $=10 \\mathrm{kmh}^{-1}$\n$\\therefore v-u=10$$.................(ii)$\n$(\\mathrm{i})+(\\mathrm{ii})$ থেকে পাই,\n$2 \\mathrm{v}=30$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\therefore \\quad v=15 \\mathrm{kmh}^{-1}$\nআবার, (i) হতে পাই,\n$\\mathrm{u}=20-\\mathrm{v}$\n$~~~~~~~~~~~~~~~~~~$$=20-15=5 \\mathrm{kmh}^{-1}$\n$A$ থেকে সোজা অপর পাড়ের $B$ বিন্দুতে পৌঁছাতে হলে লব্ধি কোণ $\\theta = 90^{\\circ}$ হবে।\nধরি, $B$ বিন্দুতে পৌছাতে নৌকাটিকে স্রোতের সাথে $\\alpha$ কোণে চালনা করতে হবে।\n∴ নৌকার লব্ধি বেগের দিক, $\\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$\nবা, $\\tan 90^{\\circ}=\\frac{15 \\sin \\alpha}{5+15 \\cos \\alpha}$\nবা, $5+15 \\cos \\alpha=0$ $\\left[\\because \\frac{1}{\\tan 90^{\\circ}}=0\\right]$\nবা, $15 \\cos \\alpha=-5$\n$\\therefore \\quad \\alpha=\\cos ^{-1}\\left(-\\frac{5}{15}\\right)=\\cos ^{-1}\\left(-\\frac{1}{3}\\right)$\n$\\alpha \\approx 109.47^{\\circ}$\nসুতরাং $A$ হতে সোজা অপর পাড়ের $B$ বিন্দুতে পৌছতে হলে নৌকাটিকে স্রোতের সাথে $109.47^{\\circ}$ কোণে চালনা করতে হবে। (Ans.)"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "নদী পার হওয়ার জন্য নৌকাটি যদি $A$ বিন্দু হতে সোজাসুজি রওয়ানা করতো তাহলে নদী পার হতে পূর্বের চেয়ে সময় কম না বেশি লাগতো? গাণিতিক বিশ্লেষণ করে মতামত দাও।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\mathrm{d}=2 \\mathrm{~km}$ $\\mathrm{v}=15 \\mathrm{kmh}^{-1}$ $\\alpha=109.47^{\\circ}$ [গ থেকে প্রাপ্ত] ১ম ক্ষেত্র: সোজা $B$ বিন্দুতে পৌঁছানোর জন্য প্রয়োজনীয় সময়, $t_{1}=\\frac{d}{v \\sin \\alpha}$ বা, $t_{1}=\\frac{2}{15 \\sin 109.47^{\\circ}}$ বা, $t_{1}=0.141 \\mathrm{~h}$ (প্রায়) $\\therefore \\quad t_{1}=8.46 \\mathrm{~min}$ (প্রায়)  এখানে,  $\\alpha=90^{\\circ}$ ২য় ক্ষেত্র: $B$ বিন্দু অভিমুখে রওনা হলে, প্রয়োজনীয় সময়, $t_{2}=\\frac{d}{v \\sin \\alpha}$ বা, $\\mathrm{t}_{2}=\\frac{2}{15 \\sin 90^{\\circ}}$ বা, $t_{2}=0.133 \\mathrm{~h}$ $\\therefore \\quad t_{2}=8 \\mathrm{~min}$ যেহেতু $t_{2}<t_{1}$ সুতরাং, নদী পার হওয়ার জন্য নৌকাটি যদি $A$ বিন্দু থেকে সোজাসুজি রওনা করতো তাহলে নদী পার হতে পূর্বের চেয়ে সময় কম লাগতো।"
+        "উত্তর": "এখানে, নদীর প্রস্থ $\\mathrm{d}=2 \\mathrm{~km}$ (উদ্দীপকে দেওয়া নেই, কিন্তু প্রশ্ন চিত্র থেকে বা সাধারণ জ্ঞানে ধরা যেতে পারে)\nনৌকার বেগ $\\mathrm{v}=15 \\mathrm{kmh}^{-1}$ (গ থেকে প্রাপ্ত)\nস্রোতের বেগ $\\mathrm{u}=5 \\mathrm{kmh}^{-1}$ (গ থেকে প্রাপ্ত)\n১ম ক্ষেত্র: $A$ হতে সোজা $B$ বিন্দুতে পৌঁছানোর জন্য (ন্যূনতম পথে) প্রয়োজনীয় সময়,\nএখানে, নৌকার বেগের দিক স্রোতের সাথে $\\alpha=109.47^{\\circ}$ (গ থেকে প্রাপ্ত)\n$t_{1}=\\frac{d}{v \\sin \\alpha}$\nবা, $t_{1}=\\frac{2}{15 \\sin 109.47^{\\circ}}$\nবা, $t_{1} \\approx 0.141 \\mathrm{~h}$ (প্রায়)\n$\\therefore \\quad t_{1} \\approx 8.46 \\mathrm{~min}$ (প্রায়)\n২য় ক্ষেত্র: $A$ বিন্দু হতে সোজাসুজি রওয়ানা করলে (নদীর প্রস্থ বরাবর, অর্থাৎ স্রোতের সাথে $90^{\\circ}$ কোণে), প্রয়োজনীয় সময়,\nএক্ষেত্রে $\\alpha=90^{\\circ}$\n$t_{2}=\\frac{d}{v \\sin \\alpha}$\nবা, $\\mathrm{t}_{2}=\\frac{2}{15 \\sin 90^{\\circ}}$\nবা, $t_{2}=\\frac{2}{15} \\mathrm{~h} \\approx 0.133 \\mathrm{~h}$\n$\\therefore \\quad t_{2}=8 \\mathrm{~min}$\nযেহেতু $t_{2}<t_{1}$ সুতরাং, নদী পার হওয়ার জন্য নৌকাটি যদি $A$ বিন্দু থেকে সোজাসুজি রওনা করতো তাহলে নদী পার হতে পূর্বের চেয়ে সময় কম লাগতো।"
       }
     ]
   },
@@ -366,36 +366,36 @@
         "প্রশ্ন": "অবস্থান ভেক্টর কাকে বলে?",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে। $\\\\ $"
+        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "$\\hat{\\mathbf{j}} \\times \\hat{\\mathbf{k}}$ একটি একক ভেক্টর- ব্যাখ্যা কর।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "আমরা জানি, $\\bar{A} \\times \\bar{B}=\\hat{\\eta} \\mathrm{AB} \\sin \\theta$ সুতরাং $\\hat{j} \\times \\hat{k}$$=\\hat{\\eta}(1)(1)\\left(\\sin 90^{\\circ}\\right)$$[\\because \\hat{j} ও \\hat{k}$ পরস্পর লম্ব] $~~~~~~~~~~~~~~~~~~~~$$=\\hat{\\eta}(1)(1)(1)=\\hat{\\eta}$ এখানে $\\hat{\\mathrm{j}}$ ও $\\hat{\\mathrm{k}}$ উভয়ের ওপর লম্ব $\\hat{\\eta}$ ডানহাতি স্ক্রু নিয়ম মেনে চলে, আবার $\\hat{j}$ ও $\\hat{k}$ উভয়ের ওপর লম্ব $\\hat{i}$ এবং এরাও ডানহাতি স্ক্রু নিয়ম মেনে চলে। সুতরাং বলা যায় $\\hat{\\eta}=\\hat{i}$ $\\therefore \\hat{\\mathrm{j}} \\times \\hat{\\mathrm{k}}=\\hat{\\mathrm{i}}$ আমরা জানি, $X$-অক্ষ বরাবর কার্যকর একক ভেক্টর $=\\hat{i}$ সুতরাং বলা যায় $\\hat{j} \\times \\hat{k}$ একটি একক ভেক্টর। $\\\\ $"
+        "উত্তর": "আমরা জানি, $\\vec{A} \\times \\vec{B}=\\hat{\\eta} \\mathrm{AB} \\sin \\theta$\nসুতরাং $\\hat{j} \\times \\hat{k}$$=\\hat{\\eta}(1)(1)\\left(\\sin 90^{\\circ}\\right)$ $[\\because \\hat{j}$ ও $\\hat{k}$ পরস্পর লম্ব]\n$~~~~~~~~~~~~~~~~~~~~$$=\\hat{\\eta}(1)(1)(1)=\\hat{\\eta}$\nএখানে $\\hat{\\mathrm{j}}$ ও $\\hat{\\mathrm{k}}$ উভয়ের ওপর লম্ব $\\hat{\\eta}$ ডানহাতি স্ক্রু নিয়ম মেনে চলে, আবার $\\hat{j}$ ও $\\hat{k}$ উভয়ের ওপর লম্ব $\\hat{i}$ এবং এরাও ডানহাতি স্ক্রু নিয়ম মেনে চলে।\nসুতরাং বলা যায় $\\hat{\\eta}=\\hat{i}$\n$\\therefore \\hat{\\mathrm{j}} \\times \\hat{\\mathrm{k}}=\\hat{\\mathrm{i}}$\nআমরা জানি, $X$-অক্ষ বরাবর কার্যকর একক ভেক্টর $=\\hat{i}$\nসুতরাং বলা যায় $\\hat{j} \\times \\hat{k}$ একটি একক ভেক্টর।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "$a$ এর মান কত হলে $\\overrightarrow{\\mathbf{r}}$ ভেক্টরের ক্ষেত্রটি সলিনয়ডাল হবে নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর ক্যালকুলাস",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "এখানে, $\\bar{\\nabla}=\\hat{i} \\frac{\\partial}{\\partial x}+\\hat{j} \\frac{\\partial}{\\partial y}+\\hat{k} \\frac{\\partial}{\\partial z}$ $\\vec{r}=a x \\hat{i}+y \\hat{j}+2 \\hat{k}$\nসলিনয়ডাল হলে $\\overrightarrow{\\mathbf{r}}$ ভেক্টরের ডাইভারজেন্স শূন্য হবে। অর্থাৎ $\\vec{\\nabla} \\cdot \\vec{r}=0$ বা, $\\left(\\hat{\\mathrm{i}} \\frac{\\partial}{\\partial \\mathrm{x}}+\\hat{\\mathrm{j}} \\frac{\\partial}{\\partial \\mathrm{y}}+\\hat{\\mathrm{k}} \\frac{\\partial}{\\partial \\mathrm{z}}\\right).$ $(a x \\hat{i}+y \\hat{j}+2 \\hat{k})=0$ বা, $\\frac{\\partial}{\\partial x}(a x)+\\frac{\\partial}{\\partial y}$$(y)+\\frac{\\partial}{\\partial z}(2)=0$ বা, $a+1+0=0$ $\\therefore \\mathrm{a}=-1 \\text { (Ans.) }$ $\\\\ $"
+        "উত্তর": "এখানে, $\\vec{\\nabla}=\\hat{i} \\frac{\\partial}{\\partial x}+\\hat{j} \\frac{\\partial}{\\partial y}+\\hat{k} \\frac{\\partial}{\\partial z}$\n$\\vec{r}=a x \\hat{i}+y \\hat{j}+2 \\hat{k}$\nসলিনয়ডাল হলে $\\overrightarrow{\\mathbf{r}}$ ভেক্টরের ডাইভারজেন্স শূন্য হবে। অর্থাৎ $\\vec{\\nabla} \\cdot \\vec{r}=0$\nবা, $\\left(\\hat{\\mathrm{i}} \\frac{\\partial}{\\partial \\mathrm{x}}+\\hat{\\mathrm{j}} \\frac{\\partial}{\\partial \\mathrm{y}}+\\hat{\\mathrm{k}} \\frac{\\partial}{\\partial \\mathrm{z}}\\right) \\cdot (a x \\hat{i}+y \\hat{j}+2 \\hat{k})=0$\nবা, $\\frac{\\partial}{\\partial x}(a x)+\\frac{\\partial}{\\partial y}(y)+\\frac{\\partial}{\\partial z}(2)=0$\nবা, $a+1+0=0$\n$\\therefore \\mathrm{a}=-1 \\text { (Ans.) }$"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "$\\vec{P} \\times \\vec{Q}$ ভেক্টর ক্ষেত্রটি ঘূর্ণনশীল না অঘূর্ণনশীল- গাণিতিক বিশ্লেষণ করে মতামত দাও।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর ক্যালকুলাস",
         "source": "দিনাজপুর বোর্ড ২০২৪",
-        "উত্তর": "এখানে,  $\\overrightarrow{\\mathrm{P}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ $\\overrightarrow{\\mathrm{Q}}=4 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$ $\\bar{\\nabla}=\\hat{i} \\frac{\\partial}{\\partial x}+\\hat{j} \\frac{\\partial}{\\partial y}+\\hat{k} \\frac{\\partial}{\\partial z}$ $\\therefore \\overrightarrow{\\mathrm{P}} \\times \\overrightarrow{\\mathrm{Q}}=\\text { ? }$ ভেক্টর ক্ষেত্রের ঘূর্ণনশীলতা তার কার্লের উপর নির্ভর করে। যদি কোনো ভেক্টরের কার্ল শূন্য হয়, তবে ঐ ভেক্টরটি অঘূর্ণনশীল ও সংরক্ষণশীল হয়। অন্যথায়, ভেক্টরটি ঘূর্ণনশীল ও অসংরক্ষণশীল হবে।  এখন,  $\\vec{P} \\times \\vec{Q}=\\left|\\begin{array}{ccc}\\hat{i} & \\hat{j} & \\hat{k} \\\\2 & 3 & 4 \\\\4 & 4 & -1\\end{array}\\right|$ $=\\hat{i}(-3-16)-\\hat{j}(-2-16)$$+\\hat{k}(8-12)$ $=-19 \\hat{i}+18 \\hat{j}-4 \\hat{k}$ $\\therefore \\vec{\\nabla} \\times(\\overrightarrow{\\mathrm{P}} \\times \\overrightarrow{\\mathrm{Q}})=0$$\\left|\\begin{array}{ccc}\\hat{i} & \\hat{j} & \\hat{k} \\\\\\frac{\\partial}{\\partial x} & \\frac{\\partial}{\\partial y} & \\frac{\\partial}{\\partial z} \\\\-19 & 18 & -4\\end{array}\\right|$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\hat{i}\\left[\\frac{\\partial}{\\partial y}(-4)-\\frac{\\partial}{\\partial z}(18)\\right]$$-\\hat{i j}\\left[\\frac{\\partial}{\\partial x}(-4)-\\frac{\\partial}{\\partial z}(-19)\\right]$$+\\hat{k}\\left[\\frac{\\partial}{\\partial x}(18)-\\frac{\\partial}{\\partial y}(-19)\\right]$ $=\\hat{\\mathrm{i}} .0-\\hat{\\mathrm{j}} .0+\\hat{\\mathrm{k}} .0=0$ যেহেতু $\\vec{\\nabla} \\times(\\overrightarrow{\\mathrm{P}} \\times \\overrightarrow{\\mathrm{Q}})=0$ সুতরাং, $\\vec{P} \\times \\vec{Q}$ ভেক্টর ক্ষেত্রটি অঘূর্ণনশীল।"
+        "উত্তর": "এখানে,\n$\\overrightarrow{\\mathrm{P}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{Q}}=4 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$\n$\\vec{\\nabla}=\\hat{i} \\frac{\\partial}{\\partial x}+\\hat{j} \\frac{\\partial}{\\partial y}+\\hat{k} \\frac{\\partial}{\\partial z}$\nভেক্টর ক্ষেত্রের ঘূর্ণনশীলতা তার কার্লের উপর নির্ভর করে। যদি কোনো ভেক্টরের কার্ল শূন্য হয়, তবে ঐ ভেক্টরটি অঘূর্ণনশীল ও সংরক্ষণশীল হয়। অন্যথায়, ভেক্টরটি ঘূর্ণনশীল ও অসংরক্ষণশীল হবে।\nএখন,\n$\\vec{P} \\times \\vec{Q}=\\left|\\begin{array}{ccc}\\hat{i} & \\hat{j} & \\hat{k} \\\\2 & 3 & 4 \\\\4 & 4 & -1\\end{array}\\right|$\n$=\\hat{i}(3 \\times (-1)-4 \\times 4)-\\hat{j}(2 \\times (-1)-4 \\times 4)+\\hat{k}(2 \\times 4-3 \\times 4)$\n$=\\hat{i}(-3-16)-\\hat{j}(-2-16)+\\hat{k}(8-12)$\n$=\\hat{i}(-19)-\\hat{j}(-18)+\\hat{k}(-4)$\n$=-19 \\hat{i}+18 \\hat{j}-4 \\hat{k}$\n$\\therefore \\vec{\\nabla} \\times(\\overrightarrow{\\mathrm{P}} \\times \\overrightarrow{\\mathrm{Q}})=\\left|\\begin{array}{ccc}\\hat{i} & \\hat{j} & \\hat{k} \\\\\\frac{\\partial}{\\partial x} & \\frac{\\partial}{\\partial y} & \\frac{\\partial}{\\partial z} \\\\-19 & 18 & -4\\end{array}\\right|$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\hat{i}\\left[\\frac{\\partial}{\\partial y}(-4)-\\frac{\\partial}{\\partial z}(18)\\right]$\n$-\\hat{j}\\left[\\frac{\\partial}{\\partial x}(-4)-\\frac{\\partial}{\\partial z}(-19)\\right]$\n$+\\hat{k}\\left[\\frac{\\partial}{\\partial x}(18)-\\frac{\\partial}{\\partial y}(-19)\\right]$\n$=\\hat{\\mathrm{i}} (0-0) - \\hat{\\mathrm{j}} (0-0) + \\hat{\\mathrm{k}} (0-0) = 0$\nযেহেতু $\\vec{\\nabla} \\times(\\overrightarrow{\\mathrm{P}} \\times \\overrightarrow{\\mathrm{Q}})=0$ সুতরাং, $\\vec{P} \\times \\vec{Q}$ ভেক্টর ক্ষেত্রটি অঘূর্ণনশীল।"
       }
     ]
   },
@@ -416,36 +416,36 @@
         "প্রশ্ন": "সীমাবদ্ধ ভেক্টর কাকে বলে?",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "যে ভেক্টরের পাদবিন্দু নির্দিষ্ট বা যে ভেক্টরের পাদবিন্দু ইচ্ছানুযায়ী পরিবর্তন করা যায় না, তাকে সীমাবদ্ধ ভেক্টর বলে। $\\\\ $"
+        "উত্তর": "যে ভেক্টরের পাদবিন্দু নির্দিষ্ট বা যে ভেক্টরের পাদবিন্দু ইচ্ছানুযায়ী পরিবর্তন করা যায় না, তাকে সীমাবদ্ধ ভেক্টর বলে।"
       },
       {
-        "ক্রমিক": "খ",
+        "ক্রমik": "খ",
         "প্রশ্ন": "বল ও সরণ ভেক্টর রাশি হলেও কাজ স্কেলার রাশি কেন? ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "সংজ্ঞানুযায়ী বল ও বলের দিকে বস্তুর সরণের গুণফলই কাজ। অর্থাৎ কোন কণার উপর $t$ সময় ধরে $F$ বল প্রয়োগ করায় যদি তার $\\overrightarrow{\\mathrm{F}}$ এর সাথে θ কোণ করে ঐ সময়ে $\\vec{S}$ সরণ হয় তবে, সংজ্ঞানুসারে কাজ, $\\mathrm{W}=\\mathrm{FS} \\cos \\theta=\\overrightarrow{\\mathrm{F}} \\cdot \\overrightarrow{\\mathrm{~S}}$ [স্কেলার গুণনের সংজ্ঞানুসারে] অতএব, কাজ হলো বল ও সরণ ভেক্টরের ডট বা স্কেলার প্রোডাক্ট যা সর্বদা ভেক্টর রাশি হলেও এদের দ্বারা সৃষ্ট কাজ স্কেলার রাশি। $\\\\ $"
+        "উত্তর": "সংজ্ঞানুযায়ী বল ও বলের দিকে বস্তুর সরণের গুণফলই কাজ। অর্থাৎ কোন কণার উপর $t$ সময় ধরে $\\vec{F}$ বল প্রয়োগ করায় যদি তার $\\overrightarrow{\\mathrm{F}}$ এর সাথে $\\theta$ কোণ করে ঐ সময়ে $\\vec{S}$ সরণ হয় তবে, সংজ্ঞানুসারে কাজ, $\\mathrm{W}=\\mathrm{FS} \\cos \\theta=\\overrightarrow{\\mathrm{F}} \\cdot \\overrightarrow{\\mathrm{~S}}$ [স্কেলার গুণনের সংজ্ঞানুসারে]\nঅতএব, কাজ হলো বল ও সরণ ভেক্টরের ডট বা স্কেলার প্রোডাক্ট যা সর্বদা স্কেলার রাশি।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "ভেক্টর $\\overrightarrow{\\mathrm{C}}$ বরাবর একক ভেক্টর নির্ণয় করো।",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "যেহেতু $\\overrightarrow{\\mathrm{C}}$ ভেক্টরটি $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টরদ্বয়ের উপর লম্ব।  $\\therefore \\overrightarrow{\\mathrm{A}} \\text { В } \\overrightarrow{\\mathrm{B}}$ এর লম্ব বরাবর বরাবর একক ভেক্টর, $\\hat{\\eta}= \\pm \\frac{\\vec{A} \\times \\vec{B}}{|\\vec{A} \\times \\vec{B}|}$ এখানে, $\\vec{A}=-\\hat{i}-3 \\hat{j}+2 \\hat{k}$ $\\vec{B}=2 \\hat{i}-2 \\hat{j}-2 \\hat{k}$ এখানে, $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}=\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\mathrm{i} \\\\-1 & -3 & 2 \\\\2 & -2 & -2\\end{array}\\right|$ $=\\hat{\\mathrm{i}}(6+4)-\\hat{\\mathrm{j}}(2-4)+\\hat{\\mathrm{k}}(2+6)$ $=10 \\hat{i}+2 \\hat{j}+8 \\hat{k}$ $\\therefore|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|=\\sqrt{10^{2}+2^{2}+8^{2}}=2 \\sqrt{42}$ $\\therefore \\hat{\\eta}= \\pm \\frac{10 \\hat{i}+2 \\hat{j}+8 \\hat{k}}{2 \\sqrt{42}}$$= \\pm\\left(\\frac{5}{\\sqrt{42}} \\hat{\\mathrm{i}}+\\frac{1}{\\sqrt{42}} \\hat{\\mathrm{j}}+\\frac{4}{\\sqrt{42}} \\hat{\\mathrm{k}}\\right)$ চিত্র অনুযায়ী $\\overrightarrow{\\mathrm{C}}$ ভেক্টরটির দিক $\\vec{B} \\times \\vec{A}$ বরাবর বা $-(\\vec{A} \\times \\vec{B})$ বরাবর। তাই, $\\overrightarrow{\\mathrm{C}}$ ভেক্টর বরাবর একক ভেক্টর, $\\eta=-\\left(\\frac{5}{\\sqrt{42}} \\hat{\\mathrm{i}}+\\frac{1}{\\sqrt{42}} \\hat{\\mathrm{j}}+\\frac{4}{\\sqrt{42}} \\hat{\\mathrm{k}}\\right)$ (Ans.) $\\\\ $"
+        "উত্তর": "যেহেতু $\\overrightarrow{\\mathrm{C}}$ ভেক্টরটি $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টরদ্বয়ের উপর লম্ব।\n$\\therefore \\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর লম্ব বরাবর একক ভেক্টর, $\\hat{\\eta}= \\pm \\frac{\\vec{A} \\times \\vec{B}}{|\\vec{A} \\times \\vec{B}|}$\nএখানে, $\\vec{A}=-\\hat{i}-3 \\hat{j}+2 \\hat{k}$\n$\\vec{B}=2 \\hat{i}-2 \\hat{j}-2 \\hat{k}$\nএখানে, $\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}=\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\-1 & -3 & 2 \\\\2 & -2 & -2\\end{array}\\right|$\n$=\\hat{\\mathrm{i}}((-3)(-2) - 2(-2))-\\hat{\\mathrm{j}}((-1)(-2) - 2(2))+\\hat{\\mathrm{k}}((-1)(-2) - (-3)(2))$\n$=\\hat{\\mathrm{i}}(6+4)-\\hat{\\mathrm{j}}(2-4)+\\hat{\\mathrm{k}}(2+6)$\n$=10 \\hat{i}+2 \\hat{j}+8 \\hat{k}$\n$\\therefore|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|=\\sqrt{10^{2}+2^{2}+8^{2}}=\\sqrt{100+4+64}=\\sqrt{168}$\n$=\\sqrt{4 \\times 42}=2 \\sqrt{42}$\nচিত্র অনুযায়ী $\\overrightarrow{\\mathrm{C}}$ ভেক্টরটির দিক $\\vec{A} \\times \\vec{B}$ এর বিপরীত দিকে হবে।\nতাই, $\\overrightarrow{\\mathrm{C}}$ ভেক্টর বরাবর একক ভেক্টর, $\\hat{C}=-\\frac{10 \\hat{i}+2 \\hat{j}+8 \\hat{k}}{2 \\sqrt{42}}$\n$= -\\left(\\frac{5}{\\sqrt{42}} \\hat{\\mathrm{i}}+\\frac{1}{\\sqrt{42}} \\hat{\\mathrm{j}}+\\frac{4}{\\sqrt{42}} \\hat{\\mathrm{k}}\\right)$ (Ans.)"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "উদ্দীপক অনুযায়ী গাণিতিকভাবে যাচাই কর যে, $\\vec{P}+\\vec{Q}=\\vec{R}$।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "'গ' নং হতে পাই $-(\\vec{A} \\times \\vec{B})$$=(10 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+8 \\hat{\\mathrm{k}})=\\overrightarrow{\\mathrm{C}}$ $\\triangle \\mathrm{ONL}$-এ, ভেক্টর যোগের ত্রিভুজ বিধি অনুসারে, $\\vec{B}+\\vec{P}=\\vec{A}$ $\\therefore \\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}}$ $=(-\\hat{i}-3 \\hat{j}+2 \\hat{k})$$-(2 \\hat{i}-2 \\hat{j}-2 \\hat{k})$ $=-3 \\hat{i}-\\hat{j}+4 \\hat{k}$ আবার, $\\triangle \\mathrm{OML}$-এ, ভেক্টর যোগের ত্রিভুজ বিধি অনুসারে, $\\overrightarrow{\\mathrm{A}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{C}}$ $\\therefore \\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{C}}-\\overrightarrow{\\mathrm{A}}$ $=-(10 \\hat{i}+2 \\hat{j}+8 \\hat{k})$$-(-\\hat{i}-3 \\hat{j}+2 \\hat{k})$ $=-9 \\hat{i}+\\hat{j}-10 \\hat{k}$ আবার, $\\triangle \\mathrm{OMN}$ ভেক্টর যোগের ত্রিভুজ বিধি অনুসারে, $\\overrightarrow{\\mathrm{B}}+\\overrightarrow{\\mathrm{R}}=\\overrightarrow{\\mathrm{C}}$ $\\therefore \\overrightarrow{\\mathrm{R}}=\\overrightarrow{\\mathrm{C}}-\\overrightarrow{\\mathrm{B}}$$=-(10 \\hat{i}+2 \\hat{j}+8 \\hat{k})$$-(2 \\hat{i}-2 \\hat{j}-2 \\hat{k})$ $=-12 \\hat{\\mathrm{i}}-6 \\hat{\\mathrm{k}}$ $\\therefore \\text { L.H.S }=\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}$ $=(-3 \\hat{i}-\\hat{j}+4 \\hat{k})$$+(-9 \\hat{i}+\\hat{j}-10 \\hat{k})$ $=-12 \\hat{i}-6 \\hat{k}=\\vec{R}$$=\\text { R.H.S }$ সুতরাং উপরোক্ত গাণিতিক বিশ্লেষণের মাধ্যমে দেখা যাচ্ছে যে, $\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{R}}$"
+        "উত্তর": "উদ্দীপকের চিত্রানুযায়ী, $\\overrightarrow{\\mathrm{C}}$ ভেক্টরটির দিক $\\vec{A} \\times \\vec{B}$ এর বিপরীত দিকে। 'গ' নং থেকে প্রাপ্ত $\\vec{A} \\times \\vec{B}=10 \\hat{i}+2 \\hat{j}+8 \\hat{k}$।\nতাই, $\\overrightarrow{\\mathrm{C}}=-(10 \\hat{i}+2 \\hat{j}+8 \\hat{k}) = -10 \\hat{i}-2 \\hat{j}-8 \\hat{k}$।\nদেওয়া আছে, $\\vec{A}=-\\hat{i}-3 \\hat{j}+2 \\hat{k}$ এবং $\\vec{B}=2 \\hat{i}-2 \\hat{j}-2 \\hat{k}$।\nচিত্রানুযায়ী,\n$\\triangle \\mathrm{ONL}$-এ, ভেক্টর যোগের ত্রিভুজ বিধি অনুসারে,\n$\\vec{B}+\\vec{P}=\\vec{A}$\n$\\therefore \\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}}$\n$=(-\\hat{i}-3 \\hat{j}+2 \\hat{k})-(2 \\hat{i}-2 \\hat{j}-2 \\hat{k})$\n$=-3 \\hat{i}-\\hat{j}+4 \\hat{k}$\nআবার, $\\triangle \\mathrm{OML}$-এ, ভেক্টর যোগের ত্রিভুজ বিধি অনুসারে,\n$\\overrightarrow{\\mathrm{A}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{C}}$\n$\\therefore \\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{C}}-\\overrightarrow{\\mathrm{A}}$\n$=(-10 \\hat{i}-2 \\hat{j}-8 \\hat{k})-(-\\hat{i}-3 \\hat{j}+2 \\hat{k})$\n$=-10 \\hat{i}-2 \\hat{j}-8 \\hat{k}+\\hat{i}+3 \\hat{j}-2 \\hat{k}$\n$=-9 \\hat{i}+\\hat{j}-10 \\hat{k}$\nআবার, $\\triangle \\mathrm{ONM}$ ভেক্টর যোগের ত্রিভুজ বিধি অনুসারে,\n$\\overrightarrow{\\mathrm{B}}+\\overrightarrow{\\mathrm{R}}=\\overrightarrow{\\mathrm{C}}$\n$\\therefore \\overrightarrow{\\mathrm{R}}=\\overrightarrow{\\mathrm{C}}-\\overrightarrow{\\mathrm{B}}$\n$=(-10 \\hat{i}-2 \\hat{j}-8 \\hat{k})-(2 \\hat{i}-2 \\hat{j}-2 \\hat{k})$\n$=-10 \\hat{i}-2 \\hat{j}-8 \\hat{k}-2 \\hat{i}+2 \\hat{j}+2 \\hat{k}$\n$=-12 \\hat{\\mathrm{i}}-6 \\hat{\\mathrm{k}}$\n$\\therefore \\text { L.H.S }=\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}$\n$=(-3 \\hat{i}-\\hat{j}+4 \\hat{k})+(-9 \\hat{i}+\\hat{j}-10 \\hat{k})$\n$=(-3-9) \\hat{i}+(-1+1) \\hat{j}+(4-10) \\hat{k}$\n$=-12 \\hat{i}-6 \\hat{k}$\nযেহেতু L.H.S. $= -12 \\hat{i}-6 \\hat{k}$ এবং R.H.S. $=\\overrightarrow{\\mathrm{R}}=-12 \\hat{i}-6 \\hat{k}$।\nসুতরাং উপরোক্ত গাণিতিক বিশ্লেষণের মাধ্যমে দেখা যাচ্ছে যে, $\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}=\\overrightarrow{\\mathrm{R}}$।"
       }
     ]
   },
@@ -466,36 +466,36 @@
         "প্রশ্ন": "অবস্থান ভেক্টর কাকে বলে?",
         "ধরন": "Knowledge-based",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "কতিপয় ভেক্টর",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে। $\\\\ $"
+        "উত্তর": "প্রসঙ্গ কাঠামোর মূল বিন্দুর সাপেক্ষে কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে নির্ণয় বা নির্দেশ করা হয় তাকে অবস্থান ভেক্টর বলে।"
       },
       {
         "ক্রমিক": "খ",
         "প্রশ্ন": "$|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|=\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{~B}}$ হতে পারে কি? ব্যাখ্যা করো।",
         "ধরন": "Understanding",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর গুণনঃ স্কেলার গুণফল বা ডট গুণফল, ভেক্টর গুণনঃ ভেক্টর গুণফল বা ক্রস গুণফল",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "$|\\vec{A} \\times \\vec{B}|=\\vec{A} \\cdot \\vec{B}$ হলে, $\\mathrm{AB} \\sin \\theta=\\mathrm{AB} \\cos \\theta$ বা, $\\tan \\theta=1$ $\\therefore \\theta=45^{\\circ}$ অর্থাৎ $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ $45°$ হলে $|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|=\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{~B}}$ হবে। $\\\\ $"
+        "উত্তর": "$|\\vec{A} \\times \\vec{B}|=\\vec{A} \\cdot \\vec{B}$ হলে,\n$\\mathrm{AB} \\sin \\theta=\\mathrm{AB} \\cos \\theta$\nবা, $\\tan \\theta=1$\n$\\therefore \\theta=45^{\\circ}$\nঅর্থাৎ $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ $45°$ হলে $|\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}|=\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{~B}}$ হবে।"
       },
       {
         "ক্রমিক": "গ",
         "প্রশ্ন": "নৌকার লব্ধি বেগ কত ছিল?",
         "ধরন": "Application",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "এখানে, স্রোতের বেগ, $\\mathrm{u}=2 \\mathrm{~ms}^{-1}$ নৌকার বেগ, $\\mathrm{v}=6 \\mathrm{~ms}^{-1}$ স্রোতের সাথে নৌকার বেগের দিক, $\\alpha=70^{\\circ}$ আমরা জানি,  লব্ধি বেগ,  $R=\\sqrt{u^{2}+v^{2}+2 u v \\cos \\alpha}$ $=\\sqrt{2^{2}+6^{2}+2 \\times 2 \\times 6 \\times \\cos 70^{\\circ}}$ $=6.94 \\mathrm{~ms}^{-1} \\text { (Ans.) }$ $\\\\ $"
+        "উত্তর": "এখানে, স্রোতের বেগ, $\\mathrm{u}=2 \\mathrm{~ms}^{-1}$\nনৌকার বেগ, $\\mathrm{v}=6 \\mathrm{~ms}^{-1}$\nস্রোতের সাথে নৌকার বেগের দিক, $\\alpha=70^{\\circ}$\nআমরা জানি, লব্ধি বেগ, $R=\\sqrt{u^{2}+v^{2}+2 u v \\cos \\alpha}$\n$=\\sqrt{2^{2}+6^{2}+2 \\times 2 \\times 6 \\times \\cos 70^{\\circ}}$\n$=\\sqrt{4+36+24 \\cos 70^{\\circ}}$\n$=\\sqrt{40+24 \\times 0.342}$\n$=\\sqrt{40+8.208} \\approx \\sqrt{48.208}$\n$\\approx 6.94 \\mathrm{~ms}^{-1} \\text { (Ans.) }$"
       },
       {
         "ক্রমিক": "ঘ",
         "প্রশ্ন": "লোকটির পক্ষে বাসটি ধরা সম্ভব হবে কিনা- গাণিতিকভাবে বিশ্লেষণ করো।",
         "ধরন": "Higher-order skills",
         "chapter": "ভেক্টর",
-        "topic": "",
+        "topic": "ভেক্টর বীজগণিতঃ ভেক্টরের যোগ ও বিয়োগ",
         "source": "কুমিল্লা বোর্ড ২০২৪",
-        "উত্তর": "এখানে, নদীর প্রস্থ, $\\mathrm{d}=1 \\mathrm{~km}$ $~~~~~~~~~~~~~~~~~~~~$$=1000 \\mathrm{~m}$ নৌকার বেগ, $\\mathrm{v}=6 \\mathrm{~ms}^{-1}$ স্রোতের সাথে নৌকার কোণ, $\\alpha=7.0^{\\circ}$   ধরি, ঐ ব্যক্তি $AC$ বরাবর রওনা দিয়ে $AD$ বরাবর $D$ বিন্দুতে পৌঁছায়। অপর পাড়ে পৌঁছাতে প্রয়োজনীয় সময়, $t=\\frac{d}{V \\sin \\alpha}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{1000}{6 \\sin 70^{\\circ}}$ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=177.36 \\mathrm{~s}$ এখানে, ধরি, লব্ধি বেগ স্রোতের দিকের সাথে θ কোণ উৎপন্ন করে।  স্রোতের বেগ, $\\mathrm{u}=2 \\mathrm{~ms}^{-1}$ $\\therefore \\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$ বা, $\\tan \\theta=\\frac{6 \\sin 70^{\\circ}}{2+6 \\cos 70^{\\circ}}$ $\\therefore \\theta=\\tan ^{-1}(1.39)=54.30^{\\circ}$   চিত্র-2 থেকে, $\\phi=90^{\\circ}-\\theta$$=90^{\\circ}-54.30^{\\circ}$ $=35.70^{\\circ}$ $\\triangle \\mathrm{ABD}$-এ $\\tan \\phi=\\frac{\\mathrm{BD}}{\\mathrm{AB}}$ বা, $\\tan 35.70^{\\circ}=\\frac{\\mathrm{BD}}{1000}$ $\\therefore \\mathrm{BD}=718.57 \\mathrm{~m}$ এখানে,  বাসের বেগ, $\\mathrm{v}_{\\mathrm{B}}=4 \\mathrm{~ms}^{-1}$  অর্থাৎ, $177.36 s$ এ বাস যদি $718.57 m$ এর সমান বা তার কম দূরত্ব অতিক্রম করে, তাহলে লোকটির পক্ষে বাস ধরা সম্ভব হবে।  $s=v_{B} \\times t$ $~~~$$=(4 \\times 177.36) \\mathrm{m}$ $~~~$$=709.44 \\mathrm{~m}$ যেহেতু $s <BD$ সুতরাং লোকটির পক্ষে বাসটি ধরা সম্ভব হবে।"
+        "উত্তর": "এখানে, নদীর প্রস্থ, $\\mathrm{d}=1 \\mathrm{~km}=1000 \\mathrm{~m}$\nনৌকার বেগ, $\\mathrm{v}=6 \\mathrm{~ms}^{-1}$\nস্রোতের সাথে নৌকার কোণ, $\\alpha=70^{\\circ}$\nস্রোতের বেগ, $\\mathrm{u}=2 \\mathrm{~ms}^{-1}$\nধরি, ঐ ব্যক্তি স্রোতের সাথে $70^{\\circ}$ কোণে রওনা দিয়ে অপর পাড়ে পৌঁছায়।\nঅপর পাড়ে পৌঁছাতে প্রয়োজনীয় সময়, $t=\\frac{d}{V \\sin \\alpha}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$=\\frac{1000}{6 \\sin 70^{\\circ}}$\n$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$$\\approx 177.36 \\mathrm{~s}$\nধরি, লব্ধি বেগ স্রোতের দিকের সাথে $\\theta$ কোণ উৎপন্ন করে।\n$\\therefore \\tan \\theta=\\frac{v \\sin \\alpha}{u+v \\cos \\alpha}$\nবা, $\\tan \\theta=\\frac{6 \\sin 70^{\\circ}}{2+6 \\cos 70^{\\circ}}$\n$\\therefore \\theta=\\tan ^{-1}\\left(\\frac{6 \\sin 70^{\\circ}}{2+6 \\cos 70^{\\circ}}\\right) \\approx \\tan ^{-1}(1.39) \\approx 54.30^{\\circ}$\nচিত্র-2 থেকে, স্রোতের দিকে অতিক্রান্ত দূরত্ব (drift), $BD = d \\tan(90^{\\circ}-\\theta)$ যেখানে $90^{\\circ}-\\theta = 90^{\\circ}-54.30^{\\circ} \\approx 35.70^{\\circ}$\n$\\triangle \\mathrm{ABD}$-এ $\\tan (35.70^{\\circ})=\\frac{\\mathrm{BD}}{\\mathrm{AD}}$\nবা, $\\tan 35.70^{\\circ}=\\frac{\\mathrm{BD}}{1000}$\n$\\therefore \\mathrm{BD}=1000 \\tan 35.70^{\\circ} \\approx 718.57 \\mathrm{~m}$\nএখানে, বাসের বেগ, $\\mathrm{v}_{\\mathrm{B}}=4 \\mathrm{~ms}^{-1}$\nঅর্থাৎ, $177.36 s$ এ বাস যদি $718.57 m$ এর সমান বা তার কম দূরত্ব অতিক্রম করে, তাহলে লোকটির পক্ষে বাস ধরা সম্ভব হবে।\n$s=v_{B} \\times t$\n$~~~$$=(4 \\times 177.36) \\mathrm{m}$\n$~~~$$\\approx 709.44 \\mathrm{~m}$\nযেহেতু $s < BD$ ($709.44 \\mathrm{~m} < 718.57 \\mathrm{~m}$)\nসুতরাং লোকটির পক্ষে বাসটি ধরা সম্ভব হবে না।"
       }
     ]
   },
