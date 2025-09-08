@@ -5,13 +5,14 @@
     "অধ্যায়": {
       "ভৌত জগৎ ও পরিমাপ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH01.html",
       "ভেক্টর": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH02.html",
-      "নিউটোনীয় বলবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH03.html",
-      "কাজ, শক্তি ও ক্ষমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH04.html",
-      "মহাকর্ষ ও অভিকর্ষ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH05.html",
-      "পদার্থের গাঠনিক ধর্ম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH06.html",
-      "পর্যাবৃত্ত গতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH07.html",
-      "তরঙ্গ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH08.html",
-      "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH09.html"
+      "গতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH03.html",
+      "নিউটোনীয় বলবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH04.html",
+      "কাজ, শক্তি ও ক্ষমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH05.html",
+      "মহাকর্ষ ও অভিকর্ষ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH06.html",
+      "পদার্থের গাঠনিক ধর্ম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH07.html",
+      "পর্যাবৃত্ত গতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH08.html",
+      "তরঙ্গ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH09.html",
+      "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/P01CH10.html"
     }
   },
   {
@@ -52,14 +53,15 @@
     "বিষয়": "উচ্চতর গণিত ২য় পত্র",
     "অধ্যায়": {
       "বাস্তব সংখ্যা ও অসমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH01.html",
-      "বহুপদী ও বহুপদী সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH02.html",
+      "যোগাশ্রয়ী": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH02.html",
       "জটিল সংখ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH03.html",
-      "কণিক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH04.html",
+      "বহুপদী ও বহুপদী সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH04.html",
       "দ্বিপদী বিস্তৃতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH05.html",
-      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH06.html",
-      "স্থিতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH07.html",
-      "গতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH08.html",
-      "সম্ভাবনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH09.html"
+      "কণিক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH06.html",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH07.html",
+      "স্থিতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH08.html",
+      "গতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH09.html",
+      "সম্ভাবনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BookContent/HM02CH10.html"
     }
   }
 ]
