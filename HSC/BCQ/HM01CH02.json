@@ -1,0 +1,4576 @@
+[
+  {
+    "id": "cq_ch02_1",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "DB 2019",
+    "উদ্দীপক": {
+      "title": "DB 2019",
+      "description": "$\\overline{\\mathrm{a}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}, $$\\overline{\\mathrm{b}}=\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}, \\overline{\\mathrm{c}}=\\hat{\\mathrm{i}}+\\mathrm{p} \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$ এবং $\\overline{\\mathrm{d}}=3 \\hat{\\mathrm{i}}-\\hat{\\mathbf{j}}+2 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A(2, − 3, 1)$ এবং $B (- 1, 0, 4)$ হলে $\\overrightarrow{A B}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DB 2019",
+        "উত্তর": "দেওয়া আছে, $\\mathrm{A}=(2,-3,1)$ এবং $B(-1,0,4)$\n$\\overrightarrow{A B} =(-1-2) \\hat{i}+(0+3) $$\\hat{j}+(4-1) \\hat{k} $\n$\\Rightarrow -3 \\hat{i}+3 \\hat{j}+3 \\hat{k} $\nনির্ণেয় $\\overrightarrow{\\mathrm{AB}}=-3 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+3 \\hat{k}$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\bar{b}$ ও $\\bar{c}$ এর মধ্যবর্তী কোণ $45°$ হলে $p$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DB 2019",
+        "উত্তর": "দেওয়া আছে, $\\overline{\\mathrm{b}}=\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}, $$\\overline{\\mathrm{c}}=\\hat{\\mathrm{i}}+p \\hat{\\mathrm{j}}+2 \\hat{k}$\nআমরা জানি, $\\overline{\\mathrm{b}} \\cdot \\overline{\\mathrm{c}}=\\mathrm{bc} \\cos \\theta$\n$\\Rightarrow 1.1+(-2) \\cdot p+0$$=\\sqrt{1+4} $$\\cdot \\sqrt{1+\\mathrm{p}^{2}+4} \\cos 45^{\\circ}$\n$\\Rightarrow 1-2 p$$=\\sqrt{5} \\sqrt{5+p^{2}} $$\\cdot \\frac{1}{\\sqrt{2}}$\n$\\Rightarrow (1-2 p)^{2}$$=5\\left(5+p^{2}\\right)^{\\frac{1}{2}}$ [বর্গ করে]\n$\\Rightarrow 2\\left(4 p^{2}-4 p+1\\right)$$=25+5 p^{2} $\n$\\Rightarrow 8 \\mathrm{p}^{2}-8 \\mathrm{p}+2$$=25+5 \\mathrm{p}^{2} $\n$\\Rightarrow 3 \\mathrm{p}^{2}-8 \\mathrm{p}-23=0 $\n$\\Rightarrow \\mathrm{p}=\\frac{-(-8) \\pm \\sqrt{(-8)^{2}-4 \\cdot 3 \\cdot(-23)}}{2.3} $\n$\\Rightarrow \\frac{8 \\pm \\sqrt{64+276}}{6} $\n$\\Rightarrow\\frac{8 \\pm \\sqrt{340}}{6}$$=\\frac{8 \\pm 2 \\sqrt{85}}{6}$$=\\frac{4 \\pm \\sqrt{85}}{3} $\nনির্ণেয় মান : $p=\\frac{4 \\pm \\sqrt{85}}{3}$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overline{\\mathbf{a}}$ এবং $\\overline{\\mathrm{d}}$ যে সমতলে অবস্থিত তার উপর লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DB 2019",
+        "উত্তর": "দেওয়া আছে, $\\overline{\\mathrm{a}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$ এবং $\\overline{\\mathrm{d}}=3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$\nএখন $\\overline{\\mathrm{a}} \\times \\overline{\\mathrm{d}}=$$\\left|\\begin{array}{ccc}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\2 & 3 & -1 \\\\3 & -1 & 2\\end{array}\\right|$\n$\\Rightarrow \\hat{\\mathrm{i}}(6-1)-$$\\hat{\\mathrm{j}}(4+3)+\\hat{\\mathrm{k}}(-2-9) $\n$\\Rightarrow 5 \\hat{\\mathrm{i}}-7 $$\\hat{\\mathrm{j}}-11 \\hat{\\mathrm{k}}$\n$\\bar{a}$ ও $|\\overline{\\mathrm{d}}|$ যে সমতলে অবস্থিত তার উপর লম্ব একক ভেক্টর\n$\\Rightarrow \\frac{\\overline{\\mathrm{a}} \\times \\overline{\\mathrm{d}}}{|\\overline{\\mathrm{a}} \\times \\overline{\\mathrm{d}}|} $\n$\\Rightarrow \\pm \\frac{5 \\hat{\\mathrm{i}}-7 \\hat{\\mathrm{j}}-11 \\hat{\\mathrm{k}}}{\\sqrt{25+49+121}} $\n$\\Rightarrow \\pm \\frac{1}{\\sqrt{195}}(5 \\hat{\\mathrm{i}}-7 \\hat{\\mathrm{j}}-11 \\hat{\\mathrm{k}})$\nনির্ণেয় লম্ব একক ভেক্টর $\\pm \\frac{1}{\\sqrt{195}}(5 \\hat{i}-7 \\hat{j}-11 \\hat{k})$"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_2",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "RB 2019",
+    "উদ্দীপক": {
+      "title": "RB 2019",
+      "description": "$\\overline{\\mathbf{A}}=2 \\hat{\\mathbf{i}}+3 \\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}, \\overline{\\mathbf{B}}=2 \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}+$$\\hat{\\mathbf{k}}, \\overline{\\mathbf{C}}=\\mathbf{a} \\hat{\\mathbf{i}}-7 \\hat{\\mathbf{j}}+10 \\hat{\\mathbf{k}} .$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2Fhsc%20math%2012%20board%20cq%2001.png?alt=media&token=04859570-7c7b-4cfd-8d2d-0f101ea68e57"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overline{\\mathbf{A}}$ এর উপর $\\overline{\\mathbf{B}}$ এর অভিক্ষেপ নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "RB 2019",
+        "উত্তর": "দেওয়া আছে, $\\overline{\\mathrm{A}}=2 \\hat{i}+3 \\hat{j}-\\hat{\\mathrm{k}}$ এবং $\\bar{B}=2 \\hat{i}+\\hat{j}+\\hat{k}$\n$\\overline{\\mathrm{A}}$ এর উপর $\\overline{\\mathbf{B}}$ এর অভিক্ষেপ $=\\frac{\\bar{A} \\cdot \\bar{B}}{|\\bar{A}|}=$$\\frac{2 \\cdot 2+3 \\cdot 1+(-1) \\cdot 1}{\\sqrt{4+9+1}}$\n$\\Rightarrow \\frac{4+3-1}{\\sqrt{14}}$$=\\frac{6}{\\sqrt{14}} $\n$\\Rightarrow \\frac{6 \\sqrt{14}}{14}$\n$\\Rightarrow \\frac{3 \\sqrt{14}}{7}$ একক\nনির্ণেয় $\\overline{\\mathrm{A}}$ ও $\\overline{\\mathbf{B}}$ এর অভিক্ষেপ $\\frac{3 \\sqrt{14}}{7}$ একক।"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overline{\\mathbf{A}}$ ও $\\overline{\\mathbf{B}}$ দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টরটি $'a'$ এর কোন মানের জন্য $\\overline{\\mathbf{C}}$ এর উপর লম্ব হবে তা নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "RB 2019",
+        "উত্তর": "দেওয়া আছে, $\\bar{A}=2 \\hat{i}+3 \\hat{j}-\\hat{k}, \\bar{B}$$=2 \\hat{i}+\\hat{j}+\\hat{k}$\nএবং $\\bar{C}=a \\hat{i}-7 \\hat{j}+10 \\hat{k}$\n$\\overline{\\mathrm{A}} \\times \\overline{\\mathrm{B}} =$$\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\2 & 3 & -1 \\\\2 & 1 & 1\\end{array}\\right| $\n$\\Rightarrow \\hat{\\mathrm{i}}(3+1)-(2+2) \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}(2-6)$$=4 \\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}$\n$\\overline{\\mathbf{A}}$ ও $\\overline{\\mathbf{B}}$ দ্বারা গঠিত সমতলের উপর লম্ব\nএকক ভেক্টর, $\\hat{\\eta}=\\frac{\\overline{\\mathrm{A}} \\times \\overline{\\mathrm{B}}}{|\\overline{\\mathrm{A}} \\times \\overline{\\mathrm{B}}|}$$=\\frac{4 \\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}}{\\sqrt{16+16+16}}$$=\\frac{4 \\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}}{4 \\sqrt{3}}$\n$\\Rightarrow \\hat{\\eta}=\\frac{1}{\\sqrt{3}}$$(\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}-\\hat{\\mathrm{k}})$\n$\\hat{\\eta}$ ও $\\overline{\\mathrm{C}}$ পরস্পর লম্ব হলে $\\hat{\\eta} \\cdot \\bar{C}=0$\n$\\Rightarrow\\frac{1}{\\sqrt{3}}(\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}) $$\\cdot(\\mathrm{a}-7 \\hat{\\mathrm{j}}+10 \\hat{\\mathrm{k}})=0 $\n$\\Rightarrow \\frac{\\mathrm{a}}{\\sqrt{3}}+\\frac{7}{\\sqrt{3}}-\\frac{10}{\\sqrt{3}}$$=0 $\n$\\Rightarrow \\mathrm{a}+7-10=0 $\n$\\Rightarrow a-3=0 $\n$\\therefore a=3$\nনির্ণেয় মান $a=3$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$PQR$ ত্রিভুজের লম্ববিন্দু $C(3, 2)$ হলে $\\triangle \\mathrm{PQR}$ এর ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "RB 2019",
+        "উত্তর": "$PC$ রেখার ঢাল $=\\frac{1-2}{5-3}=\\frac{-1}{2}$\n$\\because \\mathrm{PC} \\perp \\mathrm{QR}$\n$\\therefore \\mathrm{QR}$ রেখার ঢাল $=-\\frac{1}{\\frac{-1}{2}}=2$\n$QR$ রেখার সমীকরণ :$y-5=2(x-1)$\n$y-5=2 x-2$\n$2 x-y+3=0$$........$(i)\nQC রেখার ঢাল $=\\frac{5-2}{1-3}$$=\\frac{3}{-2}$\n$\\therefore \\quad Q C \\perp P R$\n$\\therefore \\quad P R$ রেখার ঢাল $-\\dfrac{1}{-\\dfrac{3}{2}}=\\dfrac{2}{3}$\n$PR$ রেখার সমীকরণ : $y-1=\\frac{2}{3}(x-5)$\n$\\Rightarrow 3 y-3=2 x-10$\n$\\Rightarrow 2 x-3 y-7=0..........$(i)\n(i) নং হতে (ii) নং বিয়োগ করে পাই,\n$2 x-y+3-2 x+3 y+7=0 $\\\n$\\Rightarrow 2 y+10=0 $\n$\\Rightarrow 2 y=-10 $\n$\\therefore y=-5$\n(i) নং এ $y = - 5$ বসিয়ে পাই,\n$ 2 x+5+3=0 $\n$\\Rightarrow 2 x=-8 $\n$\\therefore x=-4$\n$QR$ ও $PR$ রেখার ছেদবিন্দু $R ( – 4, – 5 )$\n$\\triangle \\mathrm{PQR}$ এর ক্ষেত্রফল $=\\frac{1}{2}$$\\left|\\begin{array}{ccc}5 & 1 & 1 \\\\1 & 5 & 1 \\\\-4 & -5 & 1\\end{array}\\right|$ বর্গ একক\n$\\Rightarrow \\frac{1}{2}\\{5(5+5)+1(-4-1)$$+1(-5+20)\\}$ বর্গ একক\n$\\Rightarrow \\frac{1}{2}(50-5+15)$$=\\frac{1}{2} \\times 60=30$ বর্গ একক \nনির্ণেয় $\\triangle \\mathrm{PQR}$ এর ক্ষেত্রফল $30$ বর্গ একক ।"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_3",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "DB 2019",
+    "উদ্দীপক": {
+      "title": "DB 2019",
+      "description": "$a=2 \\hat{\\mathbf{i}}+3 \\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}, $$\\mathbf{b}=\\hat{\\mathbf{i}}-2 \\hat{\\mathbf{j}},$$ \\mathrm{c}=\\hat{\\mathbf{i}}+p \\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$\nএবং $\\mathbf{d}=3 \\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A(2,-3,1)$ এবং $B(-1,0,4)$ হলে $\\overrightarrow{\\mathrm{AB}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DB 2019",
+        "উত্তর": "$\\mathrm{A}(2,-3,1)$ এবং $\\mathrm{B}(-1,0,4)$ দুটি বিন্দু। \n$\\therefore \\overrightarrow{\\mathrm{OA}}=2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}$$+\\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{OB}}$$=-\\hat{\\mathrm{i}}+4 \\hat{\\mathrm{k}}$\n$\\therefore \\overrightarrow{\\mathrm{AB}} $$=\\overrightarrow{\\mathrm{OB}}-\\overrightarrow{\\mathrm{OA}} $\n$ \\Rightarrow -\\hat{\\mathrm{i}}$$+4 \\hat{\\mathrm{k}}-2 \\hat{\\mathrm{i}}$$+3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$\n$ \\Rightarrow -3 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}$$+3 \\hat{\\mathrm{k}} \\text { (Ans.) }$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$b$ ও $c$ এর মধ্যবর্তী কোণ $45^{\\circ}$ হলে $p$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DB 2019",
+        "উত্তর": "দেওয়া আছে, $\\mathbf{b}=\\hat{i}-2 \\hat{j}$ এবং $c=\\hat{i}+p \\hat{j}+2 \\hat{k}$\nএখন, $\\text { b.c }=|\\mathbf{b}||\\mathbf{c}| \\cos \\theta$\n$\\Rightarrow (\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}) $$\\cdot(\\hat{\\mathrm{i}}+\\mathrm{p} \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}})$$=\\sqrt{1+4} \\sqrt{1+\\mathrm{p}^{2}+4} \\cos 45^{\\circ}$\n$\\Rightarrow 1-2 \\mathrm{p}+0$$=\\sqrt{5} $$\\cdot \\sqrt{\\mathrm{p}^{2}+5} $$\\times \\frac{1}{\\sqrt{2}}$\n$\\Rightarrow (1-2 p)^{2}$$=\\frac{5\\left(p^{2}+5\\right)}{2} $$\\Rightarrow 2\\left(1-4 p+4 p^{2}\\right)$$=5 p^{2}+25$\n$\\Rightarrow 2-8 p+8 p^{2}-5 p^{2}-25$$=0$$ \\Rightarrow 3 p^{2}-8 p-23$$=0$\n$\\Rightarrow \\mathrm{p}$$=\\frac{8 \\pm \\sqrt{64+276}}{6} $$\\Rightarrow p=\\frac{8 \\pm 2 \\sqrt{85}}{6} $\n$\\therefore \\mathrm{p}$$=\\frac{4 \\pm \\sqrt{85}}{3}$\nযেহেতু $\\theta=45^{\\circ}$ সুতরাং $\\cos \\theta>0$\n$\\therefore \\text { b.c }>0$ হতে হবে। কিন্তু $p$$=\\frac{4+\\sqrt{85}}{3}$ এর জন্য $\\text { b . c }<0$\nঅর্থাৎ $p$$=\\frac{4+\\sqrt{85}}{3}$ মানটি গ্রহণযোগ্য নয়। \n$\\therefore \\mathrm{p}$$=\\frac{4-\\sqrt{85}}{3} \\text { (Ans.) }$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$a$ এবং $d$ যে সমতলে অবস্থিত তার উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DB 2019",
+        "উত্তর": "দেওয়া আছে, $\\mathbf{a}=2 \\hat{i}+3 \\hat{j}-\\hat{k}$ এবং $d=3 \\hat{i}-\\hat{j}+2 \\hat{k}$ \n$a$ ও $d$ এর লম্ব সমতলে একক ভেক্টর $= \\pm \\frac{\\mathbf{a} \\times \\mathbf{d}}{|\\mathbf{a} \\times \\mathbf{d}|}$\nএকক $\\mathbf{a} \\times \\mathbf{d}$$=\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\2 & 3 & -1 \\\\3 & -1 & 2\\end{array}\\right|$\n$\\Rightarrow (6-1) \\hat{i}$$-(4+3) \\hat{j}$$+(-2-9) \\hat{k} $\n$\\Rightarrow 5 \\hat{i}-7 \\hat{j}-11 \\hat{k}$\nএবং $|\\mathbf{a} \\times \\mathbf{d}|$$=\\sqrt{(5)^{2}+(-7)^{2}+(-11)^{2}}$\n$=\\sqrt{25+49+121}$$=\\sqrt{195}$\n$\\therefore$ লম্ব একক ভেক্টর $= \\pm \\frac{1}{\\sqrt{195}}$$(5 \\hat{\\mathbf{i}}-7 \\hat{j}-11 \\hat{k}) $\n$\\text { (Ans.) }$"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_4",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "RB 2017",
+    "উদ্দীপক": {
+      "title": "RB 2017",
+      "description": "$\\overrightarrow{\\mathrm{P}}=3 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}, \\overrightarrow{\\mathrm{Q}}=3 $$\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{R}}=\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\vec{P}$ বিন্দুগামী এবং $\\vec{Q}$ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "লম্ব বা সমান্তরাল ভেক্টর নির্ণয়",
+        "source": "RB 2017",
+        "উত্তর": "দেওয়া আছে, $\\overrightarrow{\\mathrm{P}}=3 \\hat{i}-3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ এবং $\\vec{Q}=3 \\hat{i}-2 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{P}}$ বিন্দুগামী এবং $\\overrightarrow{0}$ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ,\n$\\vec{r}=\\overrightarrow{\\mathrm{P}}+\\mathrm{tQ}$ যেখানে $t$ যেকোনো স্কেলার\n$\\Rightarrow x \\hat{i}+y \\hat{j}+z \\hat{k}=3 \\hat{i}-3 $$\\hat{j}+4 \\hat{k}+t(3 \\hat{i}-2 \\hat{j}+4 \\hat{k})$\n$\\Rightarrow x \\hat{i}+y \\hat{j}+z \\hat{k}=(3+3 t) $$\\hat{i}-(3+2 t) \\hat{j}+(4+4 t) \\hat{k}$\n$\\Rightarrow \\hat{i}+y \\hat{j}+z \\hat{k}=3(1+t) $$\\hat{i}-(3+2 t) \\hat{j}+4(1+t) \\hat{k}$\nনির্ণেয় সমীকরণ $x \\hat{i}+y \\hat{j}+z \\hat{k}$$=3(1+t) \\hat{i}-(3+2 t) $$\\hat{j}+4(1+t) \\hat{k}$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, $\\overrightarrow{\\mathrm{P}}-\\overrightarrow{\\mathrm{Q}}$ ভেক্টরটি $\\overrightarrow{\\mathbf{P}}$ এবং $\\overrightarrow{\\mathrm{Q}}$ ভেক্টর দ্বারা গঠিত - সমতলের উপর লম্ব ভেক্টরের সাথে লম্ব ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "লম্ব বা সমান্তরাল ভেক্টর নির্ণয়",
+        "source": "RB 2017",
+        "উত্তর": "দেওয়া আছে, $\\overrightarrow{\\mathrm{p}}=3 \\hat{i}-3 \\hat{j}+4 \\hat{k}$ এবং $\\vec{Q}=3 \\hat{i}-2 \\hat{j}+4 \\hat{k}$\n$\\overrightarrow{\\mathrm{P}}$ এবং $\\overrightarrow{\\mathrm{Q}}$ ভেক্টর দ্বারা গঠিত সমতলের উপর লম্ব ভেক্টর $=\\overrightarrow{\\mathrm{P}} \\times \\vec{Q}$\nএখন, $\\vec{P}-\\vec{Q}=3 \\hat{i}-3 \\hat{j}+4 \\hat{k}-3 \\hat{i}$$+2 \\hat{j}-4 \\hat{k}=-\\hat{j}$\nএবং $\\overrightarrow{\\mathrm{P}} \\times \\overrightarrow{\\mathrm{Q}}=$$\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\3 & -3 & 4 \\\\3 & -2 & 4\\end{array}\\right|$\n$\\Rightarrow\\hat{i}(-12+8)+\\hat{j}(12-12)$$+\\hat{k}(-6+9) $\n$\\Rightarrow -4 \\hat{i}+3 \\hat{k} $\n$\\therefore (\\vec{P}-\\vec{Q}) \\cdot(\\vec{P} \\times $$\\vec{Q})=-\\hat{j} \\cdot(-4 \\hat{i}+3 \\hat{k})=0$\nসুতরাং $\\vec{P}-\\vec{Q}$ ভেক্টরটি $\\overrightarrow{\\mathrm{p}}$ এবং $\\vec{Q}$ ভেক্টর দ্বারা গঠিত সমতলের উপর লম্ব ভেক্টরের সাথে লম্ব। (দেখানো হলো)"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকে উল্লিখিত ভেক্টরগুলির $\\hat{i}, \\hat{j}, \\hat{k}$ এর সহগ দ্বারা গঠিত ম্যাট্রিক্স $A$ হলে $\\mathbf{A}^{-1}$- নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "লম্ব বা সমান্তরাল ভেক্টর নির্ণয়",
+        "source": "RB 2017",
+        "উত্তর": "দেওয়া আছে, $\\vec{P}=3 \\hat{i}-3 \\hat{j}+4 \\hat{k}, $$\\vec{Q}=3 \\hat{i}-2 \\hat{j}+4 \\hat{k}$\nএবং $\\overrightarrow{\\mathrm{R}}=\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$\nভেক্টরগুলির $\\hat{\\mathrm{i}}, \\hat{\\mathrm{j}}, \\hat{\\mathbf{k}}$ এর সহগ দ্বারা গঠিত ম্যাট্রিক্স $A$ হলে,]\n$A =\\left[\\begin{array}{lll}3 & -3 & 4 \\\\3 & -2 & 4 \\\\1 & -1 & 2\\end{array}\\right] $\n$\\therefore \\quad|A| =\\left|\\begin{array}{lll}3 & -3 & 4 \\\\3 & -2 & 4 \\\\1 & -1 & 2\\end{array}\\right| $\n$\\Rightarrow 3(-4+4)-3(4-6)$$+4(-3+2) $\n$ \\Rightarrow3.0-3 \\cdot(-2)+4 .(-1)$$=0+6-4=2$\nA এর সহগুণকসমূহ :\n$A_{11}=\\left|\\begin{array}{ll}-2 & 4 \\\\-1 & 2\\end{array}\\right|$\n$=-4+4=0 $\n$A_{12}=-\\left|\\begin{array}{ll}3 & 4 \\\\1 & 2\\end{array}\\right|$\n$=-(6-4)=-2 $\n$A_{13}=\\left|\\begin{array}{ll}3 & -2 \\\\1 & -1\\end{array}\\right|$\n$=-3+2=-1 $\n$A_{21}=-\\left|\\begin{array}{ll}-3 & 4 \\\\-1 & 2\\end{array}\\right|$\n$=-(-6+4)=2 $\n$A_{22}=\\left|\\begin{array}{ll}3 & 4 \\\\1 & 2\\end{array}\\right|$\n$=6-4=2 $\n$A_{23}=-\\left|\\begin{array}{ll}3 & -3 \\\\1 & -1\\end{array}\\right|$\n$=-(-3+3)=0 $\n$A_{31}=\\left|\\begin{array}{ll}-3 & 4 \\\\-2 & 4\\end{array}\\right|$\n$=-12+8=-4$\n$A_{32}=-\\left|\\begin{array}{ll}3 & 4 \\\\3 & 4\\end{array}\\right|$\n$=-(12-12)=0 $\n$A_{33}=\\left|\\begin{array}{ll}3 & -3 \\\\3 & -2\\end{array}\\right|$\n$=-6+9=3$\n$\\operatorname{Adj} A =\\left[\\begin{array}{lll}A_{11} & A_{12} & A_{13} \\\\A_{21} & A_{22} & A_{23} \\\\A_{31} & A_{32} & A_{33}\\end{array}\\right] T $\n$ \\left[\\begin{array}{rrr}0 & -2 & -1 \\\\2 & 2 & 0 \\\\-4 & 0 & 3\\end{array}\\right] \\mathrm{T}$ $=\\left[\\begin{array}{rrr}0 & 2 & -4 \\\\-2 & 2 & 0 \\\\-1 & 0 & 3\\end{array}\\right] $\n$A^{-1}= \\frac{\\operatorname{Adj} A}{|A|^{-}}=\\frac{1}{2}$$\\left[\\begin{array}{rrr}0 & 2 & -4 \\\\-2 & 2 & 0 \\\\-1 & 0 & 3\\end{array}\\right]$\nনির্ণেয় $A^{-1}=\\frac{1}{2}\\left[\\begin{array}{rrr}0 & 2 & -4 \\\\-2 & 2 & 0 \\\\-1 & 0 & 3\\end{array}\\right]$"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_5",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "SB 2017",
+    "উদ্দীপক": {
+      "title": "SB 2017",
+      "description": "$\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}} ; $$\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$ এবং তিনটি বিন্দুর স্থানাঙ্ক \n$P(-3,-2,-1) ; $$Q(4,0,-3)$ এবং $s(6,-7,8)$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "উদাহরণসহ একক ভেক্টর এর সংজ্ঞা দাও ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "SB 2017",
+        "উত্তর": "একক ভেক্টর : যে ভেক্টরের মান এক (1) তাকে একক ভেক্টর বলে। মান শূন্য নয় এমন যেকোনো ভেক্টরকে তার মান দ্বারা ভাগ করে ঐ ভেক্টরের দিকে বা তার সদৃশ সমান্তরাল দিকে একটি একক ভেক্টর পাওয়া যায় । \nযেমন : $\\text { C }$ ভেক্টর রাশির মান $|\\overrightarrow{\\mathrm{C}}| \neq 0$ হলে,$\\vec{C}$\nভেক্টরের দিকে অথবা তার সমান্তরাল দিকে একক ভেক্টর, $\\hat{\\mathrm{C}}=\\frac{\\overrightarrow{\\mathrm{C}}}{|\\overrightarrow{\\mathrm{C}}|} \\mid$\n$\\\\$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের আলোকে $\\overrightarrow{\\mathbf{A}}$ বরাবর $\\overrightarrow{\\mathbf{B}}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "SB 2017",
+        "উত্তর": "দেওয়া আছে, $\\vec{A}=2 \\hat{i}-3 \\hat{j}-\\hat{k}$ এবং $\\overrightarrow{\\mathrm{B}}=-\\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\n$\\therefore \\quad|\\overrightarrow{\\mathrm{A}}| $$=\\sqrt{2^{2}+(-3)^{2}+(-1)^{2}}$$=\\sqrt{4+9+1}$$=\\sqrt{14} $\n$\\overrightarrow{\\mathrm{A}} \\cdot \\overrightarrow{\\mathrm{B}} =(2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}) $$\\cdot(-\\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}) $\n$\\Rightarrow -2+12-7=12-9=3$\n$\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathbf{B}}$ এর উপাংশ $=\\frac{\\vec{A} \\cdot \\vec{B}}{|\\vec{A}|^{2}} \\cdot \\vec{A}$\n$\\begin{array}{l}\\Rightarrow \\frac{3}{(\\sqrt{14})^{2}}(2 \\hat{i}-3 \\hat{j}-\\hat{i}) \\\\\\Rightarrow \\frac{3}{14}(2 \\hat{i}-3 \\hat{j}-\\hat{k})\\end{array}$\nনির্ণেয় উপাংশ : $\\frac{3}{14}(2 \\hat{i}-3 \\hat{j}-\\hat{k})$\n$\\\\$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকের আলোকে $\\triangle P Q S$ এর ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "SB 2017",
+        "উত্তর": "এখানে তিনটি বিন্দুর স্থানাঙ্ক $P(-3,-2,-1), Q(4,0,-3)$ এবং $S(6,-7,8)$\n \n$ \\overrightarrow{\\mathrm{PQ}}=(4+3) \\hat{\\mathrm{i}}+(0+2) \\hat{\\mathrm{j}}$$+(-3+1) \\hat{\\mathrm{k}} $\n$\\Rightarrow 7 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}} $\n$\\overrightarrow{\\mathrm{PS}}=(6+3) \\hat{\\mathrm{i}}+(-7+2) \\hat{\\mathrm{j}}$$+(8+1) \\hat{\\mathrm{k}} $\n$\\Rightarrow 9 \\hat{\\mathrm{i}}-5 \\hat{\\mathrm{j}}+9 \\hat{\\mathrm{k}} $\n$\\overrightarrow{\\mathrm{PQ}} \\times \\overrightarrow{\\mathrm{PS}}=\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\7 & 2 & -2 \\\\9 & -5 & 9\\end{array}\\right|$\n$ \\Rightarrow\\hat{i}(18-10)+\\hat{\\mathrm{j}}(-18-63)$$+\\hat{\\mathrm{k}}(-35-18) $\n$ \\Rightarrow8 \\hat{\\mathrm{i}}-81 \\hat{\\mathrm{j}}-53 \\hat{\\mathrm{k}} $\n$|\\overrightarrow{\\mathrm{PQ}} \\times \\overrightarrow{\\mathrm{PS}}| =$$\\sqrt{8^{2}+(-81)^{2}+(-53)^{2}} $\n$\\Rightarrow\\sqrt{64+6561+2809}$$=\\sqrt{9434}$\n$\\triangle \\mathrm{PQS}$ এর ক্ষেত্রফল $=\\frac{1}{2}|\\overrightarrow{P Q} \\times \\overrightarrow{\\mathrm{PS}}|$\n$\\Rightarrow\\frac{1}{2} \\times \\sqrt{9434}$ বর্গ একক\n$\\Rightarrow\\frac{\\sqrt{9434}}{2}$ বর্গ একক 2\nনির্ণেয় ক্ষেত্রফল $\\frac{\\sqrt{9434}}{2}$ বর্গ একক।"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_6",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "DiB 2017",
+    "উদ্দীপক": {
+      "title": "DiB 2017",
+      "description": "$\\vec{A}=2 \\hat{i}+3 \\hat{j}-\\hat{k}, \\vec{B}$$=\\hat{i}+2 \\hat{j}-\\hat{k}, \\vec{C}=\\hat{i}+b \\hat{j}+3 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "অবস্থান ভেক্টর বলতে কি বুঝ?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DiB 2017",
+        "উত্তর": "অবস্থান ভেক্টর : মূলবিন্দুর সাপেক্ষে অন্য কোনো বিন্দুর অবস্থান যে ভেক্টরের সাহায্যে প্রকাশ করা যায়, তাকে অবস্থান ভেক্টর বলা হয় ।\n\n \nচিত্রে মূলবিন্দু O এর সাপেক্ষে একটি বিন্দু $P(x, y, z)$ এর অবস্থান $\\overrightarrow{\\mathrm{OP}}$ দ্বারা নির্দেশ করলে $\\overrightarrow{\\mathrm{OP}}$ হবে $P$ এর অবস্থান ভেক্টর।\n$\\\\$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\vec{A}$ ভেক্টর বরাবর $\\overrightarrow{\\mathrm{B}}$ ভেক্টরের উপাংশ $\\overrightarrow{\\mathrm{c}}$ ভেক্টরের সাথে লম্ব হলে b-এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DiB 2017",
+        "উত্তর": "দেওয়া আছে, $\\vec{A}=2 \\hat{i}+3 \\hat{j}-\\hat{k},$$ \\vec{B}=\\hat{i}+2 \\hat{j}-\\hat{k}$\nএবং $\\vec{C}=\\hat{i}+b \\hat{j}+3 \\hat{k}$\n$\\therefore |\\vec{A}|$$=\\sqrt{2^{2}+3^{2}+(-1)^{2}}$$=\\sqrt{4+9+1}$$=\\sqrt{14} $\n$ \\vec{A} \\cdot \\vec{B}=(2 \\hat{i}+3 \\hat{j}-\\hat{k}) $ $\\cdot(\\hat{i}+2 \\hat{j}-\\hat{k})$$=2+6+1=9$\n$\\vec{A}$ ভেক্টর বরাবর $\\overrightarrow{\\mathrm{B}}$ ভেক্টরের উপাংশ $=\\frac{\\vec{A} $$\\cdot \\vec{B}}{|\\vec{A}|^{2}} \\cdot \\vec{A}$\n$\\Rightarrow\\frac{9}{(\\sqrt{14})^{2}} \\cdot(2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}) $\n$\\Rightarrow\\frac{9}{14}(2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}) $\n$\\Rightarrow\\frac{9}{7} \\hat{\\mathrm{i}}+\\frac{27}{14} \\hat{\\mathrm{j}}-\\frac{9}{14} \\hat{\\mathrm{k}}$\n$\\overrightarrow{\\mathrm{A}}$ ভেক্টর বরাবর $\\vec{B}$ ভেক্টরের উপাংশ $\\vec{C}$ ভেক্টরের সাথে লম্ব হলে,\n$\\left(\\frac{9}{7} \\hat{\\mathrm{i}}+\\frac{27}{14} \\hat{\\mathrm{j}}-\\frac{9}{14} \\hat{\\mathrm{k}}\\right) $$\\cdot \\overrightarrow{\\mathrm{C}}$$=0$\n$\\Rightarrow \\left(\\frac{9}{7} \\hat{\\mathrm{i}}+\\frac{27}{14} \\hat{\\mathrm{j}}-\\frac{9}{14} \\hat{\\mathrm{k}}\\right) \\cdot(\\hat{\\mathrm{i}}+\\mathrm{b} \\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}})$$=0$\n$\\Rightarrow \\frac{9}{7}+\\frac{27}{14} b-\\frac{27}{14}=0\\\\\\Rightarrow \\frac{27}{14} b-\\frac{9}{14}=0$\n$\\Rightarrow \\frac{27}{14} \\mathrm{~b}=\\frac{9}{14}$\n$\\Rightarrow \\mathrm{b}=\\frac{9 \\times 14}{14 \\times 27}=\\frac{1}{3}$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\vec{A}+\\vec{B}$ এবং $\\vec{A} \\times \\vec{B}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DiB 2017",
+        "উত্তর": "দেওয়া আছে, $\\vec{A}=2 \\hat{i}+3 \\hat{j}-\\hat{k}$ এবং $\\overrightarrow{\\mathbf{B}}=\\hat{\\mathbf{i}}+2 \\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}$\n$\\therefore \\overrightarrow{\\mathbf{A}}+\\overrightarrow{\\mathbf{B}}=2 \\hat{\\mathbf{i}}+3 \\hat{\\mathbf{j}}$$-\\hat{\\mathbf{k}}+\\hat{\\mathbf{i}}+2 \\hat{\\mathrm{j}}-\\hat{\\mathbf{k}}$$=3 \\hat{\\mathrm{i}}+5 \\hat{\\mathrm{j}}-2 \\hat{\\mathbf{k}} $\n$|\\vec{A}+\\vec{B} \\cdot|$$=\\sqrt{3^{2}+5^{2}+(-2)^{2}}$$=\\sqrt{9+25+4}$$=\\sqrt{38} \\\\\\vec{A} \\times \\vec{B}=$$\\left|\\begin{array}{rrr}\\hat{i} & \\hat{j} & \\hat{k} \\\\2 & 3 & -1 \\\\1 & 2 & -1\\end{array}\\right|$\n$\\Rightarrow \\hat{\\mathrm{i}}(-3+2)+\\hat{\\mathrm{j}}(-1+2)$$+\\hat{\\mathrm{k}}(4-3) $\n$\\Rightarrow-\\hat{\\mathbf{i}}$$+\\hat{\\mathbf{j}}+\\hat{\\mathbf{k}}$\n$|\\overrightarrow{\\mathbf{A}} \\times \\overrightarrow{\\mathbf{B}}|$$=\\sqrt{(-1)^{2}+1^{2}+1^{2}}$$=\\sqrt{1+1+1}$$=\\sqrt{3}$\n$\\vec{A}+\\vec{B}$ এবং $\\vec{A} \\times \\vec{B}$ এর মধ্যবর্তী কোণ $\\theta$ হলে,\n$\\cos \\theta =\\frac{(\\vec{A}+\\vec{B}) \\cdot(\\vec{A} \\times \\vec{B})}{|\\vec{A}+\\vec{B}| \\cdot|\\vec{A} \\times \\vec{B}|} $\n$ \\Rightarrow \\frac{(3 \\hat{i}+5 \\hat{j}-2 \\hat{k}) \\cdot(-\\hat{i}+\\hat{j}+\\hat{k})}{\\sqrt{38} \\cdot \\sqrt{3}} $\n$ \\Rightarrow\\frac{-3+5-2}{\\sqrt{114}}=\\frac{5-5}{\\sqrt{114}}=\\frac{0}{\\sqrt{114}}=0 $\n$\\Rightarrow\\theta =\\cos ^{-1} 0 $\n$\\therefore \\theta =90^{\\circ}$\nনির্ণেয় কোণ $90°$"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_7",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "DiB 2017",
+    "উদ্দীপক": {
+      "title": "DiB 2017",
+      "description": "$\\vec A=2 \\hat{i}+3 \\hat{j}-\\hat{k},$$ \\vec B=\\hat{i}+2 \\hat{j}-\\hat{k}, \\vec C=\\hat{i}+b \\hat{j}+3 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "অবস্থান ভেক্টর বলতে কি বুঝ?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DiB 2017",
+        "উত্তর": "যদি প্রসঙ্গ কাঠামোয় মূল বিন্দু $O$ এর সাপেক্ষে একটি বিন্দু $P$ এর অবস্থানকে $\\overrightarrow{\\mathrm{\\vec OP}}$ দ্বারা নির্দেশ করা হয় তবে $\\overrightarrow{\\mathrm{\\vec OP}}$ কে $P$ এর অবস্থান ভেক্টর বলে ।\n$\\overrightarrow{\\mathrm{\\vec OP}}=\\mathbf{r}$ হলে,$r$ কে $P$ বিন্দুর অবস্থান ভেক্টর বলা হয়। \nদ্রষ্টব্য: যেকোনো বিন্দু $P(x, y, z)$ এর অবস্থান ভেক্টর, $\\mathbf{r}=x \\hat{i}+y \\hat{j}+\\mathrm{zk}$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\vec A$ ভেক্টর বরাবর $\\vec B$ ভেক্টরের উপাংশ $\\vec C$ ভেক্টরের সাথে লম্ব হলে $b$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DiB 2017",
+        "উত্তর": "দেওয়া আছে, $\\mathbf{\\vec A}=2 \\hat{i}+3 \\hat{j}-\\hat{k}, $$\\mathbf{\\vec B}=\\hat{i}+2 \\hat{j}-\\hat{k}$ এবং $\\mathbf{\\vec C}=\\hat{i}+b \\hat{j}+3 \\hat{k}$\n$A$ ভেক্টর বরাবর B ভেক্টরের উপাংশ $=\\left(\\frac{\\mathbf{\\vec A} \\cdot \\mathbf{\\vec B}}{|\\mathbf{\\vec A}|}\\right)$$\\left(\\frac{\\mathbf{\\vec A}}{|\\mathbf{\\vec A}|}\\right)$\n$\\Rightarrow \\left(\\frac{2+6+1}{\\sqrt{2^{2}+3^{2}+(-1)^{2}}}\\right)$$\\left(\\frac{2 \\hat{i}+3 \\hat{j}-\\hat{k}}{\\sqrt{2^{2}+3^{2}+(-1)^{2}}}\\right) $\n$\\Rightarrow \\left(\\frac{9}{\\sqrt{14}}\\right)$$\\left(\\frac{2 \\hat{i}+3 \\hat{j}-\\hat{k}}{\\sqrt{14}}\\right)$$=\\frac{9}{14}$$(2 \\hat{i}+3 \\hat{j}-\\hat{k})$\nপ্রশ্নমতে $\\frac{9}{14}(2 \\hat{i}+3 \\hat{j}-\\hat{k}) $$\\cdot(\\hat{i}+b \\hat{j}+3 \\hat{k})=0$\n$\\Rightarrow 2+3 b-3=0 \\Rightarrow 3 b=1$\n$\\therefore \\mathrm{b}=\\frac{1}{3} \\text { (Ans.) }$\n$\\\\$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mathrm{\\vec A}+\\mathrm{\\vec B}$ এবং $\\mathbf{\\vec A} \\times \\mathbf{\\vec B}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "DiB 2017",
+        "উত্তর": "$\\mathbf{\\vec A}+\\mathbf{\\vec B}$$=2 \\hat{i}+3 \\hat{j}$$-\\hat{k}+\\hat{i}+2 \\hat{j}-\\hat{k}$$=3 \\hat{i}+5 \\hat{j}-2 $$\\hat{k} $\n$\\mathbf{\\vec A} \\times \\mathbf{\\vec B}$$=\\left|\\begin{array}{ccc}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\2.3 & -1 \\\\1 & 2 & -1\\end{array}\\right| $\n$\\Rightarrow (-3+2) $$\\hat{i}-(-2+1) $$\\hat{j}+(4-3) \\hat{k} $\n$\\Rightarrow -\\hat{i}+\\hat{j}+\\hat{k} $\n$\\therefore A+B$ ও $\\mathbf{\\vec A} \\times \\mathbf{\\vec B}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ,\n$=\\theta =\\cos ^{-1}$$\\left(\\frac{(3 \\hat{i}+5 \\hat{j}-2 \\hat{k}) \\cdot(-\\hat{i}+\\hat{j}+\\hat{k})}{\\sqrt{3^{2}+5^{2}+(-2)^{2}} \\sqrt{(-1)^{2}+1^{2}+1^{2}}}\\right) $\n$\\Rightarrow \\cos ^{-1}\\left(\\frac{-3+5-2}{\\sqrt{38} \\cdot \\sqrt{3}}\\right)=\\cos ^{-1}(0)=90^{\\circ} \\text { (Ans.) }$"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_8",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "SB 2017",
+    "উদ্দীপক": {
+      "title": "SB 2017",
+      "description": "$A=2 \\hat{i}-3 \\hat{j}-\\hat{k} ; $$\\mathbf{B}=-\\hat{i}-4 \\hat{j}+7 \\hat{k}$ এবং তিনটি বিন্দুর স্থানাঙ্ক $P(-3,-2,-1) ; $$Q(4,0,-3)$ এবং $S(6,-7,8) $",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "উদাহরণসহ একক ভেক্টর এর সংজ্ঞা দাও ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "SB 2017",
+        "উত্তর": "একক ভেক্টর (Unit vector): যে ভেক্টরের মান এক $(1)$ তাকে একক ভেক্টর বলে । কোনো ভেক্টরকে এর মান দ্বারা ভাগ করলে ঐ ভেক্টরের দিকে একক ভেক্টর পাওয়া যায় ।\nযেমন: $2 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}$ ভেক্টরের দিক বরাবর একটি একক ভেক্টর হল\n$\\frac{2 \\hat{i}-2 \\hat{j}+\\hat{k}}{\\sqrt{2^{2}+(-2)^{2}+1^{2}}}$$=\\frac{2 \\hat{i}-2 \\hat{j}+\\hat{k}}{3}$"
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের আলোকে $A$ বরাবর $B$ এর উপাংশ নির্ণয় কর ৷",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "SB 2017",
+        "উত্তর": "দেওয়া আছে, $\\mathbf{A}=2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}_{,}$$ \\mathbf{B}=-\\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}+7 \\hat{\\mathrm{k}}$\n$\\therefore A$ ভেক্টর বরাবর $B$ ভেক্টরের উপাংশ $=\\left(\\frac{\\mathbf{A} \\cdot \\mathbf{B}}{|\\mathbf{A}|}\\right)$$\\left(\\frac{\\mathbf{A}}{|\\mathbf{A}|}\\right)$\n$\\Rightarrow \\left(\\frac{2(-1)+(-3)(-4)+(-1) 7}{\\sqrt{2^{2}+(-3)^{2}+(-1)^{2}}}\\right)$$\\left(\\frac{2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}}{\\sqrt{2^{2}+(-3)^{2}+(-1)^{2}}}\\right)$\n$\\Rightarrow\\left(\\frac{-2+12-7}{\\sqrt{14}}\\right)$$\\left(\\frac{2 \\hat{i}-3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}}{\\sqrt{14}}\\right) $\n$=\\frac{3}{14}$$(2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}})$$(\\text { Ans. })$\n$\\\\$"
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকের আলোকে $\\triangle \\mathrm{PQS}$ এর ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "SB 2017",
+        "উত্তর": "$\\mathrm{P}(-3,-2 ;-1), $$\\mathrm{Q}(4,0,-3)$ এবং $S(6,-7,8)$\n$\\therefore \\overrightarrow{P Q} $$=4 \\hat{i}-3 \\hat{\\mathrm{k}}$$-(-3 \\hat{i}-2 \\hat{\\mathrm{j}}$$-\\hat{\\mathrm{k}}) $\n$ \\Rightarrow4 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{k}}+3 \\hat{\\mathrm{i}}$$+2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}$$=7 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}$\nএবং $\\overrightarrow{\\mathrm{QS}}$$=6 \\hat{\\mathrm{i}}-7 \\hat{\\mathrm{j}}+8 \\hat{\\mathrm{k}}-4 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{k}}$$=2 \\hat{\\mathrm{i}}-7 \\hat{\\mathrm{j}}$$+11 \\hat{\\mathrm{k}}$\n$\\therefore \\overrightarrow{\\mathrm{PQ}} \\times \\overrightarrow{\\mathrm{QS}} $$=\\left|\\begin{array}{rrr}\\hat{\\mathrm{i}} & \\hat{\\mathrm{j}} & \\hat{\\mathrm{k}} \\\\7 & 2 & -2 \\\\2 & -7 & 11\\end{array}\\right| $\n $\\Rightarrow (22-14) \\hat{\\mathrm{i}}$$-\\left(77_{2}+4\\right) \\hat{\\mathrm{j}}$$+(-49-4) \\hat{\\mathrm{k}} $\n$\\Rightarrow 8 \\hat{\\mathrm{i}}-81 \\hat{\\mathrm{j}}$$-53 \\hat{\\mathrm{k}}$\n$\\therefore \\triangle \\mathrm{PQS}$ এর ক্ষেত্রফল $=\\frac{1}{2}|\\overrightarrow{\\mathrm{PQ}} \\times \\overrightarrow{\\mathrm{QS}}|$\n$\\Rightarrow \\frac{1}{2}$$ \\sqrt{8^{2}+(-81)^{2}+(-53)^{2}} $\n$\\Rightarrow \\frac{1}{2}$$ \\sqrt{9434}$\n$\\Rightarrow 48,564$ বর্গ একক (প্রায়) (Ans.)"
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_9",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$P=\\overrightarrow{O A}$$=3 \\hat{i}-3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}} ; $$\\mathbf{Q}=\\overrightarrow{\\mathrm{OB}}$$=3 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ যেখানে $O$ মূল বিন্দু ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$P$ ভেক্টরের ওপর $Q$ ভেক্টরের অভিক্ষেপ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, $(\\mathbf{P} \\times \\mathbf{Q})$ ও $(\\mathbf{P}-\\mathbf{Q})$ ভেক্টরদ্বয় পরস্পর লম্ব।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ এর মধ্যবিন্দুর অবস্থান ভেক্টরের সাথে অক্ষত্রয়ের উৎপন্ন কোণগুলোর মধ্যে কোনটি বৃহত্তম নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_10",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$P(1,3,2), Q(2,-1,3)$ ও $R(-1,2,3)$ একটি ত্রিভুজের শীর্ষবিন্দু এবং $O$ মূলবিন্দু ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OP}} \\cdot \\overrightarrow{\\mathrm{OQ}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "QR বাহুর ভেক্টর ও কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে $\\mathrm{PQR}$ ত্রিভুজের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_11",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(2).png?alt=media&token=f6a7de50-367c-4110-bb84-64b4976b131b"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "মূলবিন্দু $'O'$ সাপেক্ষে $\\mathrm{A}(2,-1,7)$ ও $\\mathrm{B}(-4,5,0)$ হলে $|\\overrightarrow{\\mathrm{AB}}|$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\text { SM }$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "p ও q উভয় ভেক্টরের সমতলে লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_12",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$PQRS$ সামান্তরিকের শীর্ষবিন্দুগুলির স্থানাংক যথাক্রমে $P(1,0,2), Q(2,-3,3), $$R(2,1,4), S(1,4,3)$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm{A}(-1,2,2)$ বিন্দুগামী এবং $\\overrightarrow{\\mathrm{PQ}}$ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{PR}}$ ও $\\overrightarrow{\\mathrm{QS}}$ কে সামান্তরিকের কর্ণ ধরে ভেক্টর পদ্ধতিতে $\\text { PQRS }$ সামান্তরিকের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "দেখাও যে, $\\overrightarrow{\\mathrm{QR}}$ ও $\\overrightarrow{\\mathrm{RS}}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ $\\sin ^{-1} \\sqrt{\\frac{6}{17}}$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_13",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$A(1, 2, 3),$$ B(- 1, - 1, 8 )$ ও $C (- 4, 4, 6)$ বিন্দু তিনটি একটি ত্রিভুজের শীর্ষবিন্দু এবং $O$ মূলবিন্দু ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$AB$ বাহুর ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "অক্ষত্রয়ের সাথে $\\overrightarrow{\\mathrm{OB}}$ যে কোণ উৎপন্ন করে, তা নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে দেখাও যে, $\\triangle \\mathrm{ABC}$ সমবাহু ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_14",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathbf{a}=2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}, \\mathbf{b}$$=\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}$ ও $c=3 \\hat{i}-\\hat{j}+2 \\hat{k}$ ভেক্টর তিনটি একটি ঘনবস্তুর ধার নির্দেশ করে।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\mathbf{a}-\\mathbf{b}-\\mathbf{c}|$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "ঘনবস্তুটির আয়তন নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ঘনবস্তুটির পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_15",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\boldsymbol{a}=3 \\hat{i}+\\hat{j}-2 \\hat{k},$$ b=2 \\hat{i}-\\hat{j}+\\hat{k}$ ও $c=\\hat{i}+2 \\hat{j}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A (1, 2, 3)$ বিন্দুগামী এবং $b$ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$c$ ভেক্টরের দিক বরাবর $a$ ও $b$ এর লব্ধির অংশক নির্ণয় কর। \nগ দেখাও যে, $b$ ও $c$ এর মধ্যবর্তী কোণ  $\\sin ^{-1}\\left(\\frac{.5}{3 \\sqrt{3}}\\right)$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_16",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(3).png?alt=media&token=c95e15c3-dc70-4c79-9532-eaa34a571ffa"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm {x \\hat{i}+\\frac{1}{2} \\hat{j}-\\frac{1}{2} \\hat{k}}$ একক ভেক্টর হলে x এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, $P, Q, R$ ভেক্টরত্রয় ভেক্টর যোগের সহযোজন সূত্র মেনে চলে ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "x এর ধনাত্মক মানের জন্য $\\overrightarrow{\\mathrm{OD}}$ এর মান $9$ হলে $\\overrightarrow{\\mathrm{OD}}$ এবং $3 \\hat{i}+4 \\hat{j}-2 \\hat{k}$ ভেক্টর দুইটির অন্তর্ভুক্ত কোণ নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_17",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathbf{a}=2 \\hat{i}+\\hat{\\mathbf{j}}+\\mu \\hat{k}, \\mathbf{b}$$=3 \\hat{i}-2 \\hat{j}+4 \\hat{k}$ ও $c=\\hat{i}-3 $$\\hat{j}+5 \\hat{k}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$a$ ও $b$ পরস্পর লম্ব হলে $\\mu$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mu$ এর মান কত হলে, $a, b$ ও $c$ ভেক্টরত্রয় একই সমতলে অবস্থিত হবে।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$b$ ও $c$ দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_18",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathbf{M}=4 \\hat{i}+5 \\hat{j}+2 \\hat{k}$ এবং $N=3 \\hat i-3 {\\hat j}-6{\\hat k} 1$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$M$ ও $N$ এর লব্ধি ভেক্টরের মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "এমন একটি একক ভেক্টর নির্ণয় কর যা উদ্দীপকের ভেক্টরদ্বয়ের উপর লম্ব।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mathbf{P}=2 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}$ হলে দেখাও যে, $M, N, P$ একটি সমকোণী ত্রিভুজ গঠন করে ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_19",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$P=2 \\hat{i}-6 \\hat{j}-3 \\hat{k}$ এবং $Q=a \\hat{i}+3 \\hat{j}-\\hat{k}$ দুইটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দুইটি ভেক্টরের ক্রস প্রোডাক্ট ব্যাখ্যা কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$P$ এবং $Q$ ভেক্টরদ্বয় পরস্পর লম্ব হলে $Q$ ভেক্টরটি x-অক্ষের সাথে কত কোণ উৎপন্ন করে তা নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$a = 4$ হলে ভেক্টরদ্বয়ের ওপর লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_20",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$PQR$ ত্রিভুজের $S, T$ এবং $U$ যথাক্রমে $QR, RP$ এবং $PQ$ এর মধ্যবিন্দু।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}=\\mathbf{a}$ ও $\\overrightarrow{\\mathrm{OB}}=\\mathbf{b}$ দুইটি অসমান্তরাল ভেক্টর হলে দেখাও যে, $\\overrightarrow{B A}=a-b$",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপক থেকে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, $P Q^{2}+P R^{2}=2$$\\left(P S^{2}+QS^{2}\\right)$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "দেখাও যে, $\\overrightarrow{\\mathrm{PS}}+\\overrightarrow{\\mathrm{QT}}+\\overrightarrow{\\mathrm{RU}}=\\mathbf{0}$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_21",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathbf{F}=2 \\hat{i}-2 \\hat{j}+\\hat{k}$ মানের বল $( 2,− 1, 2)$ বিন্দুতে কোনো একটি কণার উপর প্রয়োগ করায় কণাটির শেষ অবস্থান $(5, 1, 4)$ হলো।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "প্রদত্ত দুইটি বিন্দুগামী সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "বলটি দ্বারা কাজের পরিমাণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ঘূর্ণন কেন্দ্র $( 2, 3, 2)$ হলে বলের ভ্রামকের মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_22",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "একটি বস্তুর অবস্থান ভেক্টর $\\mathrm{A}(2 \\hat{i}-\\hat{j}+2 \\hat{k})$ বস্তুটির উপর $F=(2 \\hat{i}-2 \\hat{j}+\\hat{k})$ বল প্রয়োগ করায় বস্তুটির অবস্থান পরিবর্তন হয়। $B$ ও $C$ বিন্দুর অবস্থান ভেক্টর যথাক্রমে $(3 \\hat{i}+2 \\hat{j}+z \\hat{k})$ এবং $(5 \\hat{i}+\\hat{j}+4 \\hat{k})$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\mathbf{A}+\\mathbf{C}|$ নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$AB$ বরাবর বস্তুটির সরণ (বা এর লম্ব অভিক্ষেপ) না থাকলে $z$ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$C$ বিন্দুর সাপেক্ষে $F$ বলের ভ্রামকের মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_23",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "জেনারেটরে ব্যবহৃত একটি সামান্তরিক আকৃতির কুন্ডলীপাতের দুটি সন্নিহিত বাহু যথাক্রমে $\\overrightarrow{\\mathrm{QP}}=\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{\\mathrm{QR}}=2 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}-5 \\hat{\\mathrm{k}}$ পাতটির নিকটে অবস্থিত একটি চুম্বকের চৌম্বকক্ষেত্র $\\mathbf{B}=4 \\hat{i}+7 \\hat{\\mathbf{j}}-2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$B$ বরাবর একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "সামান্তরিক পাতের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "এমন একটি একক ভেক্টর নির্ণয় কর যা $B$ ও $\\overrightarrow{\\mathrm{QR}}$ ভেক্টরদ্বয় দ্বারা সৃষ্ট সমতলের উপর লম্ব ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_24",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "(i) মূল বিন্দু $O$ এর সাপেক্ষে $L$ ও $M$ এর অবস্থান ভেক্টর যথাক্রমে $2 \\hat{i}-3 \\hat{j}+3 \\hat{k}$ এবং $5 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}+c \\hat{k} ; c$ একটি ধ্রুবক। এমন একটি বিন্দু $N$ নেয়া হলো, যাতে $OLMN$ একটি আয়তক্ষেত্র হয়।\n(ii) আটলান্টিক মহাসাগরে দুইটি সাবমেরিন সরলরেখা বরাবর চলছে। মূলবিন্দু $O$ এর সাপেক্ষে তাদের গতিপথের ভেক্টর সমীকরণ\nযথাক্রমে- $r_{1}=3 \\hat{i}+4 \\hat{j} $$-5 \\hat{k}+\\lambda(\\hat{i}-2 \\hat{j}+2 \\hat{k})$\nএবং $\\mathbf{r}_{2}=9 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}$$+\\mu(4 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}-\\hat{\\mathrm{k}})$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দেখাও যে, সাবমেরিন দুইটির গতিপথ পরস্পর লম্ব ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "সাবমেরিনদ্বয়ের গতিপথের ছেদবিন্দু $A$ এর অবস্থান ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$N$ বিন্দুর অবস্থান ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_25",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$Q=\\left[\\begin{array}{ccc}2 & 6 & 3 \\\\4 & 9 & 5 \\\\6 & m & 5\\end{array}\\right]$ ম্যাট্রিক্সটির ১ম, ২য় ও ৩য় সারি বরাবর  ভুক্তিগুলোকে যথাক্রমে $A, B$ ও $C$ ভেক্টর চিন্তা কর ৷",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$D$ একটি $3 \\times 3$ ম্যাট্রিক্স এবং $|\\mathrm{D}|=-7$ হলে,$\\left|(2 D)^{-1}\\right|=$  কত?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$A, B$ ও $C$ কোনো ত্রিভুজের তিনটি বাহু নির্দেশ করলে এবং $m=\\sqrt{61}$ হলে, ত্রিভুজটির প্রকৃতি নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$m = 1$ এবং $Q\\left[\\begin{array}{l}x \\\\y \\\\z\\end{array}\\right]=\\left[\\begin{array}{r}0 \\\\-2 \\\\-8\\end{array}\\right]$ হলে ক্রেমারের নিয়মে x, y ও z এর মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_26",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "দৃশ্যকল্প-১: $A=$$\\left[\\begin{array}{rrr}1 & 2 & 0 \\\\-1 & 1 & 3 \\\\2 & -3 & 1\\end{array}\\right]$ \nদৃশ্যকল্প-২: $\\mathbf{a}=\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}$ এবং $\\mathbf{b}=-\\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$a$ ভেক্টর বরাবর $b$ ভেক্টরের অভিক্ষেপ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$|A+x| \\mid=0$ হলে x এর মান নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$a$ ও $b$ এর ওপর লম্ব এরূপ একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_27",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "একটি আয়তাকার ইটের ধারগুলোকে $\\mathbf{A}=2 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}$\n$\\mathbf{B}=\\hat{i}+\\hat{j}+4 \\hat{k}$ এবং $\\mathrm{C}=-2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ দ্বারা সূচিত করা হলো ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|2 \\mathbf{A}+\\mathbf{C}|$ নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$59000$ ঘন একক ইটের দাম $10000$ টাকা হলে প্রতিটি ইটের দাম কত?",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকের $A, B$ ও $C$ ভেক্টরত্রয়ের $\\hat{\\mathrm{i}}, \\hat{\\mathrm{j}}$ ও $\\hat{k}$ এর সহগকে যথাক্রমে কলাম বরাবর নিয়ে\nগঠিত ম্যাট্রিক্সটি $E$ হলে $E^{3}-3 E^{2}-5I$ এর মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_28",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$A=\\left[\\begin{array}{rrr}1 & 1 & 1 \\\\1 & 2 & -3 \\\\2 & -1 & 3\\end{array}\\right], $$B=\\left[\\begin{array}{ll}2 & -3 \\\\4 & -1\\end{array}\\right], $$X=\\left[\\begin{array}{l}x \\\\y\\end{array}\\right], C=\\left[\\begin{array}{c}3 \\\\11\\end{array}\\right]$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$O$ মূলবিন্দু সাপেক্ষে $A(1, −1, 3)$ ও $B(−2, 3, 5)$ হলে, $AB$ নির্ণয় কর ৷",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$BX = C$ এর সমাধান বিন্দু এবং $(2, 3)$ বিন্দুগামী সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "দেখাও যে, $A(\\operatorname{adj} A)=|A| I_{3}$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_29",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathrm{A}(3,-1,2), $$\\mathrm{B}(1,-1,-3)$ ও $C(4,-3,2)$ বিন্দুত্রয় শূন্যে অবস্থান করে।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$H=$$\\left[\\begin{array}{rr}3 & 2 \\\\-3 & -2\\end{array}\\right]$ ম্যাট্রিক্সটি সমঘাতি কিনা যাচাই কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ ও $\\overrightarrow{\\mathrm{AC}}$ কোনো সামন্তরিকের দুইটি সন্নিহিত বাহু নির্দেশ করলে, সামন্তরিকের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$A, B$ ও $C$ এর উপাদানসমূহকে ভিন্ন ভিন্ন সারি বরাবর সাজিয়ে গঠিত ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ক্ষেত্রফল",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_30",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$a=2 \\hat{i}+4 \\hat{j}-\\hat{k}, $$\\mathbf{b}=-\\hat{i}+3 \\hat{j}+\\hat{k}, $$\\mathbf{c}=\\hat{i}-\\hat{j}+2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A=$$\\left[\\begin{array}{cc}x^{2}-1 & -x+1 \\\\1 & x\\end{array}\\right]$ ম্যাট্রিক্সটি ব্যতিক্রম হলে x এর মান নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mathbf{d}=\\mathbf{a} \\times \\mathbf{b}$ হলে $c$ ও $d$ এর মধ্যবতী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$a + c$ বরাবর $a – c$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_31",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$A=\\left[\\begin{array}{rrr}4 & 5 & 6 \\\\2 & -3 & 2 \\\\-5 & 2 & 1\\end{array}\\right], $$X=\\left[\\begin{array}{l}x \\\\y \\\\z\\end{array}\\right], $$B=\\left[\\begin{array}{r}7 \\\\-1 \\\\-9\\end{array}\\right]$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A$ ম্যাট্রিক্সটি অভেদঘাতি কিনা যাচাই কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$P=a_{11} \\hat{i}+a_{21} \\hat{j}+a_{31} \\hat{k}$ ও $\\mathbf{Q}=a_{12} \\hat{i}+a_{22} \\hat{j}+a_{32} \\hat{k}$ ভেক্টর দুইটির \nওপর লম্ব এরূপ একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mathrm{AX}=\\mathrm{B}$ হলে নির্ণায়ক পদ্ধতিতে $\\mathrm{X}^{t}$ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_32",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থায় $\\mathrm{A}(5,2,-3), $$\\mathrm{B}(-3,-2,1)$ $\\mathrm{C}(3,-2,11)$ ও $\\mathrm{D}(-1,-4,13)$ চারটি বিন্দু। -",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A$ বিন্দুগামী এবং $B$ ও $C$ বিন্দুদ্বয়ের সংযোগ সরলরেখার সমান্তরাল সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, $\\overrightarrow{\\mathrm{AB}}$ ও $\\overrightarrow{\\mathrm{CD}}$ সমান্তরাল ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "বিন্দুগুলি দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_33",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathbf{A}=2 \\hat{i}+2 \\hat{j}+\\hat{k}$ এবং $=6 \\hat{i}-3 \\hat{j}+2 \\hat{k}$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(4).png?alt=media&token=61001c1d-b2b3-4692-86dc-d478b59b9085"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$A$ এবং $B$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$EF$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$A$ ও $B$ উভয় ভেক্টরের সমতলে লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_34",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(5).png?alt=media&token=bc2bbc46-6770-405b-92b1-89683c0bed80"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দেখাও যে, $a=-8 \\hat{i}$$-4 \\hat{j}+4 \\hat{k}$ ও $b=-4 \\hat{i}-2 \\hat{j}$$+2 \\hat{k}$ ভেক্টরদ্বয় পরস্পর সমান্তরাল ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$PR$ বাহুর ভেক্টর ও কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে দেখাও যে, $\\angle P R Q=$ এক সমকোণ ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_35",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "ভেক্টর $c$ যার মান $12$ যেন\n$c = pa$ এবং $d = 2b$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(6).png?alt=media&token=c9cea201-dc28-4b51-9683-3338cd754726"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|2 \\mathbf{a}+3 \\mathbf{b}|$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\beta$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$|d-c|$ এর মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_36",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\mathbf{p}=2 \\hat{i}+\\hat{j}-a \\hat{k}, $$\\mathbf{q}=3$$ \\hat{i}+2 \\hat{j}+4 \\hat{k}$ এবং $\\mathbf{r}=\\hat{i}-3 \\hat{j}+b \\hat{k}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দুইটি ভেক্টর লম্ব হওয়ার শর্ত ব্যাখ্যা কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$b = 2$ হলে $r$ বরাবর $q$ এর অংশক নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$p, q$ এবং $r$ ভেক্টর তিনটি সমতলীয় হওয়ার শর্ত বের কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_37",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "একটি বস্তুর উপর $P$ ও $Q$ মানের দুইটি বল কার্যরত। যেখানে $P=2 \\hat{j}-3 \\hat{j}+4 \\hat{k}$ এবং $Q=3 \\hat{i}+\\hat{j}-\\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "বস্তুটির উপর কোন বলের প্রভাব অধিক তা নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "অক্ষত্রয়ের সাথে লব্ধি বল যে কোণগুলি উৎপন্ন করে তা নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "বস্তুটির সরণ $3 \\hat{i}-6 \\hat{j}+2 \\hat{k}$ হলে বল ও সরণের মধ্যবর্তী কোণ এবং মোট কাজ নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_38",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$A=a \\hat{i}-2 \\hat{j}+2 \\hat{k}, $$B=-2 \\hat{i}-\\hat{j}+\\hat{k}$ এবং $C=\\hat{i}-2 \\hat{j}+5 \\hat{k}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\mathbf{B}-\\mathbf{C}|$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mathrm a$ এর কোন মানের জন্য $\\mathrm {(B \\times C)}$ ও $A$ ভেক্টরদ্বয় পরস্পর লম্ব হবে?",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mathrm a=3$ হলে $A \\times C$ বরাবর $B$ ভেক্টরের অংশক নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_39",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\text { OACB }$ একটি সামান্তরিক । যেখানে $P=6 \\hat{i}+5 \\hat{j}-3 \\hat{k}$ এবং $Q=4 \\hat{i}-3 \\hat{j}+2 \\hat{k}$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(7).png?alt=media&token=c17ec669-4027-45e2-bb76-5f853fb4e36f"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$P – Q$ এর দিক বরাবর একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$P$ এবং $Q$ এর মধ্যবর্তী কোণ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$P$ বরাবর $R$ এর অংশক নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_40",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$\\overrightarrow{\\mathrm{OP}}=3 \\hat{\\mathrm{i}}$$+2 \\hat{\\mathrm{j}}-4 \\hat{\\mathrm{k}}$ এবং $\\overrightarrow{O Q}=2 \\hat{i}-3 $$\\hat{j}+3 \\hat{k}$ দুইটি ভেক্টর যা একই বিন্দু $O$ থেকে $P$ এবং $Q$ বরাবর ক্রিয়ারত ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "ভেক্টর ক্রস প্রোডাক্ট ব্যাখ্যা কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OP}}$ এবং $\\overrightarrow{\\mathrm{OQ}}$ ভেক্টরের মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mathrm a$ এর কোন মানের জন্য $\\mathbf{R}=a \\hat{i}+3 \\hat{j}$$+11 \\hat{k}$ ভেক্টরটি $\\overrightarrow{\\mathrm{PQ}}$ ভেক্টরের উপর লম্ব হবে ?",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_41",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "অসীম স্যার",
+    "উদ্দীপক": {
+      "title": "অসীম স্যার",
+      "description": "$2 \\hat{i}+3 \\hat{j}-\\hat{k}$ এবং $\\hat{i}+4 \\hat{j}+3 \\hat{k}$ বিপরীত ক্রমে একটি ত্রিভুজের দুইটি বাহু নির্দেশ করে ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "১ম ভেক্টরের ওপর ২য় ভেক্টরের লম্ব অভিক্ষেপ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, বাহু তিনটি একই সমতলে অবস্থিত।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "অসীম স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_42",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\bar{a}=2 \\hat{\\mathbf{i}}+3 \\hat{\\mathbf{j}}-\\hat{\\mathrm{k}}, $$\\overline{\\mathrm{b}}=\\hat{\\mathbf{i}}-2 \\hat{\\mathbf{j}}, $$\\overline{\\mathrm{c}}=\\hat{\\mathbf{i}}+p \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$ এবং $\\overline{\\mathrm{d}}=3 \\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm{A}(2,-3,1)$ এবং $\\mathrm B ( 1, 0, 4 )$ হলে $\\overrightarrow{\\mathrm{AB}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\bar{b}$ ও $\\bar{c}$ এর মধ্যবর্তী কোণ $45°$ হলে $\\mathrm p$ এর মান নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\bar{a}$ এবং $\\bar{d}$ যে সমতলে অবস্থিত তার উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_43",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "তিনটি ভেক্টর রাশি নিম্নরূপ :\n$\\mathbf{A}=2 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}, $$\\mathbf{B}=3 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ এবং $C=\\hat{i}-3 \\hat{j}+a \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "তিনটি ভেক্টর সমতলীয় হওয়ার শর্ত কী?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mathrm a$ এর মান কত হলে $(\\mathbf{A} \\times \\mathbf{B}) $$\\cdot \\mathbf{C}=0$ হবে ?",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "প্রদত্ত ভেক্টরত্রয়ের সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_44",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$P=3 \\hat{i}+2 \\hat{j}-2 \\hat{k}$ এবং $\\mathrm {Q=-\\hat{i}+\\hat{j}-4 \\hat{k}}$ দুইটি ভেক্টর ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "প্রদত্ত ভেক্টর দুইটির লব্ধি ভেক্টর $\\mathrm R$ হলে, $\\mathrm R$এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "লব্ধি $\\mathrm R$ ভেক্টরটির সমান্তরাল একক ভেক্টর এবং $\\mathrm R$ এর উপর $P$ এর অভিক্ষেপ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "প্রমাণ কর যে, $\\mathrm {P, Q, R}$ ভেক্টরত্রয় সমতলীয় ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_45",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\overrightarrow{A B}=2 \\hat{i}+2 \\hat{j}+\\hat{k}$ এবং $\\overrightarrow{A C}=2 \\hat{i}-\\hat{j}-2 \\hat{k}$ ভেক্টর দুইটি এক বিন্দুতে ক্রিয়াশীল।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{AC}}|$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ ও $\\overrightarrow{\\mathrm{AC}}$ এর মধ্যবর্তী কোণ $\\theta$ হলে $\\sin \\theta$ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "প্রমাণ কর যে, উদ্দীপকের ভেক্টর দুইটির লব্ধি এদের অন্তর্ভুক্ত কোণকে সমদ্বিখন্ডিত করে।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_46",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\mathrm{\\overrightarrow{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}}$ এবং $\\mathrm {\\vec{B}=4 \\hat{i}-5 \\hat{j}+4 \\hat{k}}$  দুইটি ভেক্টর ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\overrightarrow{\\mathrm{A}}+\\overrightarrow{\\mathrm{B}}|$ এর মান কত?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ ভেক্টরটি অক্ষত্রয়ের সাথে যে কোণ উৎপন্ন করে তা নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$(6, − 3, 2)$ বিন্দুগামী এবং $\\overrightarrow{\\mathrm{AB}}$ এর সমান্তরাল সরলরেখার ভেক্টর ও কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_47",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "পাশের চিত্রটি লক্ষ্য কর এবং নিচের প্রশ্নগুলির উত্তর দাও",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(8).png?alt=media&token=8705ff1a-cbe6-4687-ae19-2fce61d02f4d"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দুইটি ভেক্টরের স্কেলার গুণন বিনিময় নিয়ম মানে উদাহরণসহ ব্যাখ্যা দাও।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mathbf{R}=\\overrightarrow{\\mathrm{OC}}$ নির্ণয় কর এবং দেখাও যে,$\\mathbf{P}, \\mathbf{Q}, \\mathbf{R}$ সমতলীয় ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপক অবলম্বনে $\\alpha$ এর মান নির্ণয় কর এবং দেখাও যে, $\\theta=\\frac{\\alpha}{2}$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_48",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\vec{A}=2 \\hat{i}-\\hat{j}+\\hat{k}, $$\\vec{B}=3 \\hat{i}-2 \\hat{j}+4 \\hat{k}$ এবং $\\vec{C}=5 \\hat{i}-3 $$\\hat{j}+5 \\hat{k}$ তিনটি ভেক্টর",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|2 \\overrightarrow{\\mathrm{A}}+\\overrightarrow{\\mathrm{B}}|$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": ". দেখাও যে, ভেক্টরত্রয় সমতলীয় এবং প্রদত্ত ভেক্টরত্রয়ের সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে $\\mathrm{ABC}$ ত্রিভুজের ক্ষেত্রফল নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_49",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "দৃশ্যকল্প:",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(9).png?alt=media&token=8109b542-0225-4845-845b-6b5c36b497c0"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+\\mu \\hat{\\mathrm{k}}$ ভেক্টরটির মান $7$ হলে $\\mu$ এর মান কত?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দৃশ্যকল্প থেকে $\\sin \\alpha$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\underline{b}$ ভেক্টরের উপর $\\underline{a}$ ভেক্টরের অভিক্ষেপ এবং $\\underline{a}$ এর দিক বরাবর $\\underline{b}$ এর উপাংশ নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_50",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\mathrm{ABCD}$ সামান্তরিকের $\\overrightarrow{\\mathrm{AC}}$ ও $\\overrightarrow{\\mathrm{BD}}$ কর্ণ দুইটি যথাক্রমে $\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}$ ও $3 \\hat{\\mathrm{i}}-4 \\hat{\\mathrm{j}}+6 \\hat{\\mathrm{k}}$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(10).png?alt=media&token=0b435ca9-8606-478f-8747-cf8ff8609a19"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm{OAC}$ ত্রিভুজের $\\mathrm{AC}$ বাহুর মধ্যবিন্দু $B$ যদি $\\overrightarrow{\\mathrm{OA}}=\\underline{\\mathrm{a}}$ এবং $\\overrightarrow{\\mathrm{OB}}=\\underline{\\mathrm{b}}$ হয়, \nতবে $\\overrightarrow{O C}$ কে $\\underline{\\mathrm{a}}$ ও $\\underline{\\mathrm{b}}$ মাধ্যমে প্রকাশ কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ ও $\\overrightarrow{\\mathrm{AD}}$ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে সামান্তরিকটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_51",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$(1,-2,3)$ বিন্দুতে কোনো একটি বস্তুকণার উপর $\\mathbf{F}=2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}-6 \\hat{\\mathrm{k}}$ বলটি প্রয়োগের ফলে বস্তুকণাটি $(3,5,-2)$ বিন্দুতে সরে গেল ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\bar{A}=\\hat{i}-2 \\hat{j}-3 \\hat{k}$ এবং $B=2 \\hat{i}+\\hat{j}-k$ ভেক্টর দুটি লম্ব কিনা যাচাই কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "প্রদত্ত বলটি দ্বারা সম্পাদিত কাজের পরিমাণ কত?",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকের দুইটি বিন্দুগামী সরলরেখার ভেক্টর ও কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_52",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$A$ ও $B$ বিন্দু দুইটির কার্তেসীয় স্থানাংক যথাক্রমে $(1, -2, 3)$ ও $(6, 8, −2)$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "অবস্থান ভেক্টর বলতে কি বুঝ?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "মূলবিন্দু $O$ এর সাপেক্ষে $A$ ও $B$ বিন্দু দুইটির অবস্থান ভেক্টর লিখ এবং $|\\overrightarrow{\\mathrm{AB}}|$ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$AB$ কে $2 : 3$ অনুপাতে অন্তর্বিভক্তকারী বিন্দুর অবস্থান ভেক্টর এবং স্থানাঙ্ক নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_53",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\overrightarrow{\\mathbf{A}}=4 \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}, $$\\overrightarrow{\\mathbf{B}}=3 \\hat{i}-2 \\hat{i}+2 \\hat{\\mathbf{k}}$ এবং $\\overrightarrow{\\vec{C}}=2 \\hat{i}-\\lambda \\hat{j}+\\hat{k}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\vec{P}=a \\hat{i}-2 \\hat{j}+\\hat{k}$ এবং $\\vec{Q}=2 a \\hat{i}-a \\hat{j}-4 \\hat{k}$ ভেক্টর দুইটি পরস্পর লম্ব হলে $\\mathrm a$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\lambda$ এর মান কত হলে, $(\\vec{A} \\times \\vec{B}) \\cdot \\vec{C}=0$ হবে?",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\vec{A}$ ও $\\vec{B}$ ভেক্টর দুইটি কোনো সামন্তরিকের সন্নিহিত বাহু হলে তার ক্ষেত্রফল নির্ণয় কর; $\\vec{A}$ ও $\\vec{B}$ এর মধ্যবর্তী কোণ $\\theta$ হলে $\\cos \\theta$ কত?",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_54",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$A(1,3,-1), $$B(2,-1,1)$ এবং $C(-1,4,2)$ বিন্দু তিনটি একটি ত্রিভুজের শীর্ষবিন্দু।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ ও $\\overrightarrow{\\mathrm{AC}}$ পরস্পর লম্ব কিনা যাচাই কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$BC$ বাহুর ভেক্টর সমীকরণ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে $ABC$ ত্রিভুজের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_55",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\text { PQR }$ ত্রিভুজের শীর্ষবিন্দু তিনটি $\\mathrm{P}(1,2,3), $$\\mathrm{Q}(-1,-1,8)$ এবং $\\mathrm{R}(-4,4,6)$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}$ ভেক্টরটি x-অক্ষের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mathrm{PQ}$ বাহুর ভেক্টর ও কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, $\\triangle \\mathrm{PQR}$ সমবাহু ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_56",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\mathbf{P}=3 \\hat{i}-2 \\hat{j}+\\hat{k}, $$\\mathbf{Q}=\\hat{i}-3 \\hat{j}+5 \\hat{k}, $$\\mathbf{R}=2 \\hat{i}+\\hat{j}-4 $$ \\hat{k}$ তিনটি ভেক্টর ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দেখাও যে, $4 \\hat{\\mathrm{i}}-6 \\hat{\\mathrm{j}}+10 \\hat{\\mathrm{k}}$ এবং $2 \\hat{i}-3 \\hat{j}+5 \\hat{k}$ ভেক্টর দুইটি  পরস্পর সমান্তরাল ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "প্রমাণ কর যে, উদ্দীপকের ভেক্টর তিনটি একটি সমকোণী ত্রিভুজ গঠন করে ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে $\\triangle \\mathrm{PQR}$ এর ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_57",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$3 \\hat{i}+\\hat{j}-2 \\hat{k}$ এবং $\\hat{i}-3 \\hat{j}+4 \\hat{k}$ দুইটি ভেক্টর ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "মূলবিন্দু $O$ এর সাপেক্ষে $\\mathrm{A}(2,3,-6), \\mathrm{B}(2,2,6)$ দুইটি বিন্দু ।\n$\\overrightarrow{\\mathrm{OA}}$ এবং $\\overrightarrow{\\mathrm{OB}}$ এর মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের ভেক্টর দুইটি কোনো সামান্তরিকের কর্ণ ধরে সামান্তরিকের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$3 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}$ বিন্দুগামী এবং $\\mathrm{\\hat{i}-3 \\hat{j}+4 \\hat{k}}$ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর ও কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_58",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\triangle \\mathrm{ABC}$ ত্রিভুজের $\\mathrm{BC}, \\mathrm{CA}, \\mathrm{AB}$ বাহুর মধ্যবিন্দু যথাক্রমে $\\mathrm {D, E, F}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\hat{i}+2 \\hat{j}-3 \\hat{k}$ ও $\\lambda \\hat{i}-5 \\hat{j}+\\hat{k}$ পরস্পর লম্ব হলে $\\lambda $ এর মান নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, $\\overrightarrow{\\mathrm{AD}}+\\overrightarrow{\\mathrm{BE}}$$+\\overrightarrow{\\mathrm{CF}}=\\underline{0}$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপক থেকে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, ${A B^{2}}^{}+\\mathrm{AC}^{2}$$=2\\left(\\mathrm{AD}^{2}+\\mathrm{BD}^{2}\\right)$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_59",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$P=\\hat{i}+2 \\hat{\\mathbf{j}}+3 \\hat{\\mathbf{k}},$$ \\mathbf{Q}=2 \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$ এবং $R=3 \\hat{i}+\\hat{\\mathbf{j}}-5 \\hat{\\mathbf{k}}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\text { RST }$ ত্রিভুজে $\\overrightarrow{\\mathrm{RS}}=-2 \\hat{\\mathrm{i}}-5 \\hat{k}$ এবং $\\mathrm{\\overrightarrow{R T}=\\hat{i}-2 \\hat{j}-\\hat{k}}$ হলে $\\angle \\mathrm{RST}$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের ভেক্টর তিনটি কোনো সামান্তরিক আকারের ঘনবস্তুর ধার হলে তার আয়তন নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$P$ ও $Q$ ভেক্টরের উপর লম্ব এরূপ একটি একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_60",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\mathbf{A}(2,3,-1)$ এবং $\\mathrm{B(4,-2,1)}$ স্থির দুইটি বিন্দু।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\bar{A}=\\hat{i}-2 \\hat{j}-3 \\hat{k}$ এবং $\\bar{B}=2 \\hat{i}+\\hat{j}-\\hat{k}$ ভেক্টর দুটি লম্ব কিনা যাচাই কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের $A$ এবং $B$ বিন্দুগামী সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর ৷",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "একটি কণার উপর $P=2 \\hat{i}-3 \\hat{j}+\\hat{k}$ এবং $\\mathbf{Q}=3 \\hat{i}+\\hat{j}-4 \\hat{k}$ দুইটি বল প্রয়োগের ফলে \nকণাটি $\\mathrm{A}(2,3,-1)$ বিন্দু হতে $\\mathrm{B}(4,-2,1)$ বিন্দুতে সরে গেল । বল দুইটি দ্বারা সম্পাদিত কাজ নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_61",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$A=3 \\hat{i}+2 \\hat{j}-2 \\hat{k}, $$B=-\\hat{i}+\\hat{j}-4 \\hat{k}$ এবং $C=2 \\mu \\hat{i}+\\hat{j}$ $+2 \\hat{\\mathbf{k}}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|2 \\mathrm{A}-\\mathrm{B}|$ নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$(A \\times B)$ ভেক্টরের সমান্তরাল একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mu$ এর কোন মানের জন্য $\\text { A, B, C }$ ভেক্টর তিনটি সমতলীয় হবে?",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_62",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\underline{{a}}, \\underline{\\mathbf{b}}, \\underline{c}$ এরূপ তিনটি ভেক্টর যেন $\\underline{a}+\\underline{b}+\\underline{c}=0$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(11).png?alt=media&token=d1e1d60d-3ab0-40cd-a924-8f143e2dfa71"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\underline a|=3,|\\underline b|=5$ এবং $|\\underline c|=7$ হলে, দেখাও যে, $\\underline{\\mathbf{a}}$ ও $\\underline{\\mathrm{b}}$ ভেক্টর দুইটির মধ্যবর্তী কোণ $\\frac{2 \\pi}{3}$ রেডিয়ান ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "প্রমাণ কর যে, $|\\underline{a} \\times \\underline{b}|^{2}$$+|\\underline{a} \\cdot \\underline{b}|^{2}=|\\mathrm{a}|^{2}|\\underline{b}|^{2}$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকের $\\triangle \\mathrm{ABC}$ থেকে দেখাও যে,$a^{2}=b^{2}+c^{2}$$-2 b c \\cos A$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_63",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\underline{P}=2 \\hat{i}-\\hat{j}+\\hat{k}, $$\\underline{Q}=\\hat{i}+2 \\hat{j}-3 \\hat{k}$ এবং $\\underline{R}=3 \\hat{i}-4 \\hat{j}+5 \\hat{k}$ তিনটি ভেক্টর ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\underline{P}$ ও $\\underline{R}$ এর লব্ধির দিক বরাবর একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের ভেক্টরত্রয় সমতলীয় কিনা যাচাই কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "প্রমাণ কর যে, $\\underline{P}$ ও $\\underline{Q}$ এর অন্তর্ভুক্ত কোণ $\\theta$ হলে, $\\theta=\\sin ^{-1}\\left(\\frac{5}{2 \\sqrt{7}}\\right)$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_64",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\underline A=2 \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}, $$\\underline{\\mathbf{B}}=3 \\hat{\\mathbf{i}}-2 \\hat{\\mathbf{j}}+4 \\hat{\\mathbf{k}}$ এবং $\\underline{C}=\\hat{i}-3 \\hat{\\mathbf{j}}+5 \\hat{k}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\underline{\\mathrm A}$ ভেক্টরটি $Z$-অক্ষের সাথে যে কোণ উৎপন্ন করে তা নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\underline{\\mathrm A}$ ভেক্টরের দিক বরাবর, $\\underline{B}$ ও $\\underline{C}$ এর লব্ধি ভেক্টরের উপাংশ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "যদি উদ্দীপকের ভেক্টর তিনটি $\\mathrm{ABC}$ ত্রিভুজের শীর্ষবিন্দুর অবস্থান ভেক্টর নির্দেশ করে  \nতবে ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_65",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(12).png?alt=media&token=aa5efaca-7849-44d1-a95c-15a5b3d208db"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$r \\cos \\left(\\frac{\\pi}{4}-\\theta\\right)={6}$ সরলরেখা দ্বারা অক্ষদ্বয়ের খণ্ডিতাংশের\nপরিমাণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দৃশ্যকল্পের ভেক্টরদ্বয়ের অন্তর্ভুক্ত কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\mathrm {CD}$ এর মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_66",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "ABCD একটি সামান্তরিক।",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(13).png?alt=media&token=6de266f6-fd89-4065-8de7-59fe1bbb873a"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "ভেক্টর $R$ এর দিক বরাবর $Q$ এর অভিক্ষেপ নির্ণয় কর ৷",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "চিত্রে কোণ $\\alpha$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$P$ ভেক্টর বরাবর $R$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_67",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "এস ইউ আহাম্মদ স্যার",
+    "উদ্দীপক": {
+      "title": "এস ইউ আহাম্মদ স্যার",
+      "description": "$\\mathbf{P}$$=(6 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}) \\mathrm{N}$ এবং $\\mathbf{Q}$$=(2 \\hat{i}-\\hat{j}+3 \\hat{k}) N$ দুইটি বল একটি বস্তুকণার উপর কার্যরত।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দেখাও যে, $P$ ও $Q$ স্কেলার গুণনের বিনিময় সূত্র মেনে চলে ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$P$ এর উপর $Q$ এর অভিক্ষেপ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "বস্তুকণাটির সরণ $\\mathbf{r}=2 \\hat{\\mathbf{i}}+3 \\hat{\\mathbf{j}}-2 \\hat{\\mathbf{k}}$ মিটার হলে প্রযুক্ত বল দুইটি দ্বারা সম্পাদিত কাজের পরিমাণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "এস ইউ আহাম্মদ স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_68",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\vec{A}=\\hat{i}+2 \\hat{j}-3 \\hat{k}$ এবং $\\overrightarrow{\\mathbf{B}}=3 \\hat{\\mathrm{i}}-\\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm{\\vec{A} \\times \\vec{B}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\mathrm{\\vec{A} \\times \\vec{B}}$ এবং $\\overrightarrow{\\mathrm{A}}$ ভেক্টর দুইটির মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "দেখাও যে, $\\mathrm{\\vec{A}, \\vec{A}-\\vec{B}}$ এবং $\\mathrm{4 \\hat{i}+2 \\hat{j}-2 \\hat{k}}$ ভেক্টর তিনটি একটি সমকোণী ত্রিভুজ গঠন করে ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_69",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$ABC$ ত্রিভুজের $BC, CA, AB$ বাহুগুলির মধ্যবিন্দু যথাক্রমে $D, E, F$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\hat{i}-\\hat{j}+\\hat{k}, 2 \\hat{i}$$+2 \\hat{j}-\\hat{k}, \\lambda \\hat{i}-\\hat{j}$$+\\lambda \\hat{k}$ ভেক্টর তিনটি সমতলীয় হলে $\\lambda$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "প্রমাণ কর যে, $\\overrightarrow{\\mathrm{AD}}+\\overrightarrow{\\mathrm{BE}}+\\overrightarrow{\\mathrm{CF}}=\\underline{0}$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে দেখাও যে, $AD, BE$ ও $CF$ সমবিন্দু।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_70",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\vec{A}=2 \\hat{i}-6 \\hat{j}+3 \\hat{k}, $$\\vec{B}=3 \\hat{i}+2 \\hat{j}-4 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$P(3,-1,4), $$Q(4,-3,-2)$ হলে y-অক্ষের উপর $\\overrightarrow{P Q}$ এর অভিক্ষেপ নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathbf{A}}$ ও $\\overrightarrow{\\mathbf{B}}$ এর লব্ধি বল এবং $\\overrightarrow{\\mathbf{A}}$ এর মধ্যবর্তী কোণ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathbf{A}}$ ও $\\overrightarrow{\\mathbf{B}}$ ভেক্টরদ্বয়ের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_71",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "মূলবিন্দু: $O$ এর সাপেক্ষে $A$ ও $B$ এর অবস্থান ভেক্টর\nযথাক্রমে $\\underline{a}=2 \\hat{i}$$-3 \\hat{j}-\\hat{k}$ ও $\\underline{b}=\\hat{i}$$+4 \\hat{j}+3 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\underline{\\mathbf{a}} \\times \\underline{\\mathbf{b}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$AB$ এর মধ্যবিন্দুগামী এবং $\\overrightarrow{\\mathrm{AB}}$ ভেক্টরের সমান্তরাল সরলরেখার ভেক্টর \nসমীকরণ হতে কার্তেসীয় সমীকরণ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$OAB$ ত্রিভুজটির বৃহত্তম কোণ নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_72",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{OA}}$$=3 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$\n$\\vec{Q}=\\overrightarrow{O B}$$=3 \\hat{i}-2 \\hat{j}+4 \\hat{k}, O$ মূলবিন্দু।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}|$ নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$( 2, 4, 6)$ বিন্দুগামী $\\overrightarrow{\\mathrm{AB}}$ এর সমান্তরাল সরলরেখার কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{A B}$ এর মধ্যবিন্দু হতে $\\overrightarrow{\\mathrm{OA}}$ এর লম্ব দূরত্ব নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_73",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overline{\\mathbf{A}}=3 \\hat{i}+2 \\hat{\\mathbf{j}}+\\hat{k}$ এবং $\\overline{\\mathbf{B}}=\\hat{i}-3 \\hat{j}+5 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overline{\\mathbf{A}}$ ও $\\overline{\\mathbf{B}}$ স্কেলার গুণনের বিনিময় সূত্র মেনে চলে— ব্যাখ্যা কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$(\\overline{\\mathbf{A}}+\\overline{\\mathbf{B}})$ এর উপর $(\\overline{\\mathbf{A}}-\\overline{\\mathbf{B}})$ এর লম্ব অভিক্ষেপ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overline{\\mathbf{A}}$ ও $\\overline{\\mathbf{B}}$ সামন্তরিকের সন্নিহিত বাহু ধরে সামন্তরিকটির ক্ষেত্রফল নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_74",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\vec{A}=2 \\hat{i}+\\hat{j}+\\hat{k}, $$\\vec{B}=3 \\hat{i}-\\hat{j}+\\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ বিন্দুগামী এবং $\\overrightarrow{\\mathrm{B}}$ এর সমান্তরাল সরলরেখার ভেক্টর সমীকরণ হতে কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ বরাবর $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর লব্ধি ভেক্টরের উপাংশের একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "একটি একক ভেক্টর নির্ণয় কর যা $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ এর সাথে সমতলীয় এবং $\\overrightarrow{\\mathrm{A}}$ এর উপর লম্ব ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_75",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overrightarrow{O A}=2 \\hat{i}-3 \\hat{j}+5 \\hat{k}, $$\\overrightarrow{O B}=2 \\hat{i}+2 \\hat{j}-3 \\hat{k}$ এবং $O$ মূলবিন্দু।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$3 \\hat{\\mathbf{j}}+5 \\hat{\\mathbf{k}}$ কোন তলে অবস্থান করে – ব্যাখ্যা কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$(1,3,-5)$ বিন্দুগামী $\\overrightarrow{\\mathrm{AB}}$ এর সমান্তরাল সরলরেখার কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$AB$ এর মধ্যবিন্দু $D$ হলে, $\\triangle \\mathrm{OAD}$ এর ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_76",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "চিত্রে, $OABC$ একটি সামান্তরিক।",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(15).png?alt=media&token=4959c58c-2f49-464e-9515-f37a70dc280e"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\overrightarrow{\\mathrm{AC}}|$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$AB$ এর ভেক্টর  সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$A$ ও $C$ বিন্দুদ্বয় যে তলে অবস্থিত তার উপর লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_77",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\vec{A}=3 \\hat{i}+\\lambda \\hat{j}$$-5 \\hat{k}, \\vec{B}=2 \\hat{i}$$-6 \\hat{j}+3 \\hat{k}$\n$\\vec{C}=5 \\hat{i}-3 \\hat{j}+6 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টর দুইটির মধ্যবর্তী কোণ সূক্ষ্মকোণ হলে $\\lambda$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{B}}$ ও $\\overrightarrow{\\mathrm{C}}$ কোনো ত্রিভুজের বাহু হলে ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ এর দিকে একক ভেক্টর $\\hat{\\mathbf{A}}$ নির্ণয় কর যা $\\overrightarrow{\\mathrm{B}}$ ও $\\overrightarrow{\\mathrm{C}}$ এর সাথে সমতলীয় ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_78",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$OA$ ও $OB$ এর মধ্যবিন্দু যথাক্রমে $P$ ও $Q$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(16).png?alt=media&token=1c422122-3b3d-4c9f-83be-e710b45c6490"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$AB$ এর ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, $P Q \\| A B$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{O A}$ ও $\\overrightarrow{\\mathrm{OB}}$ কে সামান্তরিকের সন্নিহিত বাহু ধরে সামান্তরিকটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_79",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$P$ ও $Q$ বিন্দুর অবস্থান ভেক্টর\n$\\overrightarrow{\\mathrm{P}}=3 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}, $$\\overrightarrow{\\mathrm{Q}}=2 \\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$PQ$ এর ভেক্টর সমীকরণ হতে এর কার্তেসীয় সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "অভিক্ষেপ ব্যবহার করে $\\overrightarrow{\\mathbf{P}}$ বরাবর $\\overrightarrow{\\mathbf{Q}}$ এর অংশক নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathbf{P}}$ ও $\\overrightarrow{\\mathbf{Q}}$ কে সামন্তরিকের সন্নিহিত বাহু ধরে সামন্তরিকের ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_80",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(17).png?alt=media&token=f53cbfa8-a101-4509-9142-5e9950d16bd0"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{BC}}$ এর ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OB}}$ ও $\\overrightarrow{\\mathrm{OC}}$ ভেক্টর দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\triangle \\mathrm{ABC}$ এর $A B$ ও $AC$ বাহুর মধ্যবিন্দু যথাক্রমে $D$ ও $E$ হলে প্রমাণ কর যে,$\\mathrm {D E|| B C}$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_81",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\triangle \\mathrm{ABC}$ এ, $A D \\perp B C $ এবং $\\text { BC }$ এর মধ্যবিন্দু $E.$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(18).png?alt=media&token=856ede6a-31eb-45ee-a4d8-6ff320fdd481"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$AC$ এর ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$BD$ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর গুণনের সাহায্যে $AD$ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_82",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\mathrm{O}(0,0,0)$ বিন্দুর সাপেক্ষে $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ বিন্দুর অবস্থান ভেক্টর\nযথাক্রমে $3 \\hat{i}+2 \\hat{j}+4 \\hat{k}$ ও $\\hat{i}-\\hat{j}+2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$P(5,-3,1), Q(3,-1,-2)$ এর সংযোগ রেখাংশকে $R$ বিন্দু $3 : 4$ অনুপাতে অন্তর্বিভক্ত করলে $\\overrightarrow{\\mathrm{OR}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমতলীয় ভেক্টর",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}+\\overrightarrow{\\mathrm{OB}}$ ও $\\overrightarrow{\\mathrm{OA}}-\\overrightarrow{\\mathrm{OB}}$ এর মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমতলীয় ভেক্টর",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$O$ হতে $AB$ এর লম্ব দূরত্ব নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমতলীয় ভেক্টর",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_83",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "মূলবিন্দু $O$ এর সাপেক্ষে $A, B, C$ এর অবস্থান ভেক্টর \nযথাক্রমে $\\overline{\\mathrm{A}}=2 \\hat{\\mathrm{i}}+\\lambda \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}, $$\\overline{\\mathrm{B}}=6 \\hat{\\mathrm{i}}+6 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}}, $$\\overline{\\mathrm{C}}=2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+6 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "A ভেক্টরের মান ও $\\overrightarrow{\\mathrm{A}}$ ভেক্টরের উপর $\\overrightarrow{\\mathrm{B}}$ ভেক্টরের লম্ব অভিক্ষেপকে সন্নিহিত বাহু \nধরে অঙ্কিত আয়তক্ষেত্রের ক্ষেত্রফল 9 বর্গ একক হলে $\\lambda$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overline{\\mathrm{A}}, \\overline{\\mathrm{B}}$ ও $\\overline{\\mathbf{C}}$ সমতলীয় হলে $\\lambda$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overline{\\mathbf{B}}$ ভেক্টর বরাবর $\\bar{c}$ ভেক্টরের উপাংশ y অক্ষের সাথে যে কোণ উৎপন্ন করে তা নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_84",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\mathrm{O}(0,0,0)$ বিন্দুর সাপেক্ষে $P, Q$ ও $R$ বিন্দুর অবস্থান\nভেক্টর $\\overrightarrow{\\mathrm{P}}=2 \\hat{\\mathrm{i}}+n \\hat{\\mathrm{j}}-\\hat{\\mathrm{k}}, \\overline{\\mathrm{Q}}$$=6 \\hat{\\mathrm{i}}+6 \\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}}, \\overline{\\mathrm{R}}$$=3 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "একটি সরলরেখার ভেক্টর সমীকরণ হতে কার্তেসীয় সমীকরণ নির্ণয় কর যা $Q$ ও $R$ বিন্দু দিয়ে অতিক্রম করে",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overline{\\mathrm{P}}$ ও $\\overline{\\mathrm{Q}}$ কোনো ত্রিভুজের বাহু হলে এবং ত্রিভুজটির ক্ষেত্রফল $9$ বর্গ একক হলে $n$ এর মান নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overline{\\mathrm{P}}$ ও $\\overline{\\mathrm{P}}$ এর লব্ধি বরাবর $\\overline{\\mathrm{P}}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_85",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overrightarrow{O A}=3 \\hat{i}-6 \\hat{j}+2 \\hat{k}, $$\\overrightarrow{O B}=2 \\hat{i}+3 \\hat{j}-4 \\hat{k} \\text {}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm {P}(2,-1,3)$ ও $Q(3,2,-4)$ বিন্দুগামী সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{O A}+\\overrightarrow{O B}$ ও $\\overrightarrow{O B}-\\overrightarrow{O A}$ এর মধ্যবর্তী কোণ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}$ ও $\\overrightarrow{\\mathrm{OB}}$ ভেক্টরম্বয়ের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_86",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overrightarrow{\\mathrm{OA}}$$=5 \\hat{\\mathrm{i}}+4 \\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}}$  ও $\\overrightarrow{O B}$$=2 \\hat{i}-3 \\hat{j}+6 \\hat{k}$ একটি সামান্তরিকের সন্নিহিত বাহু ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "সামান্তরিকটির কর্ণদ্বয়ের ছেদবিন্দুর অবস্থান ভেক্টর নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "সামান্তরিকটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}$ ভেক্টর বরাবর $\\overrightarrow{\\mathrm{OB}}$ ভেক্টরের উপাংশ y অক্ষের সাথে যে y কোণ উৎপন্ন করে তা নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_87",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "চিত্রে, $\\overrightarrow{O A}=4 \\hat{i}+5 \\hat{j}+\\hat{k}, $$\\overrightarrow{O B}=2 \\hat{i}+4 \\hat{j}-\\hat{k},$$ \\overrightarrow{O C}=3 \\hat{i}+6 \\hat{j}-3 \\hat{k}$",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(19).png?alt=media&token=52c759e9-df49-487e-a492-b3f5a8141dcf"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$AB$ এর মধ্যবিন্দুর অবস্থান ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, $\\mathrm{ABC}$ একটি সমকোণী সমদ্বিবাহু ত্রিভুজ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}$ ও $\\overrightarrow{\\mathrm{OB}}$ ভেক্টরদ্বয় দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_88",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(20).png?alt=media&token=50d72abd-eba6-404a-856f-2705b4a65265"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\vec{a}=\\hat{i}+3 \\hat{j}-2 \\hat{k}, \\vec{b}=4 \\hat{i}-2 \\hat{j}+4 \\hat{k}$ হলে $|\\vec{a}-3 \\overrightarrow{\\mathrm{b}}|$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$OA, OB, OC$ একটি আয়তাকার ঘনবস্তুর ধার হলে ঘনবস্তুটির আয়তন নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$ABC$ ত্রিভুজের মধ্যমা তিনটি $AD, BE$ ও $CF$ হলে, $A, B, C$\nএর স্থানাঙ্ক ব্যবহার করে প্রমাণ কর যে,$\\overrightarrow{\\mathbf{AD}}+\\overrightarrow{\\mathbf{BE}}+\\overrightarrow{\\mathbf{CF}}=\\underline 0$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "প্রমাণ বা প্রতিপাদন",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_89",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "তিনটি বিন্দুর অবস্থান ভেক্টর $\\hat{i}+2 \\hat{j}+3 \\hat{k},-\\hat{i}-\\hat{j}+8 \\hat{k}$ এবং $-4 \\hat{i}+4 \\hat{j}+6 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "প্রথম ভেক্টরের মান ও এ ভেক্টরের উপর দ্বিতীয় ভেক্টরের লম্ব অভিক্ষেপকে সন্নিহিত বাহু \nধরে অঙ্কিত আয়তক্ষেত্রের ক্ষেত্রফল নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে, বিন্দু তিনটি একটি সমবাহু ত্রিভুজ গঠন করে।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "x, y ও z অক্ষের উপর ভেক্টরগুলির অভিক্ষেপ দ্বারা গঠিত ম্যাট্রিক্স $A$ হলে $\\mathrm A^{-1}$ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_90",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overline{\\mathrm{P}}=2 \\hat{i}-\\hat{j}-\\hat{k}, $$\\bar{Q}=\\hat{i}-2 \\hat{j}+\\hat{k}, $$\\bar{R}=\\hat{i}-\\hat{j}+2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "x-অক্ষের উপর $\\overline{\\mathrm{P}}-\\overline{\\mathrm{Q}}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overline{\\mathrm {P}}$ ও $\\overline{\\mathrm {Q}}$ যে তলে অবস্থিত তার উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overline{\\mathrm{P}}, \\overline{\\mathrm{Q}}$ ও $\\overline{\\mathrm{R}}$ ভেক্টরের $\\hat{\\mathrm i}, \\hat{\\mathrm j}$ ও $\\hat{\\mathrm{k}}$ এর সহগগুলিকে কলাম বিবেচনা করে \nগঠিত ম্যাট্রিক্স $A$ হলে $\\mathrm A^{-1}$ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_91",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overline{\\mathrm{P}}=3 \\hat{i}+4 \\hat{j}-\\hat{k},$$ \\bar{Q}=\\hat{i}+3 \\hat{k}, $$\\bar{R}=2 \\hat{i}+5 \\hat{j}-4 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overline{\\mathrm {P}}$ ও $\\overline{\\mathrm{Q}}$ এর লব্ধি ভেক্টর x-অক্ষের সাথে যে কোণ উৎপন্ন করে তা নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overline{\\mathrm{P}}$ ও $\\overline{\\mathrm{R}}$ ভেক্টর দুইটি দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overline{\\mathrm{P}}, \\overline{\\mathrm{Q}}$ ও $\\overline{\\mathrm {R}}$ ভেক্টরগুলির $\\hat{i}, \\hat{j}, \\hat{k}$ এর সহগ দ্বারা গঠিত ম্যাট্রিক্স $\\mathrm A$ হলে $\\mathrm A^{-1}$ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_92",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\bar{P}=x \\hat{i}+y \\hat{j}+2 z \\hat{k}, $$\\bar{Q}=y \\hat{i}+3 z \\hat{j}-2 x \\hat{k}$\nএবং $R=$$\\left[\\begin{array}{ccc}x-2 y & z-y & y \\\\y & -z & z-y-1 \\\\y-1 & z-2 & x-3\\end{array}\\right]$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে $\\mathrm{A}(0,1,2)$ ও $\\mathrm{B}(-1,3,0)$ বিন্দু দুইটির দূরত্ব নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\left[\\begin{array}{cc}x-1 & 3 \\\\z & y+1\\end{array}\\right]$$=\\left[\\begin{array}{cc}2 & 3 \\\\2-z & 5-y\\end{array}\\right]$হলে, $\\overline{\\mathbf{P}}$ ও $\\overline{\\mathbf{Q}}$ এর লব্ধি ভেক্টরের উপর $\\overline{\\mathbf{P}}$ ভেক্টরের অভিক্ষেপ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$x=4, y=2, z=3$ হলে $\\mathrm{R}^{-1}$ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "উপাংশ ও লম্ব অভিক্ষেপ",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_93",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "কেতাব স্যার",
+    "উদ্দীপক": {
+      "title": "কেতাব স্যার",
+      "description": "$\\overline{\\mathrm{A}}=4 \\hat{\\mathrm{i}}+7 \\hat{\\mathrm{j}}-3 \\hat{\\mathrm{k}}$ এবং $\\vec{B}=3 \\hat{i}+4 \\hat{j}+7 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overline{\\mathrm{U}}=2 \\hat{i}+5 \\hat{k}$ এবং $\\bar{V}=3 \\hat{j}+2 \\hat{k}$ এর লব্ধি ভেক্টরের মান নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "উদ্দীপকের আলোকে $\\bar{A}$ ও $\\bar{B}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকের আলোকে $\\bar{A}$ ও $\\bar{A}$ ভেক্টরদ্বয়ের লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "কেতাব স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_94",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\vec{a}=3 \\hat{i}+2 \\hat{j}-\\hat{k}, $$\\vec{b}=5 \\hat{i}-4 \\hat{j}+\\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{a}}$ ও $\\vec{b}$ এর লব্ধির মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\vec{a}$ ও $\\vec{b}$ এর মধ্যবর্তী কোণ বের করে তার সাহায্যে  $\\vec{a}$ বরাবর $\\vec{b}$ এর অভিক্ষেপ নির্ণয় কর।\nগ: $\\vec{b}$ ও $\\vec{b}$ ভেক্টর দুটির উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_95",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\vec{A}=3 \\hat{i}-6 \\hat{j}+2 \\hat{k}, $$\\vec{B}=2 \\hat{i}+3 \\hat{j}-4 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$P(2,-1,3), Q(3,2,-4)$ হলে $\\overrightarrow{\\mathrm{PQ}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\vec{A}$ ও $\\overrightarrow{\\mathrm{B}}$ এর মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\vec{A}$ ও $\\vec{B}$ ভেক্টরদ্বয়ের উপর একটি লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_96",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\vec{B}=2 \\hat{i}-2 \\hat{j}+\\hat{k}, $$\\vec{C}=3 \\hat{i}-4 \\hat{j}+\\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$2 \\hat{i}+3 \\hat{k}$ ভেক্টরটি কোন তলে অবস্থান করে- ব্যাখ্যা কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm {B}}$ বরাবর $\\overrightarrow{\\mathrm{C}}$ এর উপাংশ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathbf{B}}$ ও $\\overrightarrow{\\mathbf{C}}$ এর উপর লম্ব একক ভেক্টর নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_97",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\overrightarrow{\\mathrm{OA}}$ এবং $\\overrightarrow{\\mathrm{OC}}$ যথাক্রমে $A$ এবং $C$ বিন্দুর অবস্থান ভেক্টর।",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(21).png?alt=media&token=260aa8f0-8098-4374-9323-2a214bb4876f"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AC}}$ এর মান নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}$ ভেক্টর বরাবর $\\overrightarrow{\\mathrm{OC}}$ ভেক্টরের উপাংশ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\text { OABC }$ সামান্তরিকটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_98",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\vec{A}=3 \\hat{i}-2 \\hat{j}+\\hat{k}$ এবং $\\overrightarrow{\\mathrm{B}}=\\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+5 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ স্কেলার গুণনের বিনিময় সূত্র মেনে চলে- ব্যাখ্যা কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$(\\overrightarrow{\\mathrm{A}}+\\overrightarrow{\\mathrm{B}})$ এর উপরে $(\\vec{A}-\\vec{B})$ এর লম্ব অভিক্ষেপ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টরের সমতলের উপর একটি লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_99",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\overrightarrow{\\mathrm{P}}=\\overrightarrow{\\mathrm{OA}}=3 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}$$+4 \\hat{\\mathrm{k}} ; \\overrightarrow{\\mathrm{Q}}$$=\\overrightarrow{\\mathrm{OB}}$$=3 \\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ যেখানে $O$ মূল বিন্দু।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$|\\vec{P}+\\vec{Q}|=$ কত?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "দেখাও যে,$(\\vec{P} \\times \\vec{Q}) $$\\cdot(\\vec{P}-\\vec{Q})=0$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ এর মধ্যবিন্দুর অবস্থান ভেক্টরের সাথে অক্ষত্রয়ের উৎপন্ন কোণগুলোর মধ্যে \nবৃহত্তম কোণটি নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_100",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\vec{a}=2 \\hat{i}+n \\hat{j}-\\hat{k},$$ \\vec{b}=6 \\hat{i}+6 \\hat{j}-3 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{p}}=2 \\hat{\\mathrm{i}}+\\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}}$ ভেক্টরটি z অক্ষের সাথে যে কোণ উৎপন্ন করে তা নির্ণয় কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$n$ এর মান কত হলে $\\overrightarrow{\\mathrm {a}}$ ও $\\overrightarrow{\\mathrm{b}}$ পরস্পর সমান্তরাল হবে?",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$n = 3$ হলে, $(\\vec{a}+\\vec{b})$ বরাবর $\\vec{b}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_101",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "পাশের চিত্রে $\\text { ОАCB }$ একটি সামান্তরিক।",
+      "image": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHSC%20math%201st%20%20paper%20panjeeri%20guide%20part2%20chapter%202(22).png?alt=media&token=bc376cd3-124a-46e9-92db-44a9eff4de2e"
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{AB}}$ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমতলীয় ভেক্টর",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{OA}}$ বরাবর $\\overrightarrow{\\mathrm{OB}}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমতলীয় ভেক্টর",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\triangle \\mathrm{OAC}$ এর ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমতলীয় ভেক্টর",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_102",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\vec{P}=2 \\hat{i}-\\hat{j}+\\hat{k} ; $$\\vec{Q}=3 \\hat{i}-2 \\hat{j}+4 \\hat{k}$\nএবং $\\vec{R}=a \\hat{i}-3 $$\\hat{j}+5 \\hat{k}$ তিনটি ভেক্টর।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\overrightarrow{\\mathbf{p}}$ এর দিক বরাবর একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$a$ এর কোন মানের জন্য $(\\vec{P} \\times \\vec{Q}) \\cdot \\vec{R}=0$ হবে ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{P}}+\\overrightarrow{\\mathrm{Q}}$ বরাবর $\\overrightarrow{\\mathrm{Q}}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_103",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\text { A, B, C }$ বিন্দুর অবস্থান ভেক্টর যথাক্রমে\n$\\hat{\\mathrm{i}}+2 \\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}},$$-\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+8 \\hat{\\mathrm{k}}$ এবং $-4 \\hat{i}+4 \\hat{j}+6 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$0.8 \\hat{\\mathrm{i}}+\\mathrm{mk}$ একটি একক ভেক্টর হলে $\\mathrm m$ এর মান কত?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "১ম দুইটি ভেক্টরের লব্ধি ভেক্টর এর উপর ৩য় ভেক্টরটির অভিক্ষেপ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "দেখাও যে, $A, B, C$ বিন্দু তিনটি একটি সমবাহু ত্রিভুজ গঠন করে।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_104",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "মূল বিন্দু $O$ এর সাপেক্ষে $L$ ও $M$ এর অবস্থান ভেক্টর যথাক্রমে $2 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+3 \\hat{\\mathrm{k}}$ এবং $5 \\hat{i}+\\hat{j}+c \\hat{k} ; c$ একটি ধ্রুবক। এমন একটি বিন্দু $N$ নেয়া হলো, যাতে $\\text { OLMN }$ একটি আয়তক্ষেত্র হয় ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$2 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+4 \\hat{\\mathrm{k}}$ ভেক্টরটির দিক বরাবর একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$N$ বিন্দুর অবস্থান ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$N$ বিন্দুর স্থানাঙ্ক $(2,3,4)$ হলে $MN$ সরলরেখাটির ভেক্টর  সমীকরণ নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_105",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$A=2 \\hat{i}-6 \\hat{j}-3 \\hat{k}, $$B=4 \\hat{i}+3 \\hat{j}-\\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\mathrm {m \\hat{i}+0.6 \\hat{j}}$ একটি একক ভেক্টর হলে $m$ এর মান কত ?",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}$ ভেক্টরের দিক বরাবর $\\overrightarrow{\\mathrm{B}}$ ভেক্টরের উপাংশ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$(\\vec{A}+\\vec{B})$ ও $\\overrightarrow{\\mathrm{B}}$ ভেক্টর দুইটির লম্ব একক ভেক্টর নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_106",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "$\\mathrm{A},(1,3,2), $$\\mathrm{B}(2,-1,1)$ ও $\\mathrm{C}(-1,2,3)$ বিন্দু তিনটি একটি ত্রিভুজের তিনটি শীর্ষবিন্দু এবং $O$ বিন্দু",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\text { PQR }$ ত্রিভুজের $P$ বিন্দুগামী মধ্যমাকে $\\vec{\\mathrm{PQ}}$ ও $\\vec{\\mathrm{RP}}$ এর মাধ্যমে প্রকাশ কর",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\angle \\mathrm{AOC}$ নির্ণয় কর ।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_107",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "রফিকুল স্যার",
+    "উদ্দীপক": {
+      "title": "রফিকুল স্যার",
+      "description": "(i) আটলান্টিক মহাসাগরে দুইটি সাবমেরিন সরলরেখা বরাবর চলছে। মূলবিন্দু $O$ এর সাপেক্ষে তাদের গতিপথের ভেক্টর\nসমীকরণ যথাক্রমে: $r=3 \\hat{i}+4 \\hat{j}-5 \\hat{k}+\\lambda$$(\\hat{i}-2 \\hat{j}+2 \\hat{k})$ এবং $r=9 \\hat{i}+\\hat{j}-2 \\hat{k}$$+\\mu(4 \\hat{i}+\\hat{j}-\\hat{k})$\n(ii) P বিন্দুর স্থানাঙ্ক $( 6,0, − 2 )$ এবং $Q$ বিন্দুর অবস্থান ভেক্টর $10 \\hat{j}-11 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "দেখাও যে, সাবমেরিন দুইটির গতিপথ পরস্পর লম্ব।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "বিশেষ সমস্যাবলী",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "সাবমেরিনদ্বয়ের গতিপথের ছেদবিন্দু $\\mathrm A$ এর অবস্থান ভেক্টর নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "বিশেষ সমস্যাবলী",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "প্রতি একক দূরত্ব $10 \\sqrt{217}$ মিটার হলে $\\text { PQ }$ দূরত্ব কিলোমিটারে নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "বিশেষ সমস্যাবলী",
+        "source": "রফিকুল স্যার",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_108",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "NDC 2020",
+    "উদ্দীপক": {
+      "title": "NDC 2020",
+      "description": "$\\vec{A}=2 \\hat{i}+2 \\hat{j}-\\hat{k}$ এবং $\\overrightarrow{\\mathrm{B}}=\\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+5 \\hat{k}$ দুইটি ভেক্টর ।",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\vec{A}$ বরাবর $\\vec{B}$ এর উপাংশ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "NDC 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\vec{A}$ ভেক্টরটি অক্ষত্রয়ের সাথে যে কোণগুলো উৎপন্ন করে তা নির্ণয় কর ৷",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "NDC 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, অর্ধবৃত্তস্থ কোণ এক সমকোণ ৷",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "NDC 2020",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_109",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "NISCD 2020",
+    "উদ্দীপক": {
+      "title": "NISCD 2020",
+      "description": "দৃশ্যকল্প—১ : $D=\\left\\lvert\\, \\begin{array}{c}a \\\\b \\\\a x+b y\\end{array}\\right.$$\\quad$$\\begin{array}{c}b \\\\c \\\\b x+c y\\end{array}$$\\quad$$\\left.\\begin{array}{ccc}a x+b y \\\\b x+c y \\\\ 0\\end{array}\\right|$\nদৃশ্যকল্প-২ : $\\vec{A}=\\hat{i}+2 \\hat{j}-3 \\hat{k}, \\vec{B}=a \\hat{i}-\\hat{j}+2 \\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$\\vec{A}$ ভেক্টরটি $z$ অক্ষের সাথে যে কোণ উৎপন্ন করে তার পরিমাণ নির্ণয় কর ৷",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "NISCD 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$D$ কে উৎপাদকে বিশ্লেষণ কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "NISCD 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{A}}+\\overrightarrow{\\mathrm{B}}$ ও $\\vec{A}-\\vec{B}$ পরস্পর লম্ব হলে, $a$ এর মান নির্ণয় কর।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "ডট গুণন",
+        "source": "NISCD 2020",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_110",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "JGCC 2020",
+    "উদ্দীপক": {
+      "title": "JGCC 2020",
+      "description": "তিনটি বিন্দুর অবস্থান ভেক্টর যথাক্রমে $\\hat{i}+2 \\hat{j}+3 \\hat{k},$$-\\hat{i}-\\hat{j}+8 \\hat{k}$ ও\n$-4 \\hat{i}+4 \\hat{j}+6 \\hat{k}$ এবং $D=$$\\left|\\begin{array}{ccc}(b+c)^{2} & a^{2} & a^{2} \\\\b^{2} & (c+a)^{2} & b^{2} \\\\c^{2} & c^{2} & (a+b)^{2}\\end{array}\\right|$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "$-\\hat{i}-\\hat{j}+8 \\hat{k}$ ও $-4 \\hat{i}+4 \\hat{j}+6 \\hat{k}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "JGCC 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "প্রমাণ কর যে, $D=2 a b c(a+b+c)^{3}$",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "JGCC 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "বিন্দু তিনটি দ্বারা কী ধরনের ত্রিভুজ গঠন করা যায় ?",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "JGCC 2020",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_111",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "GECP 2020",
+    "উদ্দীপক": {
+      "title": "GECP 2020",
+      "description": "$\\overrightarrow{\\mathrm{A}}=\\hat{\\mathrm{i}}-2 \\hat{\\mathrm{j}}-2 \\hat{\\mathrm{k}}, \\overrightarrow{\\mathrm{B}}=6 \\hat{\\mathrm{i}}+3 \\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}, \\overrightarrow{\\mathrm{C}}=\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+2 \\hat{\\mathrm{k}}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "উদাহরণসহ বি-প্রতিসম ম্যাট্রিক্স ব্যাখ্যা কর ।",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "বিশেষ সমস্যাবলী",
+        "source": "GECP 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\vec{A}$  বিন্দুগামী এবং $\\overrightarrow{\\mathrm{B}}$ ভেক্টরের সমান্তরাল সরলরেখার পরামিতিক সমীকরণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "বিশেষ সমস্যাবলী",
+        "source": "GECP 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "উদ্দীপকে উল্লেখিত ভেক্টরগুলির $\\hat{\\mathrm{i}}, \\hat{\\mathrm{j}}, \\hat{\\mathrm{k}}$ এর সহগ দ্বারা গঠিত ম্যাট্রিক্স $P$ হলে নির্ণায়কের \nসাহায্যে $\\mathrm{PX}=\\mathrm{Q}$ সমীকরণ জোটের সমাধান কর যেখানে $X=\\left[\\begin{array}{ll}x & z\\end{array}\\right]^{t}$ এবং $Q=\\left[\\begin{array}{lll}2 & 3 & 4\\end{array}\\right]^{t} .$",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "বিশেষ সমস্যাবলী",
+        "source": "GECP 2020",
+        "উত্তর": ""
+      }
+    ]
+  },
+  {
+    "id": "cq_ch02_112",
+    "subject": "উচ্চতর গণিত ১ম পত্র",
+    "chapter_no": "ch02",
+    "chapter": "ভেক্টর (HSC - গণিত)",
+    "source": "BAFSCC 2020",
+    "উদ্দীপক": {
+      "title": "BAFSCC 2020",
+      "description": "$\\vec{A}=2 \\hat{i}-\\hat{j}+2 \\hat{k}, $$\\vec{B}=2 \\hat{i}-6 \\hat{j}-3 \\hat{k}$ এবং $\\vec{C}=4 \\hat{i}+3 \\hat{j}-\\hat{k}$",
+      "image": ""
+    },
+    "প্রশ্নাবলী": [
+      {
+        "ক্রমিক": "ক",
+        "প্রশ্ন": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে,\n$\\cos A=\\frac{b^{2}+c^{2}-a^{2}}{2 b c}$",
+        "ধরন": "Knowledge-based",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "BAFSCC 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "খ",
+        "প্রশ্ন": "$\\overrightarrow{\\mathrm{D}}=\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}$ হলে $\\vec{c}$ ও $\\vec{D}$ ভেক্টরের মধ্যবর্তী কোণ নির্ণয় কর।",
+        "ধরন": "Understanding",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "BAFSCC 2020",
+        "উত্তর": ""
+      },
+      {
+        "ক্রমিক": "গ",
+        "প্রশ্ন": "$(\\vec{A}+\\vec{C})$ ভেক্টর বরাবর $(\\vec{A}-\\vec{C})$ ভেক্টরের উপাংশ নির্ণয় কর ।",
+        "ধরন": "Application",
+        "chapter": "ভেক্টর (HSC - গণিত)",
+        "topic": "সমন্বিত টপিক",
+        "source": "BAFSCC 2020",
+        "উত্তর": ""
+      }
+    ]
+  }
+]
