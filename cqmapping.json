@@ -53,14 +53,304 @@
     "বিষয়": "উচ্চতর গণিত ২য় পত্র",
     "অধ্যায়": {
       "বাস্তব সংখ্যা ও অসমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH01.json",
-      "বহুপদী ও বহুপদী সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH02.json",
+      "যোগাশ্রয়ী প্রোগ্রাম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH02.json",
       "জটিল সংখ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH03.json",
-      "কণিক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH04.json",
+      "বহুপদী ও বহুপদী সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH04.json",
       "দ্বিপদী বিস্তৃতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH05.json",
-      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH06.json",
-      "স্থিতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH07.json",
-      "গতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH08.json",
-      "সম্ভাবনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH09.json"
+      "কণিক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH06.json",
+      "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH07.json",
+      "স্থিতিবিদ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH08.json",
+      "সরলরেখায় বা সমতলে চলমান কণার গতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH09.json",
+      "বিস্তার পরিমাপ ও সম্ভাবনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/HM02CH10.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "জীববিজ্ঞান ১ম পত্র",
+    "অধ্যায়": {
+      "কোষ ও কোষের গঠন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH01.json",
+      "কোষ বিভাজন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH02.json",
+      "কোষ রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH03.json",
+      "অণুজীব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH04.json",
+      "শৈবাল ও ছত্রাক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH05.json",
+      "ব্রায়োফাইটা ও টেরিডোফাইটা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH06.json",
+      "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH07.json",
+      "টিস্যু ও টিস্যুতন্ত্র": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH08.json",
+      "উদ্ভিদ শারীরতত্ত্ব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH09.json",
+      "উদ্ভিদ প্রজনন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH10.json",
+      "জীব প্রযুক্তি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH11.json",
+      "জীবের পরিবেশ, বিস্তার ও সংরক্ষণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B01CH12.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "জীববিজ্ঞান ২য় পত্র",
+    "অধ্যায়": {
+      "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH01.json",
+      "প্রাণীর পরিচিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH02.json",
+      "মানব শারীরতত্ত্বঃ পরিপাক ও শোষণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH03.json",
+      "মানব শারীরতত্ত্বঃ রক্ত ও সংবহন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH04.json",
+      "মানব শারীরতত্ত্বঃ শ্বসন ও শ্বাসক্রিয়া": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH05.json",
+      "মানব শারীরতত্ত্বঃ বর্জ্য ও নিষ্কাশন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH06.json",
+      "মানব শারীরতত্ত্বঃ চলন ও অঙ্গচালনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH07.json",
+      "মানব শারীরতত্ত্বঃ সমন্বয় ও নিয়ন্ত্রণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH08.json",
+      "মানব জীবনের ধারাবাহিকতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH09.json",
+      "মানবদেহের প্রতিরক্ষা (ইমিউনিটি)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH10.json",
+      "জিনতত্ত্ব ও বিবর্তন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH11.json",
+      "প্রাণীর আচরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/B02CH12.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "রসায়ন ১ম পত্র",
+    "অধ্যায়": {
+      "ল্যাবরেটরীর নিরাপদ ব্যবহার": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C01CH01.json",
+      "গুণগত রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C01CH02.json",
+      "মৌলের পর্যায়বৃত্তিক ধর্ম ও রাসায়নিক বন্ধন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C01CH03.json",
+      "রাসায়নিক পরিবর্তন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C01CH04.json",
+      "কর্মমুখী রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C01CH05.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "রসায়ন ২য় পত্র",
+    "অধ্যায়": {
+      "পরিবেশ রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C02CH01.json",
+      "জৈব রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C02CH02.json",
+      "পরিমাণগত রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C02CH03.json",
+      "তড়িৎ রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C02CH04.json",
+      "অর্থনৈতিক রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/C02CH05.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "বাংলা ১ম পত্র",
+    "অধ্যায়": {
+      "উপন্যাস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN01CH01.json",
+      "কবিতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN01CH02.json",
+      "গদ্য": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN01CH03.json",
+      "নাটক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN01CH04.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "বাংলা ২য় পত্র",
+    "অধ্যায়": {
+      "ব্যাকরণ (বোর্ড পরীক্ষা)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN02CH01.json",
+      "ব্যাকরণ (ভর্তি পরীক্ষা)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN02CH02.json",
+      "লিখিত/নির্মিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/BN02CH03.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "English 1st Paper",
+    "অধ্যায়": {
+      "Text Book Analysis (Passage)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN01CH01.json",
+      "Cloze Test & Rearranging": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN01CH02.json",
+      "Writing Part": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN01CH03.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "English 2nd Paper",
+    "অধ্যায়": {
+      "Admission Grammar": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN02CH01.json",
+      "Admission Vocabulary": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN02CH02.json",
+      "Board Exam Grammar": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN02CH03.json",
+      "Writing/Composition": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/EN02CH04.json"
+    }
+  },
+  {
+    "শ্রেণি": "এইচ.এস.সি",
+    "বিষয়": "ICT",
+    "অধ্যায়": {
+      "তথ্য ও যোগাযোগ প্রযুক্তিঃ বিশ্ব ও বাংলাদেশ প্রেক্ষিত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/ICTCH01.json",
+      "কমিউনিকেশন সিস্টেমস ও নেটওয়ার্কিং": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/ICTCH02.json",
+      "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/ICTCH03.json",
+      "ওয়েব ডিজাইন পরিচিতি এবং HTML": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/ICTCH04.json",
+      "প্রোগ্রামিং ভাষা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/ICTCH05.json",
+      "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/ICTCH06.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "উচ্চতর গণিত",
+    "অধ্যায়": {
+      "সেট ও ফাংশন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH01.json",
+      "বীজগাণিতিক রাশি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH02.json",
+      "জ্যামিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH03.json",
+      "জ্যামিতিক অঙ্কন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH04.json",
+      "সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH05.json",
+      "অসমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH06.json",
+      "অসীম ধারা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH07.json",
+      "ত্রিকোণমিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH08.json",
+      "সূচকীয় ও লগারিদমীয় ফাংশন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH09.json",
+      "দ্বিপদী বিস্তৃতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH10.json",
+      "স্থানাঙ্ক জ্যামিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH11.json",
+      "সমতলীয় ভেক্টর": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH12.json",
+      "ঘন জ্যামিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH13.json",
+      "সম্ভাবনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/HMCH14.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "সাধারণ গণিত",
+    "অধ্যায়": {
+      "বাস্তব সংখ্যা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH01.json",
+      "সেট ও ফাংশন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH02.json",
+      "বীজগাণিতিক রাশি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH03.json",
+      "সূচক ও লগারিদম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH04.json",
+      "এক চলকবিশিষ্ট সমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH05.json",
+      "রেখা, কোণ ও ত্রিভুজ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH06.json",
+      "ব্যবহারিক জ্যামিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH07.json",
+      "বৃত্ত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH08.json",
+      "ত্রিকোণমিতিক অনুপাত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH09.json",
+      "দূরত্ব ও উচ্চতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH10.json",
+      "বীজগাণিতিক অনুপাত ও সমানুপাত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH11.json",
+      "দুই চলকবিশিষ্ট সরল সহসমীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH12.json",
+      "সসীম ধারা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH13.json",
+      "অনুপাত, সদৃশতা ও প্রতিসমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH14.json",
+      "ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH15.json",
+      "পরিমিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH16.json",
+      "পরিসংখ্যান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/GMCH17.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "পদার্থ বিজ্ঞান",
+    "অধ্যায়": {
+      "ভৌত রাশি ও পরিমাপ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH01.json",
+      "গতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH02.json",
+      "বল": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH03.json",
+      "কাজ, ক্ষমতা ও শক্তি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH04.json",
+      "পদার্থের অবস্থা ও চাপ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH05.json",
+      "বস্তুর ওপর তাপের প্রভাব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH06.json",
+      "তরঙ্গ ও শব্দ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH07.json",
+      "আলোর প্রতিফলন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH08.json",
+      "আলোর প্রতিসরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH09.json",
+      "স্থির বিদ্যুৎ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH10.json",
+      "চল বিদ্যুৎ ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH11.json",
+      "বিদ্যুতের চৌম্বক ক্রিয়া": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH12.json",
+      "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিকস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH13.json",
+      "জীবন বাঁচাতে পদার্থবিজ্ঞান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/PCH14.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "রসায়ন বিজ্ঞান",
+    "অধ্যায়": {
+      "রসায়নের ধারণা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH01.json",
+      "পদার্থের অবস্থা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH02.json",
+      "পদার্থের গঠন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH03.json",
+      "পর্যায় সারণি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH04.json",
+      "রাসায়নিক বন্ধন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH05.json",
+      "মোলের ধারণা ও রাসায়নিক গণনা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH06.json",
+      "রাসায়নিক বিক্রিয়া": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH07.json",
+      "রসায়ন ও শক্তি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH08.json",
+      "এসিড-ক্ষারক সমতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH09.json",
+      "খনিজ সম্পদঃ ধাতু ও অধাতু": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH10.json",
+      "খনিজ সম্পদঃ জীবাশ্ম": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH11.json",
+      "আমাদের জীবনে রসায়ন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/CCH12.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "জীববিজ্ঞান",
+    "অধ্যায়": {
+      "জীবন পাঠ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH01.json",
+      "জীবকোষ ও টিস্যু": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH02.json",
+      "কোষ বিভাজন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH03.json",
+      "জীবনীশক্তি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH04.json",
+      "খাদ্য, পুষ্টি এবং পরিপাক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH05.json",
+      "জীবে পরিবহন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH06.json",
+      "গ্যাসীয় বিনিময়": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH07.json",
+      "রেচন প্রক্রিয়া": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH08.json",
+      "দৃঢ়তা প্রদান ও চলন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH09.json",
+      "সমন্বয়": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH10.json",
+      "জীবের প্রজনন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH11.json",
+      "জীবের বংশগতি ও বিবর্তন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH12.json",
+      "জীবের পরিবেশ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH13.json",
+      "জীবপ্রযুক্তি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BCH14.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "বাংলা ১ম পত্র",
+    "অধ্যায়": {
+      "উপন্যাস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BN01CH01.json",
+      "কবিতা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BN01CH02.json",
+      "গদ্য": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BN01CH03.json",
+      "নাটক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BN01CH04.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "বাংলা ২য় পত্র",
+    "অধ্যায়": {
+      "ব্যাকরণ (SSC সিলেবাস)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BN02CH01.json",
+      "লিখিত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BN02CH02.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "ইংরেজি ১ম পত্র",
+    "অধ্যায়": {
+      "Cloze Test & Rearranging": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/EN01CH01.json",
+      "Text Book Analysis/Passage": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/EN01CH02.json",
+      "Written": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/EN01CH03.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "ইংরেজি ২য় পত্র",
+    "অধ্যায়": {
+      "Grammar (SSC Syllabus)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/EN02CH01.json",
+      "Written/Composition": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/EN02CH02.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "অধ্যায়": {
+      "তথ্য ও যোগাযোগ প্রযুক্তি এবং আমাদের বাংলাদেশ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ICTCH01.json",
+      "কম্পিউটার রক্ষণাবেক্ষণ ও সাইবার নিরাপত্তা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ICTCH02.json",
+      "ইন্টারনেট ও ওয়েব পরিচিতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ICTCH03.json",
+      "আমার লেখালেখি ও হিসাব": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ICTCH04.json",
+      "মাল্টিমিডিয়া ও গ্রাফিক্স": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ICTCH05.json",
+      "প্রোগ্রামিংয়ের মাধ্যমে সমস্যার সমাধান": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ICTCH06.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "অধ্যায়": {
+      "পূর্ব বাংলার আন্দোলন ও জাতীয়তাবাদের উত্থান (১৯৪৭-১৯৭০)": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH01.json",
+      "স্বাধীন বাংলাদেশ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH02.json",
+      "সৌরজগৎ ও ভূমন্ডল": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH03.json",
+      "বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH04.json",
+      "বাংলাদেশের নদ-নদী ও প্রাকৃতিক সম্পদ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH05.json",
+      "রাষ্ট্র, নাগরিকতা ও আইন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH06.json",
+      "বাংলাদেশ সরকারের বিভিন্ন অঙ্গ ও প্রশাসন ব্যবস্থা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH07.json",
+      "বাংলাদেশের গণতন্ত্র ও নির্বাচন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH08.json",
+      "জাতিসংঘ ও বাংলাদেশ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH09.json",
+      "টেকসই উন্নয়ন অভীষ্ট ( এসডিজি )": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH10.json",
+      "জাতীয় সম্পদ ও অর্থনৈতিক ব্যবস্থা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH11.json",
+      "অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনৈতিক প্রকৃতি": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH12.json",
+      "বাংলাদেশ সরকারের অর্থ ও ব্যাংক ব্যবস্থা": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH13.json",
+      "বাংলাদেশের পরিবার কাঠামো ও সামাজিকীকরণ": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH14.json",
+      "বাংলাদেশের সামাজিক পরিবর্তন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH15.json",
+      "বাংলাদেশের সামাজিক সমস্যা ও এর প্রতিকার": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/BGSCH16.json"
+    }
+  },
+  {
+    "শ্রেণি": "এস.এস.সি",
+    "বিষয়": "ইসলাম ও নৈতিক শিক্ষা",
+    "অধ্যায়": {
+      "আকাইদ ও নৈতিক জীবন": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ISCH01.json",
+      "শরিয়তের উৎস": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ISCH02.json",
+      "ইবাদত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ISCH03.json",
+      "আখলাক": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ISCH04.json",
+      "আদর্শ জীবনচরিত": "https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/SSC/BCQ/ISCH05.json"
     }
   }
 ]
